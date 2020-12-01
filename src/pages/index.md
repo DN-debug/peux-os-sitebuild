@@ -68,7 +68,7 @@ sections:
         icon_class: SV
         new_window: true
         type: action
-      - label: lorem-ipsum
+      - label: Teletypewriter
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
