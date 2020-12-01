@@ -26,10 +26,13 @@ sections:
           panel. The resulting product is a beautiful GUI.
 
       - title: Beautiful yet Secure
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+        content: >+
+          POS doesn't only look good. We tied it with apps that will help you
+          secure your data and privacy.
+
+
+          OH! btw "FISH" is the default shell.
+
       - title: Service Title
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
