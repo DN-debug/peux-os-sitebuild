@@ -16,7 +16,7 @@ sections:
     type: section_grid
     title: Features
     subtitle: ''
-    col_number: two
+    col_number: three
     is_numbered: true
     grid_items:
       - title: Service Title
