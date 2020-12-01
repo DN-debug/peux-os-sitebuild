@@ -59,7 +59,7 @@
                 "label": "Docs",
                 "url": "lorem-ipsum",
                 "style": "link",
-                "icon_class": "fa-wikipedia",
+                "icon_class": "fa-signature",
                 "new_window": false,
                 "type": "action"
             }
