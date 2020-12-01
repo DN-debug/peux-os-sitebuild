@@ -69,7 +69,7 @@ sections:
         new_window: true
         type: action
       - label: Teletypewriter
-        url: lorem-ipsum
+        url: 'https://sourceforge.net/projects/peux-os/files/Teletypewriter/'
         style: link
         icon_class: lorem-ipsum
         new_window: false
