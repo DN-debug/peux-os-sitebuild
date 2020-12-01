@@ -71,7 +71,7 @@ sections:
       - label: Teletypewriter
         url: 'https://sourceforge.net/projects/peux-os/files/Teletypewriter/'
         style: button
-        icon_class: lorem-ipsum
+        icon_class: tty
         new_window: false
         type: action
     type: section_content
