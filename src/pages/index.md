@@ -86,5 +86,6 @@ sections:
       - label: View Mini-Notes
         url: blog
         style: button
+        icon_class: blog
 template: advanced
 ---
