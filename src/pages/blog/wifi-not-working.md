@@ -1,6 +1,6 @@
 ---
 title: Wifi is working
-subtitle: lorem-ipsum
+subtitle: ''
 excerpt: lorem-ipsum
 template: page
 ---
