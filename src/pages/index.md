@@ -87,6 +87,6 @@ sections:
         url: blog
         style: button
         icon_class: blog
-        new_window: true
+        new_window: false
 template: advanced
 ---
