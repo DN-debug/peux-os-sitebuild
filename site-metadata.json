@@ -42,14 +42,6 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Docs",
-                "url": "lorem-ipsum",
-                "style": "link",
-                "icon_class": "fa-wikipedia-w",
-                "new_window": false,
-                "type": "action"
-            },
-            {
                 "label": "Discord",
                 "url": "https://discord.com/login?redirect_to=%2Fchannels%2F783265885728800799%2F783265885728800802",
                 "style": "icon",
@@ -62,6 +54,14 @@
                 "style": "icon",
                 "icon_class": "fa-telegram",
                 "new_window": true
+            },
+            {
+                "label": "Docs",
+                "url": "lorem-ipsum",
+                "style": "link",
+                "icon_class": "fa-wikipedia-w",
+                "new_window": false,
+                "type": "action"
             }
         ]
     },
