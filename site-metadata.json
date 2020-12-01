@@ -12,11 +12,6 @@
                 "style": "link"
             },
             {
-                "label": "Gallery",
-                "url": "/portfolio/",
-                "style": "link"
-            },
-            {
                 "label": "Mini-Notes",
                 "url": "/blog/",
                 "style": "link"
