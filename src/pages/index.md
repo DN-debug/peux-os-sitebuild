@@ -76,7 +76,7 @@ sections:
         type: action
     type: section_content
     image: images/4120254.jpg
-  - section_id: latest-posts
+  - section_id: mini-notes
     type: section_posts
     title: Highlights from Mini-Notes
     subtitle: An optional subtitle of the section
