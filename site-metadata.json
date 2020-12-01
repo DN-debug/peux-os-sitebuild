@@ -30,7 +30,7 @@
         "logo_img": "images/untitled-1.png"
     },
     "footer": {
-        "content": "&copy; Stackbit-Exto. All rights reserved.",
+        "content": "",
         "links": [
             {
                 "label": "Made with Stackbit.",
