@@ -1,5 +1,5 @@
 ---
-title: Wifi is working
+title: Touchpad - double-tap issue
 subtitle: ''
 excerpt: >-
   In most cases, laptop's touchpad should work. However, if it doesn't, then
