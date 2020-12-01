@@ -60,7 +60,7 @@
                 "url": "lorem-ipsum",
                 "style": "link",
                 "icon_class": "fa-wikipedia-w",
-                "new_window": false,
+                "new_window": true,
                 "type": "action"
             }
         ]
