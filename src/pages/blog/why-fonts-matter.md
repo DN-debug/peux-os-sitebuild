@@ -5,7 +5,7 @@ excerpt: >-
   massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
   placerat lorem.
 date: '2020-12-03'
-thumb_image: images/12.jpg
+thumb_image: 'images/41lwu11eA+L._SR600,315_PIWhiteStrip,BottomLeft,0,35_SCLZZZZZZZ_.jpg'
 image: images/12.jpg
 template: post
 ---
