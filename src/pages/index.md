@@ -12,7 +12,7 @@ sections:
       - label: Let's talk
         url: /contact
         style: button
-  - section_id: services
+  - section_id: features
     type: section_grid
     title: Features
     subtitle: An optional subtitle of the section
