@@ -1,7 +1,7 @@
 {
     "description": "Peux OS site theme on stackbit",
     "color_scheme": "light",
-    "accent_color": "pink",
+    "accent_color": "violet",
     "header": {
         "title": "Exto",
         "has_nav": true,
