@@ -1,9 +1,6 @@
 ---
 title: 'Wifi is working '
-excerpt: >-
-  Interdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi quis
-  commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus
-  aenean vel elit.
+excerpt: ''
 date: '2021-01-03'
 template: post
 thumb_image: images/nmtui4.jpg
