@@ -78,7 +78,7 @@ sections:
     image: images/4120254.jpg
   - section_id: latest-posts
     type: section_posts
-    title: 'Highlights from Mini-Notes'' '
+    title: Highlights from Mini-Notes
     subtitle: An optional subtitle of the section
     posts_number: 3
     col_number: three
