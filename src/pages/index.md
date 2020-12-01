@@ -68,6 +68,12 @@ sections:
         icon_class: lorem-ipsum
         new_window: false
         type: action
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        type: action
     type: section_content
     image: images/4120254.jpg
   - section_id: latest-posts
