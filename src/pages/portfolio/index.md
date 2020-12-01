@@ -1,6 +1,6 @@
 ---
 title: Gallery
-subtitle: Few of the screenshots
+subtitle: 'Screenshots w/o '
 layout_style: tiles
 template: portfolio
 ---
