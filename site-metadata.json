@@ -42,7 +42,7 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
+                "label": "Discord",
                 "url": "https://twitter.com/",
                 "style": "icon",
                 "icon_class": "fa-twitter",
