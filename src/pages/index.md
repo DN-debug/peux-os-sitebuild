@@ -80,7 +80,7 @@ sections:
     type: section_posts
     title: Highlights from Mini-Notes
     subtitle: ''
-    posts_number: 3
+    posts_number: 2
     col_number: three
     actions:
       - label: View Mini-Notes
