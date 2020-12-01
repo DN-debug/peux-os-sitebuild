@@ -7,6 +7,7 @@ excerpt: >-
   patched in with the System or you've to explicitly download the respective
   drivers.
 template: page
+image: images/diligent-zebra.jpg
 ---
 ## Lorem ipsum
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
