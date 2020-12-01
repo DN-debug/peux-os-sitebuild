@@ -54,13 +54,6 @@
                 "style": "icon",
                 "icon_class": "fa-instagram",
                 "new_window": true
-            },
-            {
-                "label": "Dribbble",
-                "url": "https://dribbble.com/",
-                "style": "icon",
-                "icon_class": "fa-dribbble",
-                "new_window": true
             }
         ]
     },
