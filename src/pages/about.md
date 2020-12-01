@@ -1,7 +1,6 @@
 ---
 title: 'About '
 subtitle: The story behind the "name"
-image: images/about.jpg
 template: page
 ---
 
