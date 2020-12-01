@@ -1,6 +1,6 @@
 ---
 title: Mini-Notes
-subtitle: 'News, tips and highlights'
+subtitle: Tips and highlights
 hide_title: false
 col_number: two
 template: blog
