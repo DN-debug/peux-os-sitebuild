@@ -2,7 +2,7 @@
 title: Home
 hide_title: true
 sections:
-  - section_id: ''
+  - section_id: home
     type: section_hero
     title: 'PEUX OS -| [ POS ]'
     content: |+
