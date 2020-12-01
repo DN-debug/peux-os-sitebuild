@@ -79,7 +79,7 @@ sections:
   - section_id: mini-notes
     type: section_posts
     title: Highlights from Mini-Notes
-    subtitle: An optional subtitle of the section
+    subtitle: ''
     posts_number: 3
     col_number: three
     actions:
