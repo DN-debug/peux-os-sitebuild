@@ -53,6 +53,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+    image: images/4120254.jpg
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
