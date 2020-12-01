@@ -39,7 +39,7 @@ sections:
           alternatives. For GUI, you may also use Pamac-Manager, along with
           Flatpak and AUR support enabled in its settings.
 
-  - title: lorem-ipsum
+  - title: About
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
