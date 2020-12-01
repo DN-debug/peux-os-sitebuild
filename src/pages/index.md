@@ -25,7 +25,7 @@ sections:
           doesn't implement XFCE panel, rather Polybar and Tint2 as its default
           panel. The resulting product is a beautiful GUI.
 
-      - title: Service Title
+      - title: Beautiful yet Secure
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
