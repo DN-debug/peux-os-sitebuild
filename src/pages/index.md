@@ -2,7 +2,7 @@
 title: Home
 hide_title: true
 sections:
-  - section_id: hero
+  - section_id: '| Beautiful, lightweight and minimal Archlinux-distro'
     type: section_hero
     title: 'PEUX OS -| [ POS ]'
     content: >-
