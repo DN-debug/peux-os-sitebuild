@@ -20,10 +20,11 @@ sections:
     is_numbered: false
     grid_items:
       - title: Customized Environment
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >+
+          POS uses customized lightweight XFCE as its session-manager. It
+          doesn't implement XFCE panel, rather Polybar and Tint2 as its default
+          panel. The resulting product is a beautiful GUI.
+
       - title: Service Title
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
