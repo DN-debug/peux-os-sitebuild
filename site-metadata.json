@@ -25,11 +25,6 @@
                 "label": "About",
                 "url": "/about/",
                 "style": "link"
-            },
-            {
-                "label": "Contact",
-                "url": "/contact/",
-                "style": "link"
             }
         ],
         "logo_img": "images/untitled-1.png"
