@@ -3,11 +3,14 @@ title: 'About '
 subtitle: The story behind the "name"
 template: page
 ---
+POS was initially a customized arch for personal use, later the idea of converting it into a distro came. Initially was named as Pentux OS and then to Peux OS.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+**Why did we change the name?**
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+The idea behind **Pentux** was Linux Logo : Penguin with a Tux.
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+Well, Pentux, as a name, already exists on the internet. So we don't want copyright issues. We then dropped the "T", changing it to Penux. However, the definition in Urban Dictonary states "The metaphorical size of an advanced Linux user's penis after showing dominance by correcting a Linux beginner's statement."
 
-*Thank You for reading!*
+We certainly don't want that name but neither did we want to drop the POS abbreviation. So there comes the French word "Peux", means "can". We can and we did make a distro that's both beautiful and lightweight, includes the best of our personal configurations.
+
+Our goal is to stick to the base-system, that is Arch linux's principles to keep it simple but also, to bring in the modern desktop ideas into it.
