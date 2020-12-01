@@ -62,7 +62,7 @@ sections:
       End-users would be able to configure it as per their choice.
 
     actions:
-      - label: lorem-ipsum
+      - label: Standard Version
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
