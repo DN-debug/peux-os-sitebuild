@@ -40,7 +40,7 @@ sections:
           Flatpak and AUR support enabled in its settings.
 
   - title: Versions
-    section_id: lorem-ipsum
+    section_id: versions
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
