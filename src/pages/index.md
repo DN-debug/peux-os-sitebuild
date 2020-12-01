@@ -9,7 +9,7 @@ sections:
       | Beautiful, lightweight and minimal Archlinux-distro
 
     actions:
-      - label: Let's talk
+      - label: Download
         url: /contact
         style: button
   - section_id: features
