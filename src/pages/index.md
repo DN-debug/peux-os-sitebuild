@@ -17,7 +17,7 @@ sections:
     title: Features
     subtitle: ''
     col_number: three
-    is_numbered: true
+    is_numbered: false
     grid_items:
       - title: Service Title
         content: >-
