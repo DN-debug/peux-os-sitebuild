@@ -83,7 +83,7 @@ sections:
     posts_number: 3
     col_number: three
     actions:
-      - label: View Blog
+      - label: View Mini-Notes
         url: blog
         style: button
 template: advanced
