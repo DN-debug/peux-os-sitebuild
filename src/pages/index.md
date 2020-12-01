@@ -41,7 +41,7 @@ sections:
 
   - title: Versions
     section_id: versions
-    subtitle: lorem-ipsum
+    subtitle: Peux OS comes with two different versions
     content: >-
       ## Lorem ipsum
 
