@@ -1,6 +1,10 @@
 ---
 title: 'Wifi is working '
-excerpt: ''
+excerpt: >-
+  Wifi issues are very common for Linux Systems. Though over years, this has
+  been improved and Linux now supports most of the drivers, that either comes
+  patched in with the System or you've to explicitly download the respective
+  drivers.
 date: '2021-01-03'
 template: post
 thumb_image: images/nmtui4.jpg
