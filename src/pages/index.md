@@ -72,7 +72,7 @@ sections:
         url: 'https://sourceforge.net/projects/peux-os/files/Teletypewriter/'
         style: button
         icon_class: tty
-        new_window: false
+        new_window: true
         type: action
     type: section_content
     image: images/4120254.jpg
