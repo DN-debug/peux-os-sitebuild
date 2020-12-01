@@ -52,7 +52,7 @@
                 "label": "Telegram",
                 "url": "https://t.me/peux_os",
                 "style": "icon",
-                "icon_class": "fa-instagram",
+                "icon_class": "fa-telegram",
                 "new_window": true
             }
         ]
