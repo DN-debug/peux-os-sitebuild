@@ -1,6 +1,6 @@
 ---
 title: Gallery
-subtitle: 'Few '
+subtitle: Few of the screenshots
 layout_style: mosaic
 template: portfolio
 ---
