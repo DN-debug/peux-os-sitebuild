@@ -15,7 +15,7 @@ sections:
   - section_id: features
     type: section_grid
     title: Features
-    subtitle: An optional subtitle of the section
+    subtitle: ''
     col_number: two
     is_numbered: true
     grid_items:
