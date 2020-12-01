@@ -42,15 +42,25 @@ sections:
   - title: Versions
     section_id: versions
     subtitle: Peux OS comes with two different versions
-    content: >-
-      ## Lorem ipsum
+    content: >+
+      **POS - Standard Version** comes with two different tags. LR is for larger
+      resolutions, such as 1920x1080 SR is for standard resolutions, such as
+      1366x720
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
 
-      - Lorem ipsum
+      The reason behind this is that Polybar doesn't have the capability to
+      auto-resize the fonts. Hence on large scale resolutions, the fonts appears
+      to be very small.
 
-      - dolor sit amet
+
+      **Teletypewriter** ( TTY acronym ) is the vanilla-arch with net-installer
+      provided. We know that there are other vanilla-arch installers available.
+      It's not an attempt to reinvent the wheel, rather providing mutiple paths
+      towards the same approach.
+
+
+      End-users would be able to configure it as per their choice.
+
     actions: []
     type: section_content
     image: images/4120254.jpg
