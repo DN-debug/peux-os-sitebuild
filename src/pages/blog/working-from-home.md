@@ -5,7 +5,6 @@ excerpt: >-
   commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus
   aenean vel elit.
 date: '2021-01-03'
-image: images/9.jpg
 template: post
 thumb_image: images/nmtui4.jpg
 ---
