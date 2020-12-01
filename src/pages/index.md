@@ -63,7 +63,7 @@ sections:
 
     actions:
       - label: Standard Version
-        url: lorem-ipsum
+        url: 'https://sourceforge.net/projects/peux-os/files/Standard%20Version/'
         style: link
         icon_class: lorem-ipsum
         new_window: false
