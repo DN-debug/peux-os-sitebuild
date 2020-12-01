@@ -19,7 +19,7 @@ sections:
     col_number: three
     is_numbered: false
     grid_items:
-      - title: Service Title
+      - title: Customized Environment
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
