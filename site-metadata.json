@@ -56,7 +56,7 @@
                 "new_window": true
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Docs",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
