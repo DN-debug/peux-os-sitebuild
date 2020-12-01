@@ -5,9 +5,9 @@ sections:
   - section_id: ''
     type: section_hero
     title: 'PEUX OS -| [ POS ]'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |+
+      | Beautiful, lightweight and minimal Archlinux-distro
+
     actions:
       - label: Let's talk
         url: /contact
