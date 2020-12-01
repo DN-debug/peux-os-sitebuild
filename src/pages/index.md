@@ -34,10 +34,11 @@ sections:
           OH! btw "FISH" is the default shell.
 
       - title: Apps & Packages
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+        content: >+
+          PACMAN is the default cli package manager along with yay and pamac as
+          alternatives. For GUI, you may also use Pamac-Manager, along with
+          Flatpak and AUR support enabled in its settings.
+
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
