@@ -28,7 +28,7 @@ sections:
 
       - title: Beautiful yet Secure
         content: >+
-          POS doesn't only look good. We tied it with apps that will help you
+          POS doesn't only look good. Its tied with apps that will help you
           secure your data and privacy.
 
 
