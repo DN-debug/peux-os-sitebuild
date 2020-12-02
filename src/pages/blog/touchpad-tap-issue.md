@@ -6,6 +6,7 @@ excerpt: >-
   In most cases, laptop's touchpad should work. However, if it doesn't, then
   that means the libinput settings are not working properly.
 template: post
+thumb_image: images/spectacular-turtle.jpg
 ---
 In most cases, laptop's touchpad should work. However, if it doesn't, then that means the libinput settings are not working properly.
 
