@@ -1,6 +1,6 @@
 ---
 title: Touchpad - double-tap issue
-subtitle: lorem-ipsum
+subtitle: ''
 date: '2020-12-02'
 excerpt: >-
   In most cases, laptop's touchpad should work. However, if it doesn't, then
