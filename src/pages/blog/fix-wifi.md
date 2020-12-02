@@ -4,6 +4,7 @@ subtitle: ''
 date: '2020-12-02'
 excerpt: lorem-ipsum
 template: post
+thumb_image: images/amazing-amaranth.jpg
 ---
 ## Lorem ipsum
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
