@@ -10,7 +10,23 @@ excerpt: >-
 template: post
 thumb_image: images/hblock.png
 ---
-## Lorem ipsum
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-- Lorem ipsum
-- dolor sit amet
+> For the privacy-aware users, tools like hBlock can be helpful to block malicious domains, malware, advertisements, and trackers. Trackers could be pixels added to websites to track which pages you visited, which might invade your privacy. 
+
+-- From LinuxSecurityExperts
+
+General Public often is unaware of the malicious domains or trackers that runs behind the actual GUI interface.  HBlock comes into picture in such scenarios. 
+
+We as an end-user will only have to initiate HBlock and it will download the information from its source. Once downloaded, it will then activate the denylist and sanitize the blocklist. 
+
+To initiate Hblock, open up your terminal in Peux OS and type in:
+~> hblock 
+
+You maybe asked for the sudo-password after it sanitizes the blocklist. 
+
+**Behind the scenes**
+
+hBlock works with the /etc/hosts file of the system which contains the blocklist. Requests to bad and malicious hosts are blocked as they relate the entries that are resolved to 0.0.0.0. This effectively prevents the system from connecting to these particular hostnames.
+
+Link to Github repo : [https://github.com/hectorm/hblock](https://)
+
+
