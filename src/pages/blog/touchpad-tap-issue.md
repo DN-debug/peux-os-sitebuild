@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Touchpad - double-tap issue
 subtitle: lorem-ipsum
 date: '2020-12-02'
 excerpt: lorem-ipsum
