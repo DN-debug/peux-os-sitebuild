@@ -5,7 +5,11 @@ date: '2020-12-02'
 excerpt: lorem-ipsum
 template: post
 ---
-## Lorem ipsum
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-- Lorem ipsum
-- dolor sit amet
+In most cases, laptop's touchpad should work. However, if it doesn't, then that means the libinput settings are not working properly.
+
+You don't need to create any addtional synaptic.conf file. Follow the below procedure to enable or disable touchpad settings:
+
+Enter XFCE Settings.
+Select the Mouse and Touchpad settings.
+If necessary, select your Touchpad device.
+In the General section, enable "Tap touchpad to click"
