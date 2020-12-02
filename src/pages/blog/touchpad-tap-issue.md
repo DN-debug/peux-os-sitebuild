@@ -2,7 +2,9 @@
 title: Touchpad - double-tap issue
 subtitle: lorem-ipsum
 date: '2020-12-02'
-excerpt: lorem-ipsum
+excerpt: >-
+  In most cases, laptop's touchpad should work. However, if it doesn't, then
+  that means the libinput settings are not working properly.
 template: post
 ---
 In most cases, laptop's touchpad should work. However, if it doesn't, then that means the libinput settings are not working properly.
