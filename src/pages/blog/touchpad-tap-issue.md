@@ -12,7 +12,7 @@ In most cases, laptop's touchpad should work. However, if it doesn't, then that 
 
 You don't need to create any addtional synaptic.conf file. Follow the below procedure to enable or disable touchpad settings:
 
-Enter XFCE Settings.
-Select the Mouse and Touchpad settings.
-If necessary, select your Touchpad device.
-In the General section, enable "Tap touchpad to click"
+1. Enter XFCE Settings.
+2. Select the Mouse and Touchpad settings.
+3. If necessary, select your Touchpad device.
+4. In the General section, enable "Tap touchpad to click"
