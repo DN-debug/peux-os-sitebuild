@@ -1,5 +1,5 @@
 ---
-title: Wifi is working
+title: Wifi isn't working
 subtitle: ''
 date: '2020-12-02'
 excerpt: >-
