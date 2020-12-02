@@ -2,7 +2,7 @@
 title: 'Hbock - What is it? '
 subtitle: ''
 date: '2020-12-02'
-excerpt: lorem-ipsum
+excerpt: ''
 template: post
 thumb_image: images/hblock.png
 ---
