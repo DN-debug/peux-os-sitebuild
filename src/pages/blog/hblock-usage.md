@@ -1,6 +1,6 @@
 ---
 title: 'Hbock - What is it? '
-subtitle: lorem-ipsum
+subtitle: ''
 date: '2020-12-02'
 excerpt: lorem-ipsum
 template: post
