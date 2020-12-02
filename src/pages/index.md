@@ -55,12 +55,7 @@ sections:
 
 
       **Teletypewriter** ( TTY acronym ) is the vanilla-arch with net-installer
-      provided. We know that there are other vanilla-arch installers available.
-      It's not an attempt to reinvent the wheel, rather providing mutiple paths
-      towards the same approach.
-
-
-      End-users would be able to configure it as per their choice.
+      provided. End-users would be able to configure it as per their choice.
 
     actions:
       - label: Standard Version
