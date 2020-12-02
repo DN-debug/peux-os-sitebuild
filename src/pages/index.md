@@ -28,7 +28,7 @@ sections:
 
       - title: Beautiful yet Secure
         content: >+
-          POS doesn't only look good. We tied it with apps that will help you
+          POS doesn't only look good. Its tied with apps that will help you
           secure your data and privacy.
 
 
@@ -37,8 +37,8 @@ sections:
       - title: Apps & Packages
         content: >+
           PACMAN is the default cli package manager along with yay and pamac as
-          alternatives. For GUI, you may also use Pamac-Manager, along with
-          Flatpak and AUR support enabled in its settings.
+          alternatives. For GUI, use Pamac-Manager, with Flatpak and AUR support
+          enabled in its settings.
 
   - title: Versions
     section_id: versions
@@ -76,7 +76,7 @@ sections:
         new_window: true
         type: action
     type: section_content
-    image: images/ver.png
+    image: images/fabulous-mango.PNG
   - section_id: mini-notes
     type: section_posts
     title: Highlights from Mini-Notes
