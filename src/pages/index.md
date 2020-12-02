@@ -37,8 +37,8 @@ sections:
       - title: Apps & Packages
         content: >+
           PACMAN is the default cli package manager along with yay and pamac as
-          alternatives. For GUI, you may also use Pamac-Manager, along with
-          Flatpak and AUR support enabled in its settings.
+          alternatives. For GUI, use Pamac-Manager, with Flatpak and AUR support
+          enabled in its settings.
 
   - title: Versions
     section_id: versions
