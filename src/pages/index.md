@@ -60,7 +60,7 @@ sections:
 
     actions:
       - label: XFCE
-        url: 'https://sourceforge.net/projects/peux-os/files/Standard%20Version/'
+        url: 'https://sourceforge.net/projects/peux-os/files/BETA/'
         style: button
         icon_class: SV
         new_window: true
