@@ -73,6 +73,7 @@ sections:
         new_window: true
         type: action
     type: section_content
+    image: images/slide2.png
   - section_id: mini-notes
     type: section_posts
     title: Highlights from Mini-Notes
