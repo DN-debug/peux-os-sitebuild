@@ -51,7 +51,7 @@
                 "new_window": true
             },
             {
-                "label": "Wiki",
+                "label": "[Wiki]",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "icon_class": "fa-wikipedia-w",
