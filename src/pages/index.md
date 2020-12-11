@@ -48,7 +48,6 @@ sections:
       the default panel. For large screen resolutions, kindly check the
       "LR"-tagged iso in the download page.
 
-
       The reason behind this is that Polybar doesn't have the capability to
       auto-resize the fonts. Hence on large scale resolutions, the fonts appears
       to be very small.
