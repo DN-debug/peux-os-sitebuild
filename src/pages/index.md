@@ -44,9 +44,9 @@ sections:
     section_id: versions
     subtitle: Peux OS comes with two different versions
     content: >+
-      **POS - Standard Version** comes with two different tags. LR is for larger
-      resolutions, such as 1920x1080 SR is for standard resolutions, such as
-      1366x720
+      **POS - XFCE** comes with a highly customized XFCE environment. Polybar is
+      the default panel. For large screen resolutions, kindly check the
+      "LR"-tagged iso in the download page.
 
 
       The reason behind this is that Polybar doesn't have the capability to
@@ -54,8 +54,10 @@ sections:
       to be very small.
 
 
-      **Teletypewriter** ( TTY acronym ) is the vanilla-arch with net-installer
-      provided. End-users would be able to configure it as per their choice.
+      **POS - **Development in progress.
+
+
+      **Note: BETA version available**
 
     actions:
       - label: Standard Version
