@@ -59,7 +59,7 @@ sections:
       **Note: BETA version available**
 
     actions:
-      - label: Standard Version
+      - label: XFCE
         url: 'https://sourceforge.net/projects/peux-os/files/Standard%20Version/'
         style: button
         icon_class: SV
