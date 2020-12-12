@@ -6,7 +6,8 @@ sections:
     type: section_hero
     title: 'PEUX OS -| [ POS ]'
     content: |+
-      | Beautiful, lightweight and minimal Archlinux-distro
+      | Uses FISH & BTRFS 
+      | Beautiful, minimal and highly customized Archlinux-distro
 
     actions:
       - label: Download
