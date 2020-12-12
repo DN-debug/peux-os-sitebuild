@@ -53,10 +53,10 @@ sections:
 
 
 
-      **POS - KDE ** Development in progress.
+      **POS - KDE**  Development in progress.
 
 
-      **Note: All the downloads are currently in BETA **
+      **Note: All the downloads are currently in BETA**
 
     actions:
       - label: XFCE
