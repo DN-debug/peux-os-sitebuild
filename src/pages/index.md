@@ -44,19 +44,18 @@ sections:
     section_id: versions
     subtitle: Peux OS comes with two different versions
     content: >+
-      **POS - XFCE** comes with a highly customized XFCE environment. Polybar is
-      the default panel. For large screen resolutions, kindly check the
-      "LR"-tagged iso in the download page.
-
-      The reason behind this is that Polybar doesn't have the capability to
-      auto-resize the fonts. Hence on large scale resolutions, the fonts appears
-      to be very small.
+      **POS - XFCE** is the flagship and it comes with a highly customized XFCE
+      environment. Polybar is the default panel.
 
 
-      **POS - **Development in progress.
+      Important: Polybar doesn't have the capability to auto-resize the fonts.
+      Hence on large scale resolutions, the fonts appears to be rather small.
 
 
-      **Note: BETA version available**
+      **POS - KDE ** Development in progress.
+
+
+      **Note: All the downloads are currently in BETA **
 
     actions:
       - label: XFCE
