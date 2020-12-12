@@ -52,6 +52,7 @@ sections:
       Hence on large scale resolutions, the fonts appears to be rather small.
 
 
+
       **POS - KDE ** Development in progress.
 
 
