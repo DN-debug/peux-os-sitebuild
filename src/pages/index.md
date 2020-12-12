@@ -65,12 +65,6 @@ sections:
         icon_class: SV
         new_window: true
         type: action
-      - label: ''
-        url: 'https://sourceforge.net/projects/peux-os/files/Teletypewriter/'
-        style: button
-        icon_class: tty
-        new_window: true
-        type: action
     type: section_content
     image: images/slide2.png
   - section_id: mini-notes
