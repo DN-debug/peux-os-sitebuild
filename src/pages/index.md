@@ -22,9 +22,9 @@ sections:
     grid_items:
       - title: Customized Environment
         content: >+
-          POS uses customized lightweight XFCE as its session-manager. BTRFS is
-          the default filesystem in-play. It Polybar and Tint2 as its default
-          panel. The resulting product is a beautiful GUI.
+          POS uses customized XFCE as its default-version. BTRFS is the default
+          filesystem in-play. It uses Polybar as its default panel. Aiming to
+          have a minimal desktop and yet beautiful.
 
       - title: Beautiful yet Secure
         content: >+
