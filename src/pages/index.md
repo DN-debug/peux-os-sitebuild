@@ -32,7 +32,6 @@ sections:
           secure your data and privacy. You can sandbox your applications, do
           anonymous surfing among many other things.
 
-
           OH! btw "FISH" is the default shell.
 
       - title: Apps & Packages
