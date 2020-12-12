@@ -65,7 +65,7 @@ sections:
         icon_class: SV
         new_window: true
         type: action
-      - label: Teletypewriter
+      - label: KDE
         url: 'https://sourceforge.net/projects/peux-os/files/Teletypewriter/'
         style: button
         icon_class: tty
