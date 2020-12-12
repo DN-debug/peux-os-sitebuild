@@ -1,6 +1,6 @@
 ---
 title: 'About '
-subtitle: S
+subtitle: 'Story | '
 template: page
 ---
 POS was initially a customized arch for personal use, and we went with the flow of creating and changing configuratons. That's how we created this distro.  ;)
