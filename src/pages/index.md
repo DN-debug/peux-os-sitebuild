@@ -29,7 +29,8 @@ sections:
       - title: Beautiful yet Secure
         content: >+
           POS doesn't only look good. Its tied with apps that will help you
-          secure your data and privacy.
+          secure your data and privacy. You can sandbox your applications, do
+          anonymous surfing among many other things.
 
 
           OH! btw "FISH" is the default shell.
