@@ -49,14 +49,6 @@
                 "style": "icon",
                 "icon_class": "fa-telegram",
                 "new_window": true
-            },
-            {
-                "label": "DOCS",
-                "url": "lorem-ipsum",
-                "style": "link",
-                "icon_class": "fa-wikipedia-w",
-                "new_window": true,
-                "type": "action"
             }
         ]
     },

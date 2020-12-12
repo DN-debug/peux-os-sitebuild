@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'PEUX OS -| [ POS ]'
     content: |+
-      | Beautiful, lightweight and minimal Archlinux-distro
+      | Beautiful, minimal and highly customized Archlinux-distro
 
     actions:
       - label: Download
@@ -22,15 +22,15 @@ sections:
     grid_items:
       - title: Customized Environment
         content: >+
-          POS uses customized lightweight XFCE as its session-manager. It
-          doesn't implement XFCE panel, rather Polybar and Tint2 as its default
-          panel. The resulting product is a beautiful GUI.
+          POS uses customized XFCE as its default-version. BTRFS is the default
+          filesystem with autosnap enabled. It uses Polybar as its default
+          panel. Aiming to have a minimal desktop and yet beautiful.
 
       - title: Beautiful yet Secure
         content: >+
           POS doesn't only look good. Its tied with apps that will help you
-          secure your data and privacy.
-
+          secure your data and privacy. You can sandbox your applications, do
+          anonymous surfing among many other things.
 
           OH! btw "FISH" is the default shell.
 
@@ -38,40 +38,35 @@ sections:
         content: >+
           PACMAN is the default cli package manager along with yay and pamac as
           alternatives. For GUI, use Pamac-Manager, with Flatpak and AUR support
-          enabled in its settings.
+          options in its settings.
 
   - title: Versions
     section_id: versions
     subtitle: Peux OS comes with two different versions
     content: >+
-      **POS - Standard Version** comes with two different tags. LR is for larger
-      resolutions, such as 1920x1080 SR is for standard resolutions, such as
-      1366x720
+      **POS - XFCE** is the flagship and it comes with a highly customized XFCE
+      environment. Polybar is the default panel.
 
 
-      The reason behind this is that Polybar doesn't have the capability to
-      auto-resize the fonts. Hence on large scale resolutions, the fonts appears
-      to be very small.
+      Important: Polybar doesn't have the capability to auto-resize the fonts.
+      Hence on large scale resolutions, the fonts appears to be rather small.
 
 
-      **Teletypewriter** ( TTY acronym ) is the vanilla-arch with net-installer
-      provided. End-users would be able to configure it as per their choice.
+
+      **POS - KDE**  Development in progress.
+
+
+      **Note: All the downloads are currently in BETA**
 
     actions:
-      - label: Standard Version
-        url: 'https://sourceforge.net/projects/peux-os/files/Standard%20Version/'
+      - label: XFCE
+        url: 'https://sourceforge.net/projects/peux-os/files/BETA/'
         style: button
         icon_class: SV
         new_window: true
         type: action
-      - label: Teletypewriter
-        url: 'https://sourceforge.net/projects/peux-os/files/Teletypewriter/'
-        style: button
-        icon_class: tty
-        new_window: true
-        type: action
     type: section_content
-    image: images/fabulous-mango.PNG
+    image: images/slide2.png
   - section_id: mini-notes
     type: section_posts
     title: Highlights from Mini-Notes
