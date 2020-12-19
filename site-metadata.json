@@ -61,7 +61,7 @@
             {
                 "label": "Patreon",
                 "url": "https://www.patreon.com/peuxos",
-                "style": "button",
+                "style": "icon",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
                 "type": "action"
