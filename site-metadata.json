@@ -38,7 +38,7 @@
         "social_links": [
             {
                 "label": "Discord",
-                "url": "https://discord.com/login?redirect_to=%2Fchannels%2F783265885728800799%2F783265885728800802",
+                "url": "https://discord.com/invite/AjgKF9FUAb",
                 "style": "icon",
                 "icon_class": "fa-discord",
                 "new_window": true
@@ -49,6 +49,22 @@
                 "style": "icon",
                 "icon_class": "fa-telegram",
                 "new_window": true
+            },
+            {
+                "label": "Forum",
+                "url": "https://sourceforge.net/p/peux-os/discussion/",
+                "style": "icon",
+                "icon_class": "fa-wpforms",
+                "new_window": true,
+                "type": "action"
+            },
+            {
+                "label": "Patreon",
+                "url": "https://www.patreon.com/peuxos",
+                "style": "icon",
+                "icon_class": "fa-patreon",
+                "new_window": true,
+                "type": "action"
             }
         ]
     },
