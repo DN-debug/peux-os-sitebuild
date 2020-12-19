@@ -38,4 +38,4 @@ The welcome app - Namaste is an implementation of [BradHeff](https://github.com/
 
 
 
-Finally, Try it and give your valuable feedback!
+Finally, try it and give your valuable feedback!
