@@ -62,7 +62,7 @@
                 "label": "Patreon",
                 "url": "https://www.patreon.com/peuxos",
                 "style": "icon",
-                "icon_class": "lorem-ipsum",
+                "icon_class": "fa-patreon",
                 "new_window": false,
                 "type": "action"
             }
