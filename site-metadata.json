@@ -52,7 +52,7 @@
             },
             {
                 "label": "Forum",
-                "url": "lorem-ipsum",
+                "url": "https://sourceforge.net/p/peux-os/discussion/",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
