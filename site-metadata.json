@@ -63,7 +63,7 @@
                 "url": "https://www.patreon.com/peuxos",
                 "style": "icon",
                 "icon_class": "fa-patreon",
-                "new_window": false,
+                "new_window": true,
                 "type": "action"
             }
         ]
