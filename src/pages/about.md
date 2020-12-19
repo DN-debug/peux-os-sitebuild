@@ -1,6 +1,6 @@
 ---
 title: 'About '
-subtitle: Story | Team | Aim
+subtitle: Story | Team | Aim | Credits
 template: page
 ---
 POS was initially a customized arch for personal use only. Initially it was named as Pentux OS and then was changed to Peux OS.
