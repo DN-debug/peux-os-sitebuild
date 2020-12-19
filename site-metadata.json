@@ -54,7 +54,7 @@
                 "label": "Forum",
                 "url": "https://sourceforge.net/p/peux-os/discussion/",
                 "style": "icon",
-                "icon_class": "fa-osi",
+                "icon_class": "fa-wpforms",
                 "new_window": false,
                 "type": "action"
             }
