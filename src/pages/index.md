@@ -58,9 +58,7 @@ sections:
 
 
       **Note: All the downloads are currently in BETA. The aim is to keep it
-      minimal rather than lightweight. 
-
-      **
+      minimal rather than lightweight.**
 
     actions:
       - label: XFCE
