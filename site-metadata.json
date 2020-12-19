@@ -54,7 +54,7 @@
                 "label": "Forum",
                 "url": "https://sourceforge.net/p/peux-os/discussion/",
                 "style": "link",
-                "icon_class": "fa-asterisk",
+                "icon_class": "fa-telegram",
                 "new_window": false,
                 "type": "action"
             }
