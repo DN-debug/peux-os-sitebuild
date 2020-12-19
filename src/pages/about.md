@@ -19,8 +19,6 @@ Well, it's a single person team. I am a network-engineer by profession. The reas
 
 I'd love if someone just shows up and participate alongside.
 
-The credit to the graphics/pictures goes to Unsplash and Freepik. Please do visit these sites.
-
 
 **AIM**
 
@@ -29,4 +27,15 @@ Honestly speaking, it's just a hobby. However, the goal is to stick to the base-
 Bitter truth is that you'll find many arch-based distros out there. 
 Then why Peux OS? Well, it's a proof that community driven ideas and already existing tools can make the experience so much better. 
 
-Try it and give your valuable feedback!
+
+**Credits**
+
+The credit for graphics/pictures goes to [Unsplash](https://unsplash.com/) and [Freepik](https://www.freepik.com/). 
+
+Rofi and Polybar ideas and implementation is taken from [adi1090x](https://github.com/adi1090x)
+
+The welcome app - Namaste is an implementation of [BradHeff](https://github.com/BradHeff)'s welcome-app.
+
+
+
+Finally, Try it and give your valuable feedback!
