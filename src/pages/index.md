@@ -48,15 +48,19 @@ sections:
       environment. Polybar is the default panel.
 
 
-      Important: Polybar doesn't have the capability to auto-resize the fonts.
-      Hence on large scale resolutions, the fonts appears to be rather small.
+      Important: Polybar doesn't have the capability to auto-resize the fonts as
+      far as we've tested. Hence on large scale resolutions, the fonts may
+      appear to be rather small.
 
 
 
       **POS - KDE**  Development in progress.
 
 
-      **Note: All the downloads are currently in BETA**
+      **Note: All the downloads are currently in BETA. The aim is to keep it
+      minimal rather than lightweight. 
+
+      **
 
     actions:
       - label: XFCE
