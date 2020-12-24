@@ -54,11 +54,14 @@ sections:
 
 
 
-      **POS - KDE**  Development in progress.
+      **POS - Gnome**  Development in progress.
 
 
       **Note: All the downloads are currently in BETA. The aim is to keep it
       minimal rather than lightweight.**
+
+
+      **Default username : liveuser,  passwd: root**
 
     actions:
       - label: XFCE
