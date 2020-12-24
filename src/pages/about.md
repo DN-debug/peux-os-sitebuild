@@ -14,7 +14,7 @@ Honestly speaking, it's just a hobby. However, the goal is to stick to the base-
 Bitter truth is that you'll find many arch-based distros out there. 
 Then why Peux OS? Well, it's a proof that community driven ideas and already existing tools can make the experience so much better. 
 
-Remember : it's part of hobby and learning procedure. But you are most welcome to lend a hand.
+Remember : it's part of hobby and learning procedure. But you are most welcome to lend me a hand.
 
 
 **Credits**
