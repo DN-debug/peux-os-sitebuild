@@ -1,6 +1,6 @@
 ---
 title: XFWM-Effects
-subtitle: lorem-ipsum
+subtitle: Blur/Transparency for XFWM4
 date: '2020-12-26'
 excerpt: lorem-ipsum
 template: post
