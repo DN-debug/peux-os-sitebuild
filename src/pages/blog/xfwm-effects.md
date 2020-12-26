@@ -2,7 +2,7 @@
 title: XFWM-Effects
 subtitle: Blur/Transparency Effects for XFWM4
 date: '2020-12-26'
-excerpt: ''
+excerpt: Goes by the name of xfwm-blur-effects
 template: post
 thumb_image: images/xfwm-blur.jpg
 ---
