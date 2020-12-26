@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: XFWM-Effects
 subtitle: lorem-ipsum
 date: '2020-12-26'
 excerpt: lorem-ipsum
