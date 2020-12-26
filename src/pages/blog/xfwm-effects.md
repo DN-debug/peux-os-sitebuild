@@ -4,6 +4,7 @@ subtitle: Blur/Transparency Effects for XFWM4
 date: '2020-12-26'
 excerpt: lorem-ipsum
 template: post
+thumb_image: images/xfwm-blur.jpg
 ---
 **xfce-blur-effects** is the proper name. It is a shameless copy of James Hoover's XFCE Effects. His site goes by  **[Kalideva](https://www.kalideva.com/)**. All the credits for hardwork goes to him. If you are using XUBUNTU, then utilize the package provided on his site. 
 
