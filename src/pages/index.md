@@ -69,6 +69,12 @@ sections:
         icon_class: SV
         new_window: true
         type: action
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        type: action
     type: section_content
     image: images/slide2.png
   - section_id: mini-notes
