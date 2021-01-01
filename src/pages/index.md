@@ -69,7 +69,7 @@ sections:
         icon_class: SV
         new_window: true
         type: action
-      - label: lorem-ipsum
+      - label: GNOME
         url: lorem-ipsum
         style: button
         icon_class: GNOME
