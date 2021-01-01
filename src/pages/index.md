@@ -71,7 +71,7 @@ sections:
         type: action
       - label: lorem-ipsum
         url: lorem-ipsum
-        style: link
+        style: button
         icon_class: GNOME
         new_window: false
         type: action
