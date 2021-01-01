@@ -73,7 +73,7 @@ sections:
         url: 'https://sourceforge.net/projects/peux-os/files/GNOME/'
         style: button
         icon_class: GNOME
-        new_window: false
+        new_window: true
         type: action
     type: section_content
     image: images/slide2.png
