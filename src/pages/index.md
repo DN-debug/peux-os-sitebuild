@@ -72,7 +72,7 @@ sections:
       - label: lorem-ipsum
         url: lorem-ipsum
         style: link
-        icon_class: lorem-ipsum
+        icon_class: GNOME
         new_window: false
         type: action
     type: section_content
