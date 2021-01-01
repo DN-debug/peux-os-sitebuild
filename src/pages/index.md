@@ -42,7 +42,7 @@ sections:
 
   - title: Versions
     section_id: versions
-    subtitle: Peux OS comes with two different versions
+    subtitle: ''
     content: >+
       **POS - XFCE** is the flagship and it comes with a highly customized XFCE
       environment. Polybar is the default panel.
