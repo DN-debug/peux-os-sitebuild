@@ -54,8 +54,8 @@ sections:
 
 
 
-      **POS - Gnome**  is not as highly configured as XFCE, however has the
-      default Peux settings are kept intact.
+      **POS - Gnome**  is not as highly configured as XFCE, however it has the
+      default Peux settings intact.
 
 
       **Note: All the downloads are currently in BETA. The aim is to keep it
