@@ -70,7 +70,7 @@ sections:
         new_window: true
         type: action
       - label: GNOME
-        url: lorem-ipsum
+        url: 'https://sourceforge.net/projects/peux-os/files/GNOME/'
         style: button
         icon_class: GNOME
         new_window: false
