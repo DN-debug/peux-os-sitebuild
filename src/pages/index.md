@@ -42,7 +42,7 @@ sections:
 
   - title: Versions
     section_id: versions
-    subtitle: Peux OS comes with two different versions
+    subtitle: ''
     content: >+
       **POS - XFCE** is the flagship and it comes with a highly customized XFCE
       environment. Polybar is the default panel.
@@ -54,20 +54,25 @@ sections:
 
 
 
-      **POS - Gnome**  Development in progress.
+      **POS - Gnome**  is not as highly configured as XFCE, however has the
+      default Peux settings are kept intact.
 
 
       **Note: All the downloads are currently in BETA. The aim is to keep it
       minimal rather than lightweight.**
 
 
-      **Default username : liveuser,  passwd: root**
-
     actions:
       - label: XFCE
         url: 'https://sourceforge.net/projects/peux-os/files/XFCE/'
         style: button
         icon_class: SV
+        new_window: true
+        type: action
+      - label: GNOME
+        url: 'https://sourceforge.net/projects/peux-os/files/GNOME/'
+        style: button
+        icon_class: GNOME
         new_window: true
         type: action
     type: section_content
