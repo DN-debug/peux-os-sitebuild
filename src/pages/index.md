@@ -54,14 +54,13 @@ sections:
 
 
 
-      **POS - Gnome**  Development in progress.
+      **POS - Gnome**  is not as highly configured as XFCE, however has the
+      default Peux settings are kept intact.
 
 
       **Note: All the downloads are currently in BETA. The aim is to keep it
       minimal rather than lightweight.**
 
-
-      **Default username : liveuser,  passwd: root**
 
     actions:
       - label: XFCE
