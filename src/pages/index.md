@@ -83,7 +83,7 @@ sections:
         url: 'https://sourceforge.net/projects/peux-os/files/LXQT-REDEFINED/'
         style: button
         icon_class: LXQt
-        new_window: false
+        new_window: true
         type: action
     type: section_content
     image: images/siteimage.png
