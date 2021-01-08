@@ -79,7 +79,7 @@ sections:
         icon_class: GNOME
         new_window: true
         type: action
-      - label: lorem-ipsum
+      - label: ''
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
