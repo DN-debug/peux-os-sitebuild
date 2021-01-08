@@ -58,6 +58,10 @@ sections:
       default Peux settings intact.
 
 
+      **POS - LXQt** is another highly customized environment but for LXQt.This
+      is an attempt to redefine the LXQt experience for end-users.
+
+
       **Note: All the downloads are currently in BETA. The aim is to keep it
       minimal rather than lightweight.**
 
@@ -75,8 +79,14 @@ sections:
         icon_class: GNOME
         new_window: true
         type: action
+      - label: LXQt
+        url: 'https://sourceforge.net/projects/peux-os/files/LXQT-REDEFINED/'
+        style: button
+        icon_class: LXQt
+        new_window: true
+        type: action
     type: section_content
-    image: images/siteimage.png
+    image: images/elite-triceratops.png
   - section_id: mini-notes
     type: section_posts
     title: Highlights from Mini-Notes
