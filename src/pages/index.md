@@ -82,7 +82,7 @@ sections:
       - label: LXQt Redefined
         url: lorem-ipsum
         style: button
-        icon_class: ''
+        icon_class: LXQt
         new_window: false
         type: action
     type: section_content
