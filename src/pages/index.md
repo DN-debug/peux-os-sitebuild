@@ -79,7 +79,7 @@ sections:
         icon_class: GNOME
         new_window: true
         type: action
-      - label: ''
+      - label: LXQt Redefined
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
