@@ -25,4 +25,4 @@ Follow the procedures below:
 
 **Note**:
 
-Right-click on the Network-icon in the taskbar will also open up the Network-Connection-Manager for you. However, NMTUI is preferable, as it identifies the connection immediately.
+Right-click on the Network-icon in the taskbar will also open up the Network-Connection-Manager for you. However, NMTUI is preferable, as it identifies the connection immediately. This will work for LXQt as well as for Gnome. However, on Gnome, wi-fi connection would be listed in the system-tray.
