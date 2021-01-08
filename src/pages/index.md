@@ -58,6 +58,10 @@ sections:
       default Peux settings intact.
 
 
+      **POS - LXQt** is another highly customized environment but for LXQt.This
+      is an attempt to redefine the LXQt experience for end-users.
+
+
       **Note: All the downloads are currently in BETA. The aim is to keep it
       minimal rather than lightweight.**
 
