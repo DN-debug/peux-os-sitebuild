@@ -79,6 +79,12 @@ sections:
         icon_class: GNOME
         new_window: true
         type: action
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        type: action
     type: section_content
     image: images/siteimage.png
   - section_id: mini-notes
