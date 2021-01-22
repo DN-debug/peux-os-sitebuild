@@ -67,12 +67,6 @@ sections:
         icon_class: GNOME
         new_window: true
         type: action
-      - label: LXQt
-        url: 'https://sourceforge.net/projects/peux-os/files/LXQT-REDEFINED/'
-        style: button
-        icon_class: LXQt
-        new_window: true
-        type: action
     type: section_content
     image: images/elite-triceratops.png
   - section_id: mini-notes
