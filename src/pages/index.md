@@ -43,29 +43,15 @@ sections:
   - title: Versions
     section_id: versions
     subtitle: ''
-    content: >+
-      **POS - XFCE** is the flagship and it comes with a highly customized XFCE
-      environment. Polybar is the default panel.
-
-
-      Important: Polybar doesn't have the capability to auto-resize the fonts as
-      far as we've tested. Hence on large scale resolutions, the fonts may
-      appear to be rather small.
-
-
-
-      **POS - Gnome**  is not as highly configured as XFCE, however it has the
-      default Peux settings intact.
-
-
-      **POS - LXQt** is another highly customized environment but for LXQt.This
-      is an attempt to redefine the LXQt experience for end-users.
+    content: >
+      ***Peux OS*** comes with three different desktop flavors: XFCE, LXQt and
+      Gnome. XFCE is the flagship. Out of these three versions, LXQt and XFCE
+      are both highly configured. Gnome is included because of its minimalism
+      and stability. This project will improve with time.
 
 
       **Note: All the downloads are currently in BETA. The aim is to keep it
       minimal rather than lightweight.**
-
-
     actions:
       - label: XFCE
         url: 'https://sourceforge.net/projects/peux-os/files/XFCE/'
