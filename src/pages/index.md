@@ -54,7 +54,7 @@ sections:
       minimal rather than lightweight.**
     actions:
       - label: SourceForge
-        url: 'https://sourceforge.net/projects/peux-os/files/XFCE/'
+        url: 'https://sourceforge.net/projects/peux-os/files/'
         style: button
         icon_class: SV
         new_window: true
