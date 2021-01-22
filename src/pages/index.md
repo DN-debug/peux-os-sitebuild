@@ -51,7 +51,9 @@ sections:
 
 
       **Note: All the downloads are currently in BETA. The aim is to keep it
-      minimal rather than lightweight.**
+      minimal rather than lightweight. You can download Peux OS from any of the
+      below available sites. If the downloads are slow, then please change the
+      mirror.**
     actions:
       - label: SourceForge
         url: 'https://sourceforge.net/projects/peux-os/files/'
