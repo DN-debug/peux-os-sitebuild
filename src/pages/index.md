@@ -10,7 +10,7 @@ sections:
 
     actions:
       - label: Download
-        url: 'https://sourceforge.net/projects/peux-os/files/'
+        url: 'https://sourceforge.net/projects/peux-os/'
         style: button
         new_window: true
   - section_id: features
