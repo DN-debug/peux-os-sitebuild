@@ -60,7 +60,7 @@ sections:
         new_window: true
         type: action
       - label: OSDN
-        url: 'https://sourceforge.net/projects/peux-os/files/GNOME/'
+        url: 'https://osdn.net/projects/peux-os/'
         style: button
         icon_class: GNOME
         new_window: true
