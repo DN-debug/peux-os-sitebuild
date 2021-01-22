@@ -5,9 +5,8 @@ sections:
   - section_id: home
     type: section_hero
     title: 'PEUX OS -| [ POS ]'
-    content: |+
-      | Beautiful, minimal and highly customized Archlinux-distro
-
+    content: |
+      | Beautiful, minimal, secure and highly customized Archlinux-distro
     actions:
       - label: Download
         url: 'https://sourceforge.net/projects/peux-os/'
