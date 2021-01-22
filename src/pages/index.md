@@ -53,7 +53,7 @@ sections:
       **Note: All the downloads are currently in BETA. The aim is to keep it
       minimal rather than lightweight.**
     actions:
-      - label: XFCE
+      - label: SourceForge
         url: 'https://sourceforge.net/projects/peux-os/files/XFCE/'
         style: button
         icon_class: SV
