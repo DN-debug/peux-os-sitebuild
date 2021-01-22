@@ -5,12 +5,11 @@ sections:
   - section_id: home
     type: section_hero
     title: 'PEUX OS -| [ POS ]'
-    content: |+
-      | Beautiful, minimal and highly customized Archlinux-distro
-
+    content: |
+      | Beautiful, minimal, secure and highly customized Archlinux-distro
     actions:
       - label: Download
-        url: 'https://sourceforge.net/projects/peux-os/files/'
+        url: 'https://sourceforge.net/projects/peux-os/'
         style: button
         new_window: true
   - section_id: features
@@ -43,46 +42,28 @@ sections:
   - title: Versions
     section_id: versions
     subtitle: ''
-    content: >+
-      **POS - XFCE** is the flagship and it comes with a highly customized XFCE
-      environment. Polybar is the default panel.
-
-
-      Important: Polybar doesn't have the capability to auto-resize the fonts as
-      far as we've tested. Hence on large scale resolutions, the fonts may
-      appear to be rather small.
-
-
-
-      **POS - Gnome**  is not as highly configured as XFCE, however it has the
-      default Peux settings intact.
-
-
-      **POS - LXQt** is another highly customized environment but for LXQt.This
-      is an attempt to redefine the LXQt experience for end-users.
+    content: >
+      ***Peux OS*** comes with three different desktop flavors: XFCE, LXQt and
+      Gnome. XFCE is the flagship. Out of these three versions, LXQt and XFCE
+      are both highly configured. Gnome is included because of its minimalism
+      and stability. This project will improve with time.
 
 
       **Note: All the downloads are currently in BETA. The aim is to keep it
-      minimal rather than lightweight.**
-
-
+      minimal rather than lightweight. You can download Peux OS from any of the
+      below available sites. If the downloads are slow, then please change the
+      mirror.**
     actions:
-      - label: XFCE
-        url: 'https://sourceforge.net/projects/peux-os/files/XFCE/'
+      - label: SourceForge
+        url: 'https://sourceforge.net/projects/peux-os/files/'
         style: button
         icon_class: SV
         new_window: true
         type: action
-      - label: GNOME
-        url: 'https://sourceforge.net/projects/peux-os/files/GNOME/'
+      - label: OSDN
+        url: 'https://osdn.net/projects/peux-os/'
         style: button
         icon_class: GNOME
-        new_window: true
-        type: action
-      - label: LXQt
-        url: 'https://sourceforge.net/projects/peux-os/files/LXQT-REDEFINED/'
-        style: button
-        icon_class: LXQt
         new_window: true
         type: action
     type: section_content
