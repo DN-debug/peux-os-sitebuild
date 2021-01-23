@@ -1,6 +1,6 @@
 ---
 title: Kloak
-subtitle: anti keystroke deanonymization tool
+subtitle: ''
 date: '2021-01-23'
 excerpt: lorem-ipsum
 template: post
