@@ -1,6 +1,6 @@
 ---
 title: Autologin Issue
-subtitle: SDDM
+subtitle: ''
 date: '2021-01-24'
 excerpt: lorem-ipsum
 template: post
