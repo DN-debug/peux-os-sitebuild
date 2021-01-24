@@ -1,6 +1,6 @@
 ---
 title: 'About '
-subtitle: Story | Team | Aim | Credits
+subtitle: ''
 template: page
 ---
 Peux OS was initially a customized arch for my personal use only. It was never really an idea to convert it into a distro.  COVID-19 boredom made it possible.
