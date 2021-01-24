@@ -2,7 +2,7 @@
 title: Autologin Issue
 subtitle: ''
 date: '2021-01-24'
-excerpt: 'Calamares '
+excerpt: 'Calamares fails to setup the autologin '
 template: post
 thumb_image: images/sddm.PNG
 ---
