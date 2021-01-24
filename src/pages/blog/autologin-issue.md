@@ -12,15 +12,10 @@ I'd still not recommend to enable this feature unless you are testing the distro
 
 Ok, so to enable autologin for SDDM, modify "/etc/sddm.conf" with below lines:
 
-> User = <username>
-> Relogin = <true or false>  // enable this only if you want to autologin into sessions when it exits
-
-
+> User = username
+> Relogin =   // enable this only if you want to autologin into sessions when it exits
 
 With GDM, I am not seeing any issues. If it does not work, then you might have to modify "/etc/gdm/custom.conf" with below lines:
 
 > AutomaticLogin = username
-> AutomaticLoginEnable=<true or false>
-
-
-
+> AutomaticLoginEnable= true / false
