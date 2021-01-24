@@ -6,9 +6,21 @@ excerpt: Calamares fails to setup the autologin for newly created users
 template: post
 thumb_image: images/sddm.PNG
 ---
-## Lorem ipsum
+Autologin is a feature that is not recommended from security perspective. However, this feature can still be enabled in the Display Manager settings. Calamares handles this setting by changing the display manager's configuration file in the final stage of installation. However, recent versions of calamares is failing to do so and there always has been such problems with Calamares. You can check the "issues" in the Calamares' Github site.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I'd still not recommend to enable this feature unless you are testing the distro quite often. Peux OS XFCE and LXQt uses SDDM because of its flexibility and continuous development as compared to LightDM and it relies less on dependencies as compared to GDM (which is really a good display-manager).  There's always a good side and bad side of everything, but this is not the place to discuss about it.
 
-- Lorem ipsum
-- dolor sit amet
+Ok, so to enable autologin for SDDM, modify "/etc/sddm.conf" with below lines:
+
+> User = <username>
+> Relogin = <true or false>  // enable this only if you want to autologin into sessions when it exits
+
+
+
+With GDM, I am not seeing any issues. If it does not work, then you might have to modify "/etc/gdm/custom.conf" with below lines:
+
+> AutomaticLogin = username
+> AutomaticLoginEnable=<true or false>
+
+
+
