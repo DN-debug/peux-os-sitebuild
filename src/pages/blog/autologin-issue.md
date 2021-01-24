@@ -2,7 +2,7 @@
 title: Autologin Issue
 subtitle: ''
 date: '2021-01-24'
-excerpt: Calamares fails to setup the autologin for new
+excerpt: Calamares fails to setup the autologin for newly created users
 template: post
 thumb_image: images/sddm.PNG
 ---
