@@ -4,6 +4,7 @@ subtitle: ''
 date: '2021-01-24'
 excerpt: lorem-ipsum
 template: post
+thumb_image: images/sddm.PNG
 ---
 ## Lorem ipsum
 
