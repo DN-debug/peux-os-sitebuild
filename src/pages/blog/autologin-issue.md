@@ -2,7 +2,7 @@
 title: Autologin Issue
 subtitle: ''
 date: '2021-01-24'
-excerpt: lorem-ipsum
+excerpt: ''
 template: post
 thumb_image: images/sddm.PNG
 ---
