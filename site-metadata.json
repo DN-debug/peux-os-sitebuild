@@ -32,14 +32,6 @@
                 "url": "https://fosstorrents.com/",
                 "style": "link",
                 "new_window": true
-            },
-            {
-                "label": "lorem-ipsum",
-                "url": "lorem-ipsum",
-                "style": "link",
-                "icon_class": "lorem-ipsum",
-                "new_window": false,
-                "type": "action"
             }
         ],
         "has_social": true,
