@@ -65,7 +65,7 @@ sections:
         icon_class: GNOME
         new_window: true
         type: action
-      - label: FOSS
+      - label: FOSSTorrents
         url: lorem-ipsum
         style: button
         icon_class: lorem-ipsum
