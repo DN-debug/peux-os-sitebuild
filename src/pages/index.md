@@ -50,8 +50,7 @@ sections:
 
       **Note: All the downloads are now moved to stable branch. The aim is to
       keep it minimal rather than lightweight. You can download Peux OS from any
-      of the below available sites. If the downloads are slow, then please
-      change the mirror.**
+      of the below available sites. **
     actions:
       - label: FOSSTorrents
         url: 'https://fosstorrents.com/distributions/peux-os/'
