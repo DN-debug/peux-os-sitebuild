@@ -53,16 +53,16 @@ sections:
       of the below available sites. If the downloads are slow, then please
       change the mirror.**
     actions:
-      - label: SourceForge
-        url: 'https://sourceforge.net/projects/peux-os/files/'
-        style: button
-        icon_class: SV
-        new_window: true
-        type: action
       - label: FOSSTorrents
         url: lorem-ipsum
         style: button
         icon_class: lorem-ipsum
+        new_window: true
+        type: action
+      - label: SourceForge
+        url: 'https://sourceforge.net/projects/peux-os/files/'
+        style: button
+        icon_class: SV
         new_window: true
         type: action
       - label: OSDN
