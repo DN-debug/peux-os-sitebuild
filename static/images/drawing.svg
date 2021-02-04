@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920px"
+   height="1080px"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="drawing.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <defs
+     id="defs102" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="400"
+     inkscape:cy="560"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1389"
+     inkscape:window-height="908"
+     inkscape:window-x="265"
+     inkscape:window-y="68"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata105">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       inkscape:label="Image"
+       id="g909"
+       transform="matrix(37.583969,0,0,38.64687,-102.37456,74.376802)">
+      <path
+         style="fill:#181818;stroke-width:0.32"
+         d="m 11.575125,17.614782 c -0.325487,-0.526648 0.04977,-0.815467 1.170453,-0.900861 0.58251,-0.04438 1.182445,-0.204037 1.333189,-0.35478 0.491069,-0.491069 -0.310677,-7.4119956 -0.927248,-8.0042976 -0.526933,-0.506191 -3.007357,-0.108424 -3.063518,0.479531 -0.02138,0.223817 -1.1144469,4.2960716 -0.9986799,4.8816896 0.02855,0.144399 -0.087954,1.093971 -0.1979058,0.544785 -0.1349526,-0.674058 0.4071558,-4.3422346 0.4193468,-4.9559156 0.01207,-0.60756 1.2595379,-3.587615 2.1453849,-4.2489954 0.644101,-0.4808909 0.960802,-0.5294138 1.677332,-0.2569898 0.48582,0.1847088 1.305935,0.3358339 1.822478,0.3358339 0.516542,0 0.939168,0.144 0.939168,0.32 0,0.1760003 -0.268581,0.3200003 -0.596845,0.3200003 -0.328265,0 -0.966763,0.290977 -1.418885,0.646616 l -0.822039,0.646616 1.126451,1.993384 c 0.619547,1.0963606 1.246098,2.1377426 1.392335,2.3141816 0.44996,0.54289 1.630326,3.745174 1.511678,4.101117 -0.06156,0.184673 -0.549869,-0.422782 -1.085137,-1.349899 l -0.973213,-1.685667 -0.215666,1.546825 c -0.195232,1.400263 -0.139062,1.608604 0.592827,2.198846 0.444672,0.358611 0.808494,0.754611 0.808494,0.88 0,0.363139 -1.43622,0.263759 -1.826355,-0.126375 -0.25914,-0.259141 -0.45133,-0.173157 -0.715259,0.32 -0.376023,0.702605 -1.740725,0.933063 -2.098386,0.354355 z M 9.1751251,17.321449 c 0,-0.161333 0.18,-0.358519 0.4,-0.438191 0.32,-0.115886 0.312812,-0.276171 0,-0.822325 -0.900932,-1.572985 -0.16213,-0.881177 0.06228,-0.487458 0.09143,0.160421 1.0652039,1.081307 1.3109059,1.081307 0.265625,0 0.372059,0.194594 0.262538,0.48 -0.197766,0.515371 -2.0357199,0.683903 -2.0357199,0.186667 z m 0.09512,-2.535704 c 0.07873,0.426273 0.644507,1.218869 0.314845,1.016227 -0.467422,-0.287323 -0.6885307,-1.402579 -0.6962358,-1.535678 -0.028469,-0.491785 0.1991038,-1.211749 0.1342008,-0.818851 z m -1.899678,-1.171678 c -0.279718,-0.728935 0.122144,-1.953368 1.187204,-3.6172806 l 1.116205,-1.882911 -0.368869,1.9809066 c -0.1540064,0.827048 -1.200173,4 -1.586532,4 -0.08995,0 -0.24655,-0.216321 -0.348008,-0.480715 z"
+         id="path981"
+         sodipodi:nodetypes="sssssssssssssscsssscssssssssssssssssscssscsss" />
+      <path
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#181818;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.267242;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+         d="m 10.480115,8.7041704 a 0.13363413,0.13363413 0 0 0 -0.124291,0.133957 v 0.372873 a 0.13363413,0.13363413 0 0 0 0.175389,0.125672 l 0.516497,-0.171246 0.516497,0.171246 a 0.13363413,0.13363413 0 0 0 0.175388,-0.125672 v -0.372873 a 0.13363413,0.13363413 0 0 0 -0.175388,-0.127053 l -0.516497,0.172627 -0.516497,-0.172627 a 0.13363413,0.13363413 0 0 0 -0.0511,-0.0069 z m 0.142244,0.319013 0.0028,0.0014 -0.0028,0.0014 z"
+         id="path1265" />
+      <path
+         style="fill:none;fill-opacity:1;stroke:#181818;stroke-width:0.188976;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 9.1942411,12.191829 c 0,0 -0.235132,0.909348 -0.149569,1.643141 0.184435,1.581718 0.632832,1.954825 0.915949,2.345505"
+         id="path1267"
+         sodipodi:nodetypes="csc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:226.667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+       x="676.4931"
+       y="598.03516"
+       id="text221"><tspan
+         sodipodi:role="line"
+         id="tspan219"
+         x="676.4931"
+         y="598.03516"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:226.667px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Bold'"
+         dy="0">PEUX OS</tspan></text>
+  </g>
+</svg>
