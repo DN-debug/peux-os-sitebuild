@@ -30,7 +30,7 @@
             {
                 "label": "FOSSTorrents",
                 "url": "https://fosstorrents.com/",
-                "style": "icon",
+                "style": "button",
                 "new_window": true
             }
         ],
