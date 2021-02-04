@@ -65,7 +65,7 @@ sections:
         icon_class: GNOME
         new_window: true
         type: action
-      - label: lorem-ipsum
+      - label: FOSS
         url: lorem-ipsum
         style: button
         icon_class: lorem-ipsum
