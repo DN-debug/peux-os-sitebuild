@@ -9,7 +9,7 @@ sections:
       | Beautiful, minimal, secure and highly customized Archlinux-distro
     actions:
       - label: Download
-        url: 'https://sourceforge.net/projects/peux-os/'
+        url: 'https://fosstorrents.com/distributions/peux-os/'
         style: button
         new_window: true
   - section_id: features
