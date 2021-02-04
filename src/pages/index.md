@@ -53,7 +53,7 @@ sections:
       of the below available sites. If the downloads are slow, then please
       change the mirror.**
     actions:
-      - label: FOSS-Torrents
+      - label: FOSSTorrents
         url: lorem-ipsum
         style: button
         icon_class: lorem-ipsum
