@@ -2,7 +2,7 @@
 title: What is FOSSTorrents?
 subtitle: ''
 date: '2021-02-05'
-excerpt: 'FOSS Torrents '
+excerpt: FOSS Torrents is a platform
 template: post
 ---
 ## Lorem ipsum
