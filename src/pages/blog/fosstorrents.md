@@ -1,6 +1,6 @@
 ---
 title: What is FOSSTorrents?
-subtitle: lorem-ipsum
+subtitle: ''
 date: '2021-02-05'
 excerpt: lorem-ipsum
 template: post
