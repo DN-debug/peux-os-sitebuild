@@ -14,7 +14,7 @@ Free Open Source Software (FOSS) Torrents, is more like a platform for Open Sour
 
 Dev, are you writing this because you have partnership with them? NO. I am writing this because I want like minded guys to come forth and support the FOSS community.
 
-But isn't there a price to everything? FOSS community survives with the help of **Donations** . Aim of FOSS is directly proportional to its name: Free Open Source Software. It has survived this long because of some generous people.
+But isn't there a price to everything? FOSS community survives with the help of **Donations** . Aim of FOSS is directly proportional to its name: Free Open Source Software. It has survived this long because of some generous people and ofcourse the huge community itself ( there are good people out there and not everyone is an @$$ )
 
 How to start? If you have any open source projects, reach out to FOSSTorrents on [twitter](https://twitter.com/FossTorrents) , [discord](https://discord.com/invite/XCghTpd), [facebook](https://www.facebook.com/FossTorrent/) .
 
