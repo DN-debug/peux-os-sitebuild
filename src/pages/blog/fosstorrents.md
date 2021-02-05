@@ -4,7 +4,6 @@ subtitle: ''
 date: '2021-02-05'
 excerpt: ''
 template: post
-image: images/super-oak.webp
 ---
 ## Lorem ipsum
 
