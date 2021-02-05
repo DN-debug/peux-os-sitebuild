@@ -4,6 +4,7 @@ subtitle: ''
 date: '2021-02-05'
 excerpt: lorem-ipsum
 template: post
+thumb_image: images/fosstorrents.webp
 ---
 ## Lorem ipsum
 
