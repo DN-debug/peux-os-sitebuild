@@ -2,7 +2,11 @@
 title: What is FOSSTorrents?
 subtitle: ''
 date: '2021-02-05'
-excerpt: ''
+excerpt: >-
+  Free Open Source Software (FOSS) Torrents, is more like a platform for Open
+  Source Community, that helps spreading the Open Source Softwares using
+  torrents as its medium. The idea is to promote FOSS throughout the web, extend
+  its reacheability while trusting the platform that promotes it.
 template: post
 ---
 Free Open Source Software (FOSS) Torrents, is more like a platform for Open Source Community, that helps spreading the Open Source Softwares using torrents as its medium. The idea is to promote FOSS throughout the web, extend its reachability while trusting the platform that promotes it.
