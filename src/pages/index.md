@@ -86,7 +86,10 @@ sections:
         new_window: false
   - section_id: Let's Connect
     col_number: three
-    testimonials: []
+    testimonials:
+      - author: lorem-ipsum
+        content: lorem-ipsum
+        type: testimonial
     type: section_testimonials
 template: advanced
 ---
