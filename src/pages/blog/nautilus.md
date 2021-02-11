@@ -4,7 +4,9 @@ subtitle: What sort of mix is this?
 date: '2021-02-11'
 template: post
 thumb_image: images/2021-02-11-223005_1920x1080_scrot.png
-excerpt: Why is Gnome-Files kept as the default file-manager of Peux OS? Read
+excerpt: >-
+  Why is Gnome-Files kept as the default file-manager of Peux OS? Read to know
+  more
 ---
 #### Gnome-FIles on XFCE? What type of madness is this?
 
