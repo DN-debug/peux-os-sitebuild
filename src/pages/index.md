@@ -86,7 +86,6 @@ sections:
         new_window: false
   - title: Let's Connect!
     section_id: con
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
