@@ -85,7 +85,6 @@ sections:
         icon_class: blog
         new_window: false
   - section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     col_number: three
     testimonials: []
     type: section_testimonials
