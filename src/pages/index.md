@@ -110,7 +110,7 @@ sections:
         type: action
       - label: Twitter
         style: link
-        icon_class: lorem-ipsum
+        icon_class: twitter
         new_window: false
         type: action
         url: 'https://twitter.com/whiteyakuzaa'
