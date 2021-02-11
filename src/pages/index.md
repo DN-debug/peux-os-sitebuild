@@ -100,7 +100,7 @@ sections:
         url: 'https://discord.com/invite/AjgKF9FUAb'
         style: button
         icon_class: lorem-ipsum
-        new_window: false
+        new_window: true
         type: action
     type: section_content
 template: advanced
