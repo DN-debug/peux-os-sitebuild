@@ -97,7 +97,7 @@ sections:
       links, let's have a lil' chit-chat.
     actions:
       - label: Discord
-        url: lorem-ipsum
+        url: 'https://discord.com/invite/AjgKF9FUAb'
         style: link
         icon_class: lorem-ipsum
         new_window: false
