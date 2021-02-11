@@ -1,5 +1,5 @@
 {
-    "description": "Peux OS site theme on stackbit",
+    "description": "Peux OS- a beautiful archlinux variant",
     "color_scheme": "light",
     "accent_color": "violet",
     "header": {
@@ -20,6 +20,14 @@
                 "label": "About",
                 "url": "/about/",
                 "style": "link"
+            },
+            {
+                "label": "Connect",
+                "style": "button",
+                "icon_class": "connect",
+                "new_window": false,
+                "type": "action",
+                "url": "/con/"
             }
         ],
         "logo_img": "images/pleasant-oak.png"
