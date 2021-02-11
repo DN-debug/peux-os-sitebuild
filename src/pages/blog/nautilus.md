@@ -4,6 +4,7 @@ subtitle: What sort of mix is this?
 date: '2021-02-11'
 excerpt: lorem-ipsum
 template: post
+thumb_image: images/2021-02-11-223005_1920x1080_scrot.png
 ---
 #### Gnome-FIles on XFCE? What type of madness is this?
 
