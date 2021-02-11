@@ -116,8 +116,8 @@ sections:
         url: 'https://twitter.com/whiteyakuzaa'
       - label: Forum
         style: button
-        icon_class: lorem-ipsum
-        new_window: false
+        icon_class: forum
+        new_window: true
         type: action
         url: 'https://sourceforge.net/p/peux-os/discussion/'
     type: section_content
