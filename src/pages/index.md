@@ -87,14 +87,13 @@ sections:
   - title: Let's Connect!
     section_id: con
     content: >
-      **Communication** - is the key, ain't it?  Even if you don't like Peux OS,
-      you can still talk to me because I'm sure even if you disagree, you won't
-      hate me as a person ;)
+      **Communication** - is the key, ain't it?  I am not great in
+      conversations, but I learnt as much as possible from conversations that
+      I've had with people over the years.  That's why I'm pretty sure that we
+      can be great friends ;) 
 
 
-      I am not great in conversations, but I learnt as much as possible from
-      conversations that I've had with people over the years. Below are the
-      links, let's have a lil' chit-chat.
+      Below are the links, let's have a lil' chit-chat.
     actions:
       - label: Discord
         url: 'https://discord.com/invite/AjgKF9FUAb'
