@@ -106,7 +106,7 @@ sections:
         url: 'https://t.me/peux_os'
         style: button
         icon_class: telegram
-        new_window: false
+        new_window: true
         type: action
     type: section_content
 template: advanced
