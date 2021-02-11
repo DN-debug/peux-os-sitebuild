@@ -111,7 +111,7 @@ sections:
       - label: Twitter
         style: button
         icon_class: twitter
-        new_window: false
+        new_window: true
         type: action
         url: 'https://twitter.com/whiteyakuzaa'
     type: section_content
