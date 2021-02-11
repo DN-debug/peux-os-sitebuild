@@ -84,10 +84,5 @@ sections:
         style: button
         icon_class: blog
         new_window: false
-  - section_id: Let's Connect
-    col_number: three
-    testimonials:
-      - type: testimonial
-    type: section_testimonials
 template: advanced
 ---
