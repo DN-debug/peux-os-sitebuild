@@ -96,7 +96,7 @@ sections:
       conversations that I've had with people over the years. Below are the
       links, let's have a lil' chit-chat.
     actions:
-      - label: lorem-ipsum
+      - label: Discord
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
