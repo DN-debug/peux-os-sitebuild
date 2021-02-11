@@ -84,17 +84,5 @@ sections:
         style: button
         icon_class: blog
         new_window: false
-  - title: Let's Connect
-    section_id: con
-    subtitle: '--------------------------------------'
-    content: >+
-      "Communication" - is the key, ain't it? Linux is all about community. I am
-      not aiming to build a separate community for Peux OS. However, I am trying
-      to gather people with similar ideas. Join me over the below channel.
-
-    form_action: lorem-ipsum
-    form_fields: []
-    submit_label: lorem-ipsum
-    type: section_form
 template: advanced
 ---
