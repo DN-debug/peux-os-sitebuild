@@ -17,7 +17,7 @@ Nautilus uses something called "metatracker" ( now tracker for file-indexing ), 
 
 People may say that strigi,recoll,baloo etc also use metadata. Well, I am not denying it. What they can't do is crawling through unorganized lists in a proper way. Nautilus' search indexing is fastest in the list of GUI File-Managers.
 
-\*\*Need some more explanations? \*\*
+**Need some more explanations? **
 
 Nautilus uses something called GIO (gnome-input/output) to process the requests. Now, the speciality in this is, it uses single API calls for both remote and local files. Means no back-to-back calls to slow the system down. This not only increases the robustness of FTP connections using Nautilus, but SFTP/WebDAVE/Samba and etc., would be equally robust.
 
