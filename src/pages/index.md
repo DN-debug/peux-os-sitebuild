@@ -84,8 +84,7 @@ sections:
         style: button
         icon_class: blog
         new_window: false
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
     testimonials: []
