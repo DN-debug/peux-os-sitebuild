@@ -113,6 +113,7 @@ sections:
         icon_class: lorem-ipsum
         new_window: false
         type: action
+        url: 'https://twitter.com/whiteyakuzaa'
     type: section_content
 template: advanced
 ---
