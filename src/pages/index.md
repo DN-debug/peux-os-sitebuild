@@ -87,17 +87,11 @@ sections:
   - title: Let's Connect
     section_id: con
     subtitle: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >+
+      "Communication" - is the key, ain't it? Linux is all about community. I am
+      not aiming to build a separate community for Peux OS. However, I am trying
+      to gather people with similar ideas. Join me over the below channel.
 
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
     form_action: lorem-ipsum
     form_fields: []
     submit_label: lorem-ipsum
