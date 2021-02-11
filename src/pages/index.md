@@ -86,17 +86,20 @@ sections:
         new_window: false
   - title: Let's Connect!
     section_id: con
-    content: >-
-      ## Lorem ipsum
+    content: >+
+      **Communication** - is the key, ain't it? I am not trying to recreate the
+      Linux Community by making my own. I am aiming to bring together the
+      like-minded people together, who can share some ideas, or vice-versa. Even
+      if you don't like Peux OS, you can still talk to me because I'm sure even
+      if you disagree, you won't hate me as a person ;)
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      I am not great in conversations, but I learnt as much as possible from
+      conversations that I've had with people over the years. Below are the
+      links, let's have a lil' chit-chat.
 
 
-      - Lorem ipsum
 
-      - dolor sit amet
     actions:
       - label: lorem-ipsum
         url: lorem-ipsum
