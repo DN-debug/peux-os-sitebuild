@@ -109,7 +109,7 @@ sections:
         new_window: true
         type: action
       - label: Twitter
-        style: link
+        style: button
         icon_class: twitter
         new_window: false
         type: action
