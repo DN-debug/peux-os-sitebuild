@@ -1,6 +1,6 @@
 {
     "description": "Peux OS- a beautiful archlinux variant",
-    "color_scheme": "dark",
+    "color_scheme": "light",
     "accent_color": "violet",
     "header": {
         "title": "Peux OS",
