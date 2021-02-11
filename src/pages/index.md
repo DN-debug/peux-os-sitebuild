@@ -86,7 +86,7 @@ sections:
         new_window: false
   - title: Let's Connect
     section_id: con
-    subtitle: lorem-ipsum
+    subtitle: '--------------------------------------'
     content: >+
       "Communication" - is the key, ain't it? Linux is all about community. I am
       not aiming to build a separate community for Peux OS. However, I am trying
