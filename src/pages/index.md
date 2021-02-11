@@ -87,8 +87,7 @@ sections:
   - section_id: Let's Connect
     col_number: three
     testimonials:
-      - content: lorem-ipsum
-        type: testimonial
+      - type: testimonial
     type: section_testimonials
 template: advanced
 ---
