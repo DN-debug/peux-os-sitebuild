@@ -99,7 +99,7 @@ sections:
       - label: Discord
         url: 'https://discord.com/invite/AjgKF9FUAb'
         style: button
-        icon_class: lorem-ipsum
+        icon_class: discord
         new_window: true
         type: action
       - label: Telegram
