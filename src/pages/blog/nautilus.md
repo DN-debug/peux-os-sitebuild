@@ -1,6 +1,6 @@
 ---
 title: Gnome-Files on XFCE? Huh!
-subtitle: lorem-ipsum
+subtitle: What sort of mix is this?
 date: '2021-02-11'
 excerpt: lorem-ipsum
 template: post
