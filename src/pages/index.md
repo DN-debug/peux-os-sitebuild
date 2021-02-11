@@ -119,6 +119,7 @@ sections:
         icon_class: lorem-ipsum
         new_window: false
         type: action
+        url: 'https://sourceforge.net/p/peux-os/discussion/'
     type: section_content
 template: advanced
 ---
