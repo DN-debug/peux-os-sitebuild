@@ -115,7 +115,6 @@ sections:
         type: action
         url: 'https://twitter.com/whiteyakuzaa'
       - label: Forum
-        url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
         new_window: false
