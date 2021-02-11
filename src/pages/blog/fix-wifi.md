@@ -10,18 +10,18 @@ excerpt: >-
 template: post
 thumb_image: images/amazing-amaranth.jpg
 ---
-Wifi issues are very common for Linux Systems. Though over years, this has been improved and Linux now supports most of the drivers, that either comes patched in with the System or you've to explicitly download the respective drivers.
+Wifi issues are very common for Linux Systems. Though over years, this has improved and Linux now supports most of the drivers, that either comes patched in with the System or you've to explicitly download the respective drivers.
 
-This article focuses on the aspect where Linux would already identify your Wifi but the connection establishment gives error. We are going to follow a simple process.
+This article is focused on the aspect where Linux would already identify your Wifi but the connection establishment gives error. We are going to follow a simple procedure.
 
-Follow the procedures below:
+Follow the steps below:
 
-1. Ctrl+Alt+T would fire-up your terminal. Type lspci to identify the controller present.
-2. If you are able to see the wireless controller present, then the System has identified it properly.
-3. We will now restart the NetworkManager using the command : systemctl restart NetworkManager
-4. Next, type nmtui, and use your arrow keys to select the options.
-5. We are interested in the option that says : Activate a connection.
-6. Once you hit enter, you should be able to see the listed Wifi connections. You can select the appropriate option and enter your password to establish the connection.
+1.  Ctrl+Alt+T would fire-up your terminal. Type lspci to identify the controller present.
+2.  If you are able to see the wireless controller present, then the System has identified it properly.
+3.  We will now restart the NetworkManager using the command : systemctl restart NetworkManager
+4.  Next, type nmtui, and use your arrow keys to select the options.
+5.  We are interested in the option that says : Activate a connection.
+6.  Once you hit enter, you should be able to see the listed Wifi connections. You can select the appropriate option and enter your password to establish the connection.
 
 **Note**:
 
