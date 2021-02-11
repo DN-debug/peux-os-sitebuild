@@ -84,7 +84,7 @@ sections:
         style: button
         icon_class: blog
         new_window: false
-  - section_id: lorem-ipsum
+  - section_id: Let's Connect
     col_number: three
     testimonials: []
     type: section_testimonials
