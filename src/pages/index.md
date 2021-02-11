@@ -105,7 +105,7 @@ sections:
       - label: Telegram
         url: 'https://t.me/peux_os'
         style: button
-        icon_class: lorem-ipsum
+        icon_class: telegram
         new_window: false
         type: action
     type: section_content
