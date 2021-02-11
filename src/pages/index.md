@@ -84,5 +84,41 @@ sections:
         style: button
         icon_class: blog
         new_window: false
+  - title: Let's Connect!
+    section_id: con
+    content: >
+      **Communication** - is the key, ain't it?  I am not great in
+      conversations, but I learnt as much as possible from conversations that
+      I've had with people over the years.  That's why I'm pretty sure that we
+      can be great friends ;) 
+
+
+      Below are the links, let's have a lil' chit-chat.
+    actions:
+      - label: Discord
+        url: 'https://discord.com/invite/AjgKF9FUAb'
+        style: button
+        icon_class: discord
+        new_window: true
+        type: action
+      - label: Telegram
+        url: 'https://t.me/peux_os'
+        style: button
+        icon_class: telegram
+        new_window: true
+        type: action
+      - label: Twitter
+        style: button
+        icon_class: twitter
+        new_window: true
+        type: action
+        url: 'https://twitter.com/whiteyakuzaa'
+      - label: Forum
+        style: button
+        icon_class: forum
+        new_window: true
+        type: action
+        url: 'https://sourceforge.net/p/peux-os/discussion/'
+    type: section_content
 template: advanced
 ---
