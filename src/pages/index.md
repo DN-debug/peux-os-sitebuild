@@ -103,7 +103,7 @@ sections:
         new_window: true
         type: action
       - label: Telegram
-        url: lorem-ipsum
+        url: 'https://t.me/peux_os'
         style: link
         icon_class: lorem-ipsum
         new_window: false
