@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Gnome-Files on XFCE? Huh!
 subtitle: lorem-ipsum
 date: '2021-02-11'
 excerpt: lorem-ipsum
