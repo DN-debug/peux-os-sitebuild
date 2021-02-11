@@ -84,7 +84,7 @@ sections:
         style: button
         icon_class: blog
         new_window: false
-  - title: lorem-ipsum
+  - title: Let's Connect
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
