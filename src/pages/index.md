@@ -108,7 +108,7 @@ sections:
         icon_class: telegram
         new_window: true
         type: action
-      - label: lorem-ipsum
+      - label: Twitter
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
