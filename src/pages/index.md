@@ -102,7 +102,7 @@ sections:
         icon_class: lorem-ipsum
         new_window: true
         type: action
-      - label: lorem-ipsum
+      - label: Telegram
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
