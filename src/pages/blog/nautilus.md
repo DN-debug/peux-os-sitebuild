@@ -16,7 +16,7 @@ I know right.
 
 Well, Nautilus ( I am going to refer Gnome-Files as Nautilus in this article ) is nowhere near worse. Let me explain.
 
-Nautilus uses something called "metatracker" ( now tracker for file-indexing ), which uses metadata to locate files throughout the system. You can add "tags" as well to the files, this would free you from organizing your folder list.
+Nautilus uses something called "metatracker" ( now tracker, for file-indexing ), which uses metadata to locate files throughout the system. You can add "tags" as well to the files, this would free you from organizing your folder list.
 
 People may say that strigi,recoll,baloo etc also use metadata. Well, I am not denying it. What they can't do is crawling through unorganized lists in a proper way. Nautilus' search indexing is fastest in the list of GUI File-Managers.
 
