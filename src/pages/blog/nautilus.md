@@ -26,12 +26,10 @@ Nautilus uses something called GIO (gnome-input/output) to process the requests.
 
 In worst-case scenario, tracking the file would hardly take 5-7 MB of RAM, hence no pressure on system.
 
-While, I do believe that every piece of software has its pros-and-cons and the same goes for Nautilus. However, I don't support the idea of completely bashing a piece of software. The reason being, there's a lot of efforts in every piece of software that's out there, and community can only grow and attract more people when we'll stop being harsh towards each other. Don't like it no problem, politely disagree and decline.
+While, I do believe that every piece of software has its pros-and-cons and the same goes for Nautilus. However, I don't support the idea of completely bashing a piece of software. The reason being, there's a lot of efforts behind every piece of software that's out there, and community can only grow and attract more people when we'll stop being harsh towards each other. Don't like it no problem, politely disagree and decline.
 
 Peux OS does come with Thunar as well, no restrictions, it has good features too.  You can replace both thunar and nautilus with something else, after-all it's Linux and we have plenty of file-managers to choose from unlike WIndows ;)
 
-Want me to change the default FM? Sure, if you provide detailed-enough explanation of the GUI FM that you opt-for and has better indexing than Nautilus, then I can consider. 
-
-
+Want me to change the default FM? Sure, if you provide detailed-enough explanation of the GUI FM that you opt-for and has better indexing than Nautilus, then I can consider.
 
 **Side-Note**: Thunar uses "GVFS" which is a gnome-component to manage remote-fs/trash among few other things.
