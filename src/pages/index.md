@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'PEUX OS -| [ POS ]'
     content: |
-      | Beautiful, minimal, secure and highly customized Archlinux-distro
+      | Beautiful, minimal, secure, and highly customized Archlinux-distro
     actions:
       - label: Download
         url: 'https://fosstorrents.com/distributions/peux-os/'
