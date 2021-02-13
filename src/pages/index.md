@@ -34,7 +34,7 @@ sections:
           OH! btw "FISH" is the default shell.
       - title: Apps & Packages
         content: >
-          PACMAN is the default cli package manager along with pamac as an
+          PACMAN is the default CLI package manager along with pamac as an
           alternative. For GUI, use Pamac-Manager, with Flatpak and AUR support
           options in its settings.
   - title: Versions
