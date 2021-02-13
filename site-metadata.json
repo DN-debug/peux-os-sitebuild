@@ -27,7 +27,7 @@
                 "icon_class": "connect",
                 "new_window": false,
                 "type": "action",
-                "url": "#con"
+                "url": "/#con"
             }
         ],
         "logo_img": "images/pleasant-oak.png"
