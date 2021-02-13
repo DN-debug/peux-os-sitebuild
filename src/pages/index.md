@@ -48,9 +48,14 @@ sections:
       and stability. This project will improve with time.
 
 
-      **Note: All the downloads are now moved to stable branch. The aim is to
-      keep it minimal rather than lightweight. You can download Peux OS from any
-      of the below available sites.**
+      Please note that if you are using UnetBootin/Etcher, then the boot-process
+      is likely going to fail. To make a bootable USB, use Rufus-dd mode/dd -
+      CLI mode / Multiwriter. 
+
+
+      **Note: All the downloads are now moved to the stable branch. The aim is
+      to keep it minimal rather than lightweight. You can download Peux OS from
+      any of the below available sites.**
     actions:
       - label: FOSSTorrents
         url: 'https://fosstorrents.com/distributions/peux-os/'
