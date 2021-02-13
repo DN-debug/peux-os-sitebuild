@@ -49,7 +49,7 @@ sections:
 
       Please note that if you are using UnetBootin/Etcher, then the boot-process
       is likely going to fail. To make a bootable USB, use Rufus-dd mode/dd -
-      CLI mode / Multiwriter. 
+      CLI mode / Multiwriter.
 
 
       **Note: All the downloads are now moved to the stable branch. The aim is
