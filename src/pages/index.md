@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'PEUX OS -| [ POS ]'
     content: |
-      | Beautiful, minimal, secure and highly customized Archlinux-distro
+      | Beautiful, minimal, secure, and highly customized Archlinux-distro
     actions:
       - label: Download
         url: 'https://fosstorrents.com/distributions/peux-os/'
@@ -26,16 +26,15 @@ sections:
           panel. Aiming to have a minimal desktop and yet beautiful.
 
       - title: Beautiful yet Secure
-        content: >+
-          POS doesn't only look good. Its tied with apps that will help you
+        content: >
+          POS doesn't only look good. It is tied with apps that will help you
           secure your data and privacy. You can sandbox your applications, do
           anonymous surfing among many other things.
 
           OH! btw "FISH" is the default shell.
-
       - title: Apps & Packages
         content: >
-          PACMAN is the default cli package manager along with pamac as an
+          PACMAN is the default CLI package manager along with pamac as an
           alternative. For GUI, use Pamac-Manager, with Flatpak and AUR support
           options in its settings.
   - title: Versions
@@ -50,7 +49,7 @@ sections:
 
       Please note that if you are using UnetBootin/Etcher, then the boot-process
       is likely going to fail. To make a bootable USB, use Rufus-dd mode/dd -
-      CLI mode / Multiwriter. 
+      CLI mode / Multiwriter.
 
 
       **Note: All the downloads are now moved to the stable branch. The aim is
@@ -92,10 +91,10 @@ sections:
   - title: Let's Connect!
     section_id: con
     content: >
-      **Communication** - is the key, ain't it?  I am not great in
-      conversations, but I learnt as much as possible from conversations that
+      **Communication** - is the key, ain't it?  I am not great at
+      conversations, but I learned as much as possible from conversations that
       I've had with people over the years.  That's why I'm pretty sure that we
-      can be great friends ;) 
+      can be great friends ;)
 
 
       Below are the links, let's have a lil' chit-chat.
