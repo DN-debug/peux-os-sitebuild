@@ -141,7 +141,7 @@ sections:
         icon_class: Patreon
         new_window: true
         type: action
-      - label: BMC
+      - label: BuyMe
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
