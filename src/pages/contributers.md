@@ -6,7 +6,7 @@ A **pantheon** is a group of important and respected people. Out of respect, thi
 
 > **WALL OF FAME**
 >
-> ***\[Given to Patrons and KoFi supporters for their contribution to FOSS Donations]***
+> ***\[Given to Patrons and BuyMeACoffee supporters for their contribution to FOSS Donations]***
 
 *   Modo -- My first patron and the person who initially saw the "sincerity and uniqueness" in this project.
 
