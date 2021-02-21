@@ -141,7 +141,7 @@ sections:
         new_window: true
         type: action
       - label: BuyMeACoffee - One Time Payment
-        url: lorem-ipsum
+        url: 'https://www.buymeacoffee.com/peuxos'
         style: button
         icon_class: lorem-ipsum
         new_window: false
