@@ -125,7 +125,6 @@ sections:
         url: 'https://sourceforge.net/p/peux-os/discussion/'
     type: section_content
   - title: Donations
-    section_id: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
