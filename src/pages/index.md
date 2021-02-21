@@ -125,15 +125,14 @@ sections:
         url: 'https://sourceforge.net/p/peux-os/discussion/'
     type: section_content
   - title: Donations
-    content: >+
+    content: >
       Peux OS is free and will always be free. It was a suggestion by someone to
       keep this section because most of the time people don't check the footer (
       I fall under the same category ).
 
 
-      This is not a necessity at all, but if you want to help by donating to the
-      Project, then click on any of the below buttons:
-
+      This is not a necessity at all, but if you want to help through donations,
+      then click on any of the below buttons:
     actions:
       - label: Patreon - Monthly Membership
         url: 'https://www.patreon.com/peuxos'
