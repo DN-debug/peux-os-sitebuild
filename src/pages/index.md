@@ -134,7 +134,13 @@ sections:
       This is not a necessity at all, but if you want to help by donating to the
       Project, then click on any of the below buttons:
 
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        type: action
     type: section_content
     subtitle: Not-a-necessity
 template: advanced
