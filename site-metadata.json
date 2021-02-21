@@ -78,7 +78,7 @@
                 "label": "lorem-ipsum",
                 "url": "lorem-ipsum",
                 "style": "icon",
-                "icon_class": " Example of coffee fa-coffee",
+                "icon_class": "fa-coffee",
                 "new_window": false,
                 "type": "action"
             }
