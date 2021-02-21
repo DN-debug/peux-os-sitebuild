@@ -7,7 +7,9 @@ A **pantheon** of a group of important and respected people. This page is dedica
 The list below is going to expand with time.
 
 > **WALL OF FAME**
+>
+> ***\[Given to Patrons and KoFi supporters for their contribution to FOSS Donations]***
 
 *   Modo -- My first patron and the person who initially saw the "sincerity and uniqueness" in this project.
 
-> **WALL OF TESTERS**
+> ****
