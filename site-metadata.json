@@ -22,20 +22,20 @@
                 "style": "link"
             },
             {
-                "label": "Connect",
-                "style": "button",
-                "icon_class": "connect",
-                "new_window": false,
-                "type": "action",
-                "url": "/#con"
-            },
-            {
                 "label": "Supporters",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
                 "type": "action"
+            },
+            {
+                "label": "Connect",
+                "style": "button",
+                "icon_class": "connect",
+                "new_window": false,
+                "type": "action",
+                "url": "/#con"
             }
         ],
         "logo_img": "images/pleasant-oak.png"
