@@ -12,4 +12,12 @@ The list below is going to expand with time.
 
 *   Modo -- My first patron and the person who initially saw the "sincerity and uniqueness" in this project.
 
-> ****
+
+
+> **PILLARS
+>
+> \[Given to testers, proposers, reviewers]**
+
+
+
+*   dangeruss26
