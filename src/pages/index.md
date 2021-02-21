@@ -135,7 +135,7 @@ sections:
       Project, then click on any of the below buttons:
 
     actions:
-      - label: lorem-ipsum
+      - label: Patreon
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
