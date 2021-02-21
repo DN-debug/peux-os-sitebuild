@@ -2,7 +2,7 @@
 template: page
 title: Pantheon
 ---
-A **pantheon** is a group of important and respected people. This page is dedicated to them, for willingly contributing to the Peux OS project. I never thought that this project would gain so much exposure. The aim has always been simple: stick with Archlinux philosophy while implementing modern desktop ideas and that being the sole reason for not having a custom repository for Peux OS. The release cycle is also a bit weird because I always go outside of the predefined ways of implementation.
+A **pantheon** is a group of important and respected people. Out of respect, this page is dedicated to them, for willingly contributing to the Peux OS project, in one way or the other. I never thought that this project would gain so much exposure. The aim has always been simple: stick with Archlinux philosophy while implementing modern desktop ideas and that being the sole reason for not having a custom repository for Peux OS. The release cycle is also a bit weird because I always go outside of the predefined ways of implementation.
 
 > **WALL OF FAME**
 >
