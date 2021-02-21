@@ -79,7 +79,7 @@
                 "url": "https://www.buymeacoffee.com/peuxos",
                 "style": "icon",
                 "icon_class": "fa-codiepie",
-                "new_window": false,
+                "new_window": true,
                 "type": "action"
             }
         ]
