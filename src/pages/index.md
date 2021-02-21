@@ -135,7 +135,7 @@ sections:
       Project, then click on any of the below buttons:
 
     actions:
-      - label: Patreon
+      - label: Patreon - Monthly Membership
         url: 'https://www.patreon.com/peuxos'
         style: button
         icon_class: Patreon
