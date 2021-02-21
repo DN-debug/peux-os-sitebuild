@@ -77,7 +77,7 @@
             {
                 "label": "lorem-ipsum",
                 "url": "lorem-ipsum",
-                "style": "link",
+                "style": "icon",
                 "icon_class": "fa fa-coffee",
                 "new_window": false,
                 "type": "action"
