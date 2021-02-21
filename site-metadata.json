@@ -24,7 +24,7 @@
             {
                 "label": "Supporters",
                 "style": "link",
-                "icon_class": "lorem-ipsum",
+                "icon_class": "Contributors",
                 "new_window": false,
                 "type": "action",
                 "url": "/contributors"
