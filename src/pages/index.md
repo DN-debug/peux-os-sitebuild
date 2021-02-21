@@ -137,7 +137,7 @@ sections:
     actions:
       - label: Patreon
         url: 'https://www.patreon.com/peuxos'
-        style: link
+        style: button
         icon_class: Patreon
         new_window: true
         type: action
