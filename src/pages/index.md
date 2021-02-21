@@ -139,7 +139,7 @@ sections:
         url: 'https://www.patreon.com/peuxos'
         style: link
         icon_class: Patreon
-        new_window: false
+        new_window: true
         type: action
       - label: lorem-ipsum
         url: lorem-ipsum
