@@ -123,12 +123,6 @@ sections:
         new_window: true
         type: action
         url: 'https://sourceforge.net/p/peux-os/discussion/'
-      - label: lorem-ipsum
-        url: lorem-ipsum
-        style: link
-        icon_class: lorem-ipsum
-        new_window: false
-        type: action
     type: section_content
 template: advanced
 ---
