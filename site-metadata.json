@@ -26,7 +26,8 @@
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
-                "type": "action"
+                "type": "action",
+                "url": "/contributors"
             },
             {
                 "label": "Connect",
