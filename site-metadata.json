@@ -30,7 +30,7 @@
                 "url": "/contributors"
             },
             {
-                "label": "Pantheon",
+                "label": "Connect",
                 "style": "button",
                 "icon_class": "connect",
                 "new_window": false,
