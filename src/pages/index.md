@@ -141,7 +141,7 @@ sections:
         icon_class: Patreon
         new_window: true
         type: action
-      - label: BuyMeACoffee
+      - label: BuyMeACoffee - OTP
         url: lorem-ipsum
         style: button
         icon_class: lorem-ipsum
