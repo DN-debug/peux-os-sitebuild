@@ -1,9 +1,25 @@
 ---
 template: page
 ---
-## Lorem ipsum
+This page is dedicated to those who willingly contributed to the Peux OS project. I never thought that this project would gain so much exposure. The aim has always been simple: stick with Archlinux philosophy while implementing modern desktop ideas and that being the sole reason for not having a custom repository for Peux OS.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The list below is going to expand with time. 
 
-- Lorem ipsum
-- dolor sit amet
+
+
+> **WALL OF FAME**
+
+*   Modo -- My first patron and the person who initially saw the "sincerity and uniqueness" in this project.
+
+
+
+
+
+
+
+
+
+
+
+
+
