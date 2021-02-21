@@ -75,7 +75,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "KoFi",
                 "url": "lorem-ipsum",
                 "style": "icon",
                 "icon_class": "fa-coffee",
