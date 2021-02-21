@@ -136,7 +136,7 @@ sections:
 
     actions:
       - label: Patreon
-        url: lorem-ipsum
+        url: 'https://www.patreon.com/peuxos'
         style: link
         icon_class: lorem-ipsum
         new_window: false
