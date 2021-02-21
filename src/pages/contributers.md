@@ -1,5 +1,4 @@
 ---
-excerpt: lorem-ipsum
 template: page
 ---
 ## Lorem ipsum
