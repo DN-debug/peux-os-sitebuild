@@ -125,17 +125,15 @@ sections:
         url: 'https://sourceforge.net/p/peux-os/discussion/'
     type: section_content
   - title: Donations
-    content: >-
-      ## Lorem ipsum
+    content: >+
+      Peux OS is free and will always be free. It was a suggestion by someone to
+      keep this section because most of the time people don't check the footer (
+      I fall under the same category ).
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      This is not a necessity at all, but if you want to help by donating to the
+      Project, then click on any of the below buttons:
 
-
-      - Lorem ipsum
-
-      - dolor sit amet
     actions: []
     type: section_content
     subtitle: Not-a-necessity
