@@ -78,7 +78,7 @@
                 "label": "KoFi",
                 "url": "https://www.buymeacoffee.com/peuxos",
                 "style": "icon",
-                "icon_class": "fa-pizza-slice",
+                "icon_class": "fa-coffee",
                 "new_window": false,
                 "type": "action"
             }
