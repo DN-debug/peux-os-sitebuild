@@ -25,7 +25,7 @@
                 "label": "Supporters",
                 "style": "link",
                 "icon_class": "Contributors",
-                "new_window": false,
+                "new_window": true,
                 "type": "action",
                 "url": "/contributors"
             },
