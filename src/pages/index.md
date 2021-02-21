@@ -124,7 +124,7 @@ sections:
         type: action
         url: 'https://sourceforge.net/p/peux-os/discussion/'
     type: section_content
-  - title: lorem-ipsum
+  - title: Contribute
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
