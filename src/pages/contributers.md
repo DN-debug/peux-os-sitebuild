@@ -23,4 +23,4 @@ Below is the list of contributors:
 
 This list will grow eventually as the number of contributors would rise. My teacher used to tell me that " not everybody would like your work, but cherish those who will and never let it go ". I'd give myself some credit as well for changing it from a hobby project to partial-hobby project ( I'm nothing but generous :D )
 
-Thank you for reading!
+Thank you !
