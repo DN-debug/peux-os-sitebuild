@@ -78,7 +78,7 @@
                 "label": "KoFi",
                 "url": "lorem-ipsum",
                 "style": "icon",
-                "icon_class": "fa-menu",
+                "icon_class": "fa-beer",
                 "new_window": false,
                 "type": "action"
             }
