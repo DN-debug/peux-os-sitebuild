@@ -132,7 +132,7 @@ sections:
 
 
       This is not a necessity at all, but if you want to help through donations,
-      then click on any of the below buttons:
+      then click on any of the buttons below:
     actions:
       - label: Patreon - Monthly Membership
         url: 'https://www.patreon.com/peuxos'
