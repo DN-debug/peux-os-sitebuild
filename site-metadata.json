@@ -27,7 +27,7 @@
                 "icon_class": "Contributors",
                 "new_window": true,
                 "type": "action",
-                "url": "/contributors/"
+                "url": "/contributers/"
             },
             {
                 "label": "Connect",
