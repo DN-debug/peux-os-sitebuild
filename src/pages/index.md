@@ -144,7 +144,7 @@ sections:
         url: 'https://www.buymeacoffee.com/peuxos'
         style: button
         icon_class: lorem-ipsum
-        new_window: false
+        new_window: true
         type: action
     type: section_content
     subtitle: Not-a-necessity
