@@ -128,12 +128,11 @@ sections:
     content: >
       Peux OS is free and will always be free. Someone suggested me to keep this
       section because most of the time people don't check the website-footer ( I
-      am one of them ). 
+      am one of them ).
 
 
       This is a choice, if you want to help through donations then by all means
-      I'd accept that. Any of the buttons below would take you to the respective
-      site:
+      I'd accept that. Any of the buttons below would take you to there:
     actions:
       - label: Patreon - Monthly Membership
         url: 'https://www.patreon.com/peuxos'
