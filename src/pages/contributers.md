@@ -17,10 +17,10 @@ Below is the list of contributors:
 > ***\[Given to testers, proposers, reviewers]***
 
 *   FossTorrents -- My first partnership was with FossTorrent guys. They provided a free torrent hosting platform and refurbished the Peux Logo as a support to the project.
-*   Tyler'sTech -- A popular YouTuber in our "Linux Community". He reviewed the project and created an extraordinary audience for it.
-*   dangeruss26 -- An active Twister OS tester.  Willingly participated in testing the Peux OS to make it much better. He tested it on different machines, which helped in identifying hardware issues. He'll be participating in a lot more upcoming tests.
+*   Tyler'sTech -- A popular YouTuber in our "Linux Community". His unbiased review of the project has helped to create an extraordinary audience for it. 
+*   dangeruss26 -- An active Twister OS tester.  Willingly participated in testing Peux OS to make it much better. He tested it on different machines, which helped in identifying hardware issues. He'll be participating in a lot more upcoming tests.
 *   Anthony -- Still a school-kid and probably the youngest among us but the desire to contribute to FOSS is overwhelming. You'll most likely see the wallpapers contributed by him in the next release.
 
-This list will grow eventually as the number of contributors would rise. My teacher used to tell me that " not everybody would like your work, but cherish those who will and never let it go ". I'd give myself some credit as well for changing it from a hobby project to partial-hobby project ( I'm nothing but generous :D )
+This list will grow eventually as the number of contributors would rise. My teacher used to tell me that " not everybody would like your work, but cherish those who will and never let it go ". I'd give myself some credit as well for changing it from a hobby project to a partial-hobby project ( I'm nothing but generous :D )
 
-Thank you !
+Thank you!
