@@ -4,7 +4,6 @@ excerpt: No repositories! How is the end-user going to apply Peux specific updat
 template: post
 title: Releases - Explained!
 thumb_image: images/update.jpg
-image: images/super-tomato.jpg
 ---
 In this post, let's take a deep dive into how the release would work and how the existing users are going to apply the changes.
 
