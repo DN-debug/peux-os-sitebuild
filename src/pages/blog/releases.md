@@ -32,8 +32,7 @@ Poor jokes aside, here comes the list:
 
 Oh btw! You won't be able to blame the OS Developer anymore ;)
 
-Of course, new ISOs would be out everytime a release is made public and for those who want to install the wholesome system again. You would get to experience Peux OS - the arch-way. You would not only learn to tweak the system but also open up to new concepts of implementing things. The advantage here would be that the code-base would increase. Module-type changes would be available to implement anytime, instead of reviewing the whole system for one specific bug in an occurrence of a program. Of course, you would then debug with breakpoints, but the shorter it is, the faster and quicker it becomes.
-
+Of course, new ISOs would be out everytime a release is made public for new end-users and for those who want to install the wholesome system again. You would get to experience Peux OS - the arch-way. You would not only learn to tweak the system but also open up to new concepts of implementing things. The advantage here would be that the code-base would increase. Module-type changes would be available to implement anytime, instead of reviewing the whole system for one specific bug in an occurrence of a program. Of course, you would then debug with breakpoints, but the shorter it is, the faster and quicker it becomes.
 
 I know that if things would go wrong, you can revert the changes easily using the snapshots present. However, this is just an added layer of prevention to your usual BTRFS-SNAPSHOTS along with slight learning-curve involved ( for me and the end-users ) as well.
 
