@@ -1,6 +1,6 @@
 ---
 date: '2021-03-05'
-excerpt: 'How the '
+excerpt: 'How would the end-user '
 template: post
 title: Releases - Explained!
 ---
