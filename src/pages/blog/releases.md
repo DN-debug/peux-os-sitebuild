@@ -1,6 +1,6 @@
 ---
 date: '2021-03-05'
-excerpt: How would the end-user apply OS Updates and releas
+excerpt: How would the end-user apply Peux specific updates? Read to know more!
 template: post
 title: Releases - Explained!
 ---
