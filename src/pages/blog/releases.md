@@ -3,6 +3,7 @@ date: '2021-03-05'
 excerpt: How would the end-user apply Peux specific updates? Read to know more!
 template: post
 title: Releases - Explained!
+thumb_image: images/update.jpg
 ---
 In this post, let's take a deep dive into how the release would work and how the existing users are going to apply the changes.
 
