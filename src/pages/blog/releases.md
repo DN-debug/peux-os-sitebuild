@@ -1,6 +1,6 @@
 ---
 date: '2021-03-05'
-excerpt: 'How would the end-user apply '
+excerpt: How would the end-user apply OS Updates and releas
 template: post
 title: Releases - Explained!
 ---
