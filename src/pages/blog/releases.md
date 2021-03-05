@@ -1,6 +1,6 @@
 ---
 date: '2021-03-05'
-excerpt: How would the end-user apply Peux specific updates? Read to know more!
+excerpt: How is the end-user going to apply Peux specific updates?
 template: post
 title: Releases - Explained!
 thumb_image: images/update.jpg
