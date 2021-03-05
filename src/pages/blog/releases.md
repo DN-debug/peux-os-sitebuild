@@ -1,6 +1,6 @@
 ---
 date: '2021-03-05'
-excerpt: lorem-ipsum
+excerpt: 'How '
 template: post
 title: Releases - Explained!
 ---
