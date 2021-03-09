@@ -132,7 +132,7 @@ sections:
 
 
       This is a choice, if you want to help through donations then by all means
-      I'd accept that. Any of the buttons below would take you to there:
+      chip in that money. Any of the buttons below would take you there:
     actions:
       - label: Patreon - Monthly Membership
         url: 'https://www.patreon.com/peuxos'
