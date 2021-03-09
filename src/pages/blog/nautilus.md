@@ -26,7 +26,7 @@ Nautilus uses something called GIO (gnome-input/output) to process the requests.
 
 In the worst-case scenario, tracking the file would hardly take 5-7 MB of RAM, hence no pressure on the system.
 
-While I do believe that every piece of software has its pros-and-cons and the same goes for Nautilus. However, I don't support the idea of completely bashing a piece of software. The reason being, there's a lot of effort put behind every piece of software that's out there, and the,community can only grow and attract more people when we'll stop being harsh towards each other. Don't like it no problem, politely disagree and decline.
+While I do believe that every piece of software has its pros-and-cons and the same goes for Nautilus. However, I don't support the idea of completely bashing a piece of software. The reason being, there's a lot of effort put behind every piece of software that's out there, and the community can only grow and attract more people when we'll stop being harsh towards each other. Don't like it no problem, politely disagree and decline. If possible, then provide some suggestions. 
 
 Peux OS does come with Thunar as well, no restrictions, it has good features too.  You can replace both thunar and nautilus with something else, after all, it's Linux and we have plenty of file-managers to choose from unlike WIndows ;)
 
