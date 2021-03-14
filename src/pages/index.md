@@ -91,7 +91,7 @@ sections:
       - label: SourceForge
         url: 'https://sourceforge.net/projects/peux-os/files/'
         style: button
-        new_window: false
+        new_window: true
         type: action
       - label: lorem-ipsum
         url: lorem-ipsum
