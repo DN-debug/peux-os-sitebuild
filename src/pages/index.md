@@ -96,7 +96,7 @@ sections:
       - label: OSDN
         url: 'https://osdn.net/projects/peux-os/'
         style: button
-        new_window: false
+        new_window: true
         type: action
     type: section_content
     image: images/snapkde.png
