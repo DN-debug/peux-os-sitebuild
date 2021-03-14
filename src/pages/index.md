@@ -89,6 +89,7 @@ sections:
     image: images/snapkde.png
     section_id: '#peuxkde'
     subtitle: KDE - Recent addition to the list
+    title: Versions
   - section_id: mini-notes
     type: section_posts
     title: Highlights from Mini-Notes
