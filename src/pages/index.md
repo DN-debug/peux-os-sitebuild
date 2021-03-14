@@ -63,17 +63,25 @@ sections:
         type: action
     type: section_content
     image: images/elite-triceratops.png
-  - content: >-
-      ## Lorem ipsum
+  - content: >
+      ***Peux OS*** comes with four different desktop flavors: XFCE, LXQt, Gnome
+      and KDE. XFCE is the flagship. Out of these three versions, LXQt and XFCE
+      are both highly configured. Gnome is included because of its minimalism
+      and stability. 
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      KDE is the recent additon made after communty-request, to the list of
+      flavors. This project will improve with time.
 
 
-      - Lorem ipsum
+      Please note that if you are using UnetBootin/Etcher, then the boot-process
+      is likely going to fail. To make a bootable USB, use Rufus-dd mode / dd -
+      CLI mode / Multiwriter.
 
-      - dolor sit amet
+
+      **Note: All the downloads are now moved to the stable branch. The aim is
+      to keep it minimal rather than lightweight. You can download Peux OS from
+      any of the below available sites.**
     actions: []
     type: section_content
     image: images/snapkde.png
