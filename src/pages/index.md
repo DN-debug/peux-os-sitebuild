@@ -162,5 +162,6 @@ sections:
     actions: []
     type: section_content
     image: images/snapkde.png
+    section_id: '#kde'
 template: advanced
 ---
