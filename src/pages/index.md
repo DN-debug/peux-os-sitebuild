@@ -44,13 +44,16 @@ sections:
       and stability.
 
 
-      KDE is the recent additon made after communty-request, to the list of
-      flavors. This project will improve with time.
+      KDE is the recent additioon to the list, after getting huge number of
+      communty-request. This project will improve with time.
 
 
       Please note that if you are using UnetBootin/Etcher, then the boot-process
       is likely going to fail. To make a bootable USB, use Rufus-dd mode / dd -
       CLI mode / Multiwriter.
+
+
+      ****
 
 
       **Note: All the downloads are now moved to the stable branch. The aim is
@@ -61,6 +64,11 @@ sections:
       **KDE has just been added, so it'll take some time to reflect on the
       respective sites. If you are not seeing the KDE ISO, that'd mean, either
       the upload is pending for that site, or it's taking time to reflect.**
+
+
+
+
+      ****
     actions:
       - label: FOSSTorrents
         url: 'https://fosstorrents.com/distributions/peux-os/'
