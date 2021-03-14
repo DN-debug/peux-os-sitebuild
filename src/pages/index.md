@@ -96,7 +96,6 @@ sections:
       - label: OSDN
         url: 'https://osdn.net/projects/peux-os/'
         style: button
-        icon_class: lorem-ipsum
         new_window: false
         type: action
     type: section_content
