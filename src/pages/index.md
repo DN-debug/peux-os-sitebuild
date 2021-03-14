@@ -76,6 +76,21 @@ sections:
         type: action
     type: section_content
     image: images/elite-triceratops.png
+  - content: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    actions: []
+    type: section_content
+    image: images/snapkde.png
+    section_id: '#peuxkde'
   - section_id: mini-notes
     type: section_posts
     title: Highlights from Mini-Notes
@@ -148,20 +163,5 @@ sections:
         type: action
     type: section_content
     subtitle: Not-a-necessity
-  - content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    actions: []
-    type: section_content
-    image: images/snapkde.png
-    section_id: '#peuxkde'
 template: advanced
 ---
