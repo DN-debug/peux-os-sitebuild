@@ -83,7 +83,7 @@ sections:
       to keep it minimal rather than lightweight. You can download Peux OS from
       any of the below available sites.**
     actions:
-      - label: lorem-ipsum
+      - label: FossT
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
