@@ -89,7 +89,7 @@ sections:
         new_window: true
         type: action
       - label: SourceForge
-        url: lorem-ipsum
+        url: 'https://sourceforge.net/projects/peux-os/files/'
         style: link
         icon_class: lorem-ipsum
         new_window: false
