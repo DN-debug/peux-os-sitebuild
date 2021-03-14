@@ -42,13 +42,7 @@ sections:
     subtitle: ''
     content: |
       ****
-    actions:
-      - label: SourceForge
-        url: 'https://sourceforge.net/projects/peux-os/files/'
-        style: button
-        icon_class: SV
-        new_window: true
-        type: action
+    actions: []
     type: section_content
     image: images/elite-triceratops.png
   - content: >
