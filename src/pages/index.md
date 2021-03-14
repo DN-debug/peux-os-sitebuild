@@ -78,7 +78,7 @@ sections:
         new_window: true
         type: action
     type: section_content
-    image: images/snapkde.png
+    image: images/purple-avocado.png
     section_id: '#versions'
     subtitle: KDE - Recent addition to the list
     title: Versions
