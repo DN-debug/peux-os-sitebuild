@@ -53,22 +53,20 @@ sections:
       CLI mode / Multiwriter.
 
 
-      ****
+      ***
 
 
-      **Note: All the downloads are now moved to the stable branch. The aim is
+      \*\*Note: All the downloads are now moved to the stable branch. The aim is
       to keep it minimal rather than lightweight. You can download Peux OS from
-      any of the below available sites. **
+      any of the below available sites. \*\*
 
 
       **KDE has just been added, so it'll take some time to reflect on the
       respective sites. If you are not seeing the KDE ISO, that'd mean, either
-      the upload is pending for that site, or it's taking time to reflect.**
+      the upload is pending on that site, or it's taking time to reflect.**
 
 
-
-
-      ****
+      ***
     actions:
       - label: FOSSTorrents
         url: 'https://fosstorrents.com/distributions/peux-os/'
