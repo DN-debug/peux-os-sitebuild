@@ -88,7 +88,7 @@ sections:
     type: section_content
     image: images/snapkde.png
     section_id: '#peuxkde'
-    subtitle: KDE - Latest Version
+    subtitle: 'KDE - '
   - section_id: mini-notes
     type: section_posts
     title: Highlights from Mini-Notes
