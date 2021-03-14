@@ -82,7 +82,13 @@ sections:
       **Note: All the downloads are now moved to the stable branch. The aim is
       to keep it minimal rather than lightweight. You can download Peux OS from
       any of the below available sites.**
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        type: action
     type: section_content
     image: images/snapkde.png
     section_id: '#peuxkde'
