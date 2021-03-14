@@ -37,14 +37,6 @@ sections:
           PACMAN is the default CLI package manager along with pamac as an
           alternative. For GUI, use Pamac-Manager, with Flatpak and AUR support
           options in its settings.
-  - title: Versions
-    section_id: versions
-    subtitle: XFCE/LXQt/GNOME
-    content: |
-      ****
-    actions: []
-    type: section_content
-    image: images/elite-triceratops.png
   - content: >
       ***Peux OS*** comes with four different desktop flavors: XFCE, LXQt, Gnome
       and KDE. XFCE is the flagship. Out of these three versions, LXQt and XFCE
