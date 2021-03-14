@@ -39,7 +39,7 @@ sections:
           options in its settings.
   - title: Versions
     section_id: versions
-    subtitle: ''
+    subtitle: XFCE/LXQt/GNOME
     content: |
       ****
     actions: []
