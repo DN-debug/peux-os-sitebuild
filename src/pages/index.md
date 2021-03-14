@@ -49,12 +49,6 @@ sections:
         icon_class: SV
         new_window: true
         type: action
-      - label: OSDN
-        url: 'https://osdn.net/projects/peux-os/'
-        style: button
-        icon_class: GNOME
-        new_window: true
-        type: action
     type: section_content
     image: images/elite-triceratops.png
   - content: >
