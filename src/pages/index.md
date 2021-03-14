@@ -88,7 +88,7 @@ sections:
         style: button
         new_window: true
         type: action
-      - label: lorem-ipsum
+      - label: SourceForge
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
