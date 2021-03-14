@@ -45,7 +45,7 @@ sections:
 
 
       KDE is the recent addition to the list, after getting a huge number of
-      community-request. This project will improve with time.
+      community-request. 
 
 
       Please note that if you are using UnetBootin/Etcher, then the boot-process
@@ -58,7 +58,7 @@ sections:
 
       \*\*Note: All the downloads are now moved to the stable branch. The aim is
       to keep it minimal rather than lightweight. You can download Peux OS from
-      any of the below available sites. \*\*
+      any of the below available sites. This project will improve with time.\*\*
 
 
       **KDE has just been added, so it'll take some time to reflect on the
