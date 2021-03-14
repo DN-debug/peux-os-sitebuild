@@ -40,21 +40,8 @@ sections:
   - title: Versions
     section_id: versions
     subtitle: ''
-    content: >
-      ***Peux OS*** comes with three different desktop flavors: XFCE, LXQt and
-      Gnome. XFCE is the flagship. Out of these three versions, LXQt and XFCE
-      are both highly configured. Gnome is included because of its minimalism
-      and stability. This project will improve with time.
-
-
-      Please note that if you are using UnetBootin/Etcher, then the boot-process
-      is likely going to fail. To make a bootable USB, use Rufus-dd mode / dd -
-      CLI mode / Multiwriter.
-
-
-      **Note: All the downloads are now moved to the stable branch. The aim is
-      to keep it minimal rather than lightweight. You can download Peux OS from
-      any of the below available sites.**
+    content: |
+      ****
     actions:
       - label: FOSSTorrents
         url: 'https://fosstorrents.com/distributions/peux-os/'
