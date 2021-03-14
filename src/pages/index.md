@@ -43,12 +43,6 @@ sections:
     content: |
       ****
     actions:
-      - label: FOSSTorrents
-        url: 'https://fosstorrents.com/distributions/peux-os/'
-        style: button
-        icon_class: lorem-ipsum
-        new_window: true
-        type: action
       - label: SourceForge
         url: 'https://sourceforge.net/projects/peux-os/files/'
         style: button
