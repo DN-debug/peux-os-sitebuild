@@ -44,8 +44,8 @@ sections:
       and stability.
 
 
-      KDE is the recent additioon to the list, after getting huge number of
-      communty-request. This project will improve with time.
+      KDE is the recent addition to the list, after getting a huge number of
+      community-request. This project will improve with time.
 
 
       Please note that if you are using UnetBootin/Etcher, then the boot-process
