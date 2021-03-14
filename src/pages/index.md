@@ -87,6 +87,7 @@ sections:
     image: images/purple-avocado.png
     section_id: '#versions'
     title: Versions
+    subtitle: Official Versions
   - section_id: mini-notes
     type: section_posts
     title: Highlights from Mini-Notes
