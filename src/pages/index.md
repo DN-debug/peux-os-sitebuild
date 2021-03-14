@@ -85,7 +85,7 @@ sections:
     actions:
       - label: FOSSTorrents
         url: 'https://fosstorrents.com/distributions/peux-os/'
-        style: link
+        style: button
         icon_class: lorem-ipsum
         new_window: false
         type: action
