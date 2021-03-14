@@ -67,7 +67,7 @@ sections:
       ***Peux OS*** comes with four different desktop flavors: XFCE, LXQt, Gnome
       and KDE. XFCE is the flagship. Out of these three versions, LXQt and XFCE
       are both highly configured. Gnome is included because of its minimalism
-      and stability. 
+      and stability.
 
 
       KDE is the recent additon made after communty-request, to the list of
@@ -81,7 +81,12 @@ sections:
 
       **Note: All the downloads are now moved to the stable branch. The aim is
       to keep it minimal rather than lightweight. You can download Peux OS from
-      any of the below available sites.**
+      any of the below available sites. **
+
+
+      **KDE has just been added, so it'll take some time to reflect on the
+      respective sites. If you are not seeing the KDE ISO, that'd mean, either
+      the upload is pending for that site, or it's taking time to reflect.**
     actions:
       - label: FOSSTorrents
         url: 'https://fosstorrents.com/distributions/peux-os/'
