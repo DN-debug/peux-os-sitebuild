@@ -148,8 +148,7 @@ sections:
         type: action
     type: section_content
     subtitle: Not-a-necessity
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
