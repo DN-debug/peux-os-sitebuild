@@ -87,7 +87,7 @@ sections:
         type: action
     type: section_content
     image: images/snapkde.png
-    section_id: '#peuxkde'
+    section_id: '#versions'
     subtitle: KDE - Recent addition to the list
     title: Versions
   - section_id: mini-notes
