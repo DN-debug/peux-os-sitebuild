@@ -148,7 +148,7 @@ sections:
         type: action
     type: section_content
     subtitle: Not-a-necessity
-  - subtitle: lorem-ipsum
+  - subtitle: KDE
     content: >-
       ## Lorem ipsum
 
