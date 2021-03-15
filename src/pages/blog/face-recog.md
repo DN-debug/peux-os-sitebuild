@@ -1,6 +1,5 @@
 ---
 title: Trouble with Face-Recognition?
-subtitle: lorem-ipsum
 date: '2021-03-15'
 excerpt: lorem-ipsum
 template: post
