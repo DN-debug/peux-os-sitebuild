@@ -3,6 +3,7 @@ title: Trouble with Face-Recognition?
 date: '2021-03-15'
 excerpt: lorem-ipsum
 template: post
+thumb_image: images/face_detection@2x.png
 ---
 ## Lorem ipsum
 
