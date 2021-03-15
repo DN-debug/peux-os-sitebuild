@@ -1,5 +1,5 @@
 ---
-title: Face-recognition is not initiating u
+title: 'Face-recognition is not initiating '
 subtitle: lorem-ipsum
 date: '2021-03-15'
 excerpt: lorem-ipsum
