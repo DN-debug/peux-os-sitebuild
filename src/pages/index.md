@@ -38,14 +38,14 @@ sections:
           alternative. For GUI, use Pamac-Manager, with Flatpak and AUR support
           options in its settings.
   - content: >
-      ***Peux OS*** comes with four different desktop flavors: XFCE, LXQt, Gnome
-      and KDE. XFCE is the flagship. Out of these three versions, LXQt and XFCE
-      are both highly configured. Gnome is included because of its minimalism
-      and stability.
+      ***Peux OS*** comes with four different desktop flavors: XFCE, LXQt,
+      Gnome, and KDE. XFCE is the flagship. Out of these three versions, LXQt
+      and XFCE are both highly configured. Gnome is included because of its
+      minimalism and stability.
 
 
-      KDE is the recent addition to the list. I decided to keep it after getting
-      a fairly huge number of community requests.
+      KDE is the recent addition to the list. I decided to keep it after
+      receiving a fairly huge number of community requests.
 
 
       Please note that if you are using UnetBootin/Etcher, then the boot-process
