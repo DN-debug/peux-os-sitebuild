@@ -19,9 +19,12 @@ Below is the list of contributors:
 *   XFCENation -- They usually spread anything related to XFCE. It was just released and these guys helped spreading it across their fanbase. They also introduced this project to FossTorrents.
 *   FossTorrents -- My first partnership was with the FossTorrent guys. They provided a free torrent hosting platform and refurbished the Peux Logo as a support to the project.
 *   Tyler'sTech -- A popular YouTuber in our "Linux Community". He came to know about this project through DistroWatch and his unbiased review of the project has reached an extraordinary audience.
-*   dangeruss26 -- An active Twister OS tester.  Willingly participated in testing Peux OS to make it much better. He tested it on different machines, which helped in identifying hardware issues. He'll be participating in a lot more upcoming tests.
+*   dangeruss26 (aka Russ) -- An active Twister OS tester.  Willingly participated in testing Peux OS to make it much better. He tested it on different machines, which helped in identifying hardware issues. He'll be participating in a lot more upcoming tests.
 *   Anthony ( aka Connor ) -- Still a school-kid and probably the youngest among us but the desire to contribute to FOSS is overwhelming. You'll most likely see the wallpapers contributed by him in the next release.
-*   Yan Melnikov ( aka Purple Scientist ) -- Our scientist friend here has also contributed to the wallpaper list. He even suggested keeping a nice cute logo for our Discord Server along with some suggestions on using Papirus ( I chose to keep it after collecting votes from everyone ) and more dark themes. 
+*   Yan Melnikov ( aka Purple Scientist ) -- Our scientist friend here has also contributed to the wallpaper list. He even suggested keeping a nice cute logo for our Discord Server along with some suggestions on using Papirus ( I chose to keep it after collecting votes from everyone ) and more dark themes.
+*   EBorn ( aka Geo ) -- Ex Reborn OS tester. An expert in Virtualization/ParaVirtualization. He is running the hardware and performance tests along with "dangeruss26" these days, aiming to improve the performance on different machines.
+
+
 
 This list will grow eventually as the number of contributors would rise. My teacher used to tell me that " not everybody would like your work, but cherish those who will and never let it go ". I'd give myself some credit as well for changing it from a hobby project to a partial-hobby project ( I'm nothing but generous :D )
 
