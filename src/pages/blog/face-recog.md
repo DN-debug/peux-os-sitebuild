@@ -27,7 +27,9 @@ If you are using WiFi, the system will prompt you to enter the password right aw
 
 Few useful links:
 
-[Howdy on Github](https://github.com/boltgolt/howdy)[  Archwiki reference](https://wiki.archlinux.org/index.php/Howdy)
+[Howdy on Github](https://github.com/boltgolt/howdy)   |    [Arch wiki reference](https://wiki.archlinux.org/index.php/Howdy)
+
+
 
 ######
 
