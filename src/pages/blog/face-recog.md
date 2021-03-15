@@ -25,6 +25,8 @@ If you are using WiFi, the system will prompt you to enter the password right aw
 
 ##### auth sufficient pam_python.so /lib/security/howdy/pam.py
 
+
+
 Few useful links:
 
 [Howdy on Github](https://github.com/boltgolt/howdy)
@@ -32,9 +34,5 @@ Few useful links:
 [Archwiki reference](https://wiki.archlinux.org/index.php/Howdy)
 
 ######
-
-
-
-
 
 ###### photo credit: firebase
