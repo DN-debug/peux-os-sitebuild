@@ -1,5 +1,5 @@
 ---
-title: Face-recognition is not initiating itself on the loginscreen
+title: Face-recognition is not initiating itself on the login screen
 subtitle: lorem-ipsum
 date: '2021-03-15'
 excerpt: lorem-ipsum
