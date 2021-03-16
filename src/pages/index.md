@@ -62,9 +62,13 @@ sections:
 
 
       **Due to some package issues, the KDE iso has been taken down on 15th
-      March, for the entire day. FOSSTorrents has the previous KDE iso version,
-      which they'll update by 16th March once I update it on SourceForge. Thanks
-      for your patience.**
+      March, for the entire day. This doesn't mean the ISO is faulty, it'st just
+      missing a package which is important for Face-Recognition to work. **
+
+
+      **FOSSTorrents has the previous KDE iso version, which they'll update by
+      16th March as soon as I update it on SourceForge. Thanks for your
+      patience.**
 
 
       ***
