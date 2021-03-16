@@ -61,9 +61,10 @@ sections:
       any of the below available sites. This project will improve with time.\*\*
 
 
-      **KDE has just been added, so it'll take some time to reflect on the
-      respective sites. If you are not seeing the KDE ISO, that'd mean, either
-      the upload is pending on that site, or it's taking its time to reflect.**
+      **Due to some package issues, the KDE iso has been taken down on 15th
+      March, for the entire day. FOSSTorrents has the previous KDE iso version,
+      which they'll update by 16th March once I update it on SourceForge. Thanks
+      for your patience.**
 
 
       ***
