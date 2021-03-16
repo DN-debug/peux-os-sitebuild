@@ -67,7 +67,7 @@ sections:
 
 
       **FOSSTorrents has the previous KDE iso version, which they'll update by
-      16th March as soon as I publish it on SourceForge. Thanks for your
+      17th March as soon as I publish it on SourceForge. Thanks for your
       patience.**
 
 
