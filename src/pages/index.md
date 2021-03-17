@@ -39,18 +39,20 @@ sections:
           options in its settings.
   - content: >
       ***Peux OS*** comes with four different desktop flavors: XFCE, LXQt,
-      Gnome, and KDE. XFCE is the flagship. Out of these three versions, LXQt
-      and XFCE are both highly configured. Gnome is included because of its
-      minimalism and stability.
+      Gnome, and KDE. XFCE is the flagship. Out of these four versions: KDE,
+      LXQt, and XFCE are the highly configured ones. Gnome is included because
+      of its minimalism and stability.
 
 
-      KDE is the recent addition to the list. I decided to keep it after
-      receiving a fairly huge number of community requests.
+      KDE is the recent addition to the list. I've decided to keep it after
+      receiving a fairly huge number of community requests. A small note for the
+      KDE version: if your screen gets locked during live-session then use
+      'root' to unlock it.
 
 
       Please note that if you are using UnetBootin/Etcher, then the boot-process
       is likely going to fail. To make a bootable USB, use Rufus-dd mode / dd -
-      CLI mode / Multiwriter.
+      CLI mode / Multiwriter / Mintstick.
 
 
       ***
@@ -61,14 +63,7 @@ sections:
       any of the below available sites. This project will improve with time.\*\*
 
 
-      \*\*Due to some package issues, the KDE iso has been taken down on 15th
-      March, for the entire day. This doesn't mean the ISO is faulty, it's just
-      missing a package which is important for Face-Recognition to work. \*\*
-
-
-      **FOSSTorrents has the previous KDE iso version, which they'll update by
-      17th March as soon as I publish it on SourceForge. Thanks for your
-      patience.**
+      ****
 
 
       ***
