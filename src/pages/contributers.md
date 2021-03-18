@@ -11,12 +11,13 @@ Below is the list of contributors:
 > ***\[Given to Patrons and BuyMeACoffee supporters for their contribution to FOSS Donations]***
 
 *   Modo -- My first patron and the person who initially saw the "sincerity and uniqueness" in this project.
+*   Kevin E -- My first supporter on BMC and the person who made me realize that digital coffee is actually a "thing".
 
 > **PILLARS**
 >
 > ***\[Given to testers, proposers, reviewers]***
 
-*   XFCENation -- They usually spread anything related to XFCE. It was just released and these guys helped spreading it across their fanbase. They also introduced this project to FossTorrents.
+*   XFCENation -- They usually spread anything related to XFCE. It was just released and these guys helped to spread it across their fanbase. They also introduced this project to FossTorrents.
 *   FossTorrents -- My first partnership was with the FossTorrent guys. They provided a free torrent hosting platform and refurbished the Peux Logo as a support to the project.
 *   Tyler'sTech -- A popular YouTuber in our "Linux Community". He came to know about this project through DistroWatch and his unbiased review of the project has reached an extraordinary audience.
 *   Russ ( aka dangeruss26 ) -- An active Twister OS tester.  Willingly participated in testing Peux OS to make it much better. He tested it on different machines, which helped in identifying hardware issues. He'll be participating in a lot more upcoming tests.
