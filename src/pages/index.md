@@ -158,7 +158,7 @@ sections:
         icon_class: lorem-ipsum
         new_window: true
         type: action
-      - label: lorem-ipsum
+      - label: Paypal
         url: 'https://paypal.me/peuxos?locale.x=en_GB'
         style: link
         icon_class: lorem-ipsum
