@@ -152,7 +152,7 @@ sections:
         icon_class: Patreon
         new_window: true
         type: action
-      - label: BuyMeACoffee - One Time Payment
+      - label: BuyMeACoffee
         url: 'https://www.buymeacoffee.com/peuxos'
         style: button
         icon_class: lorem-ipsum
