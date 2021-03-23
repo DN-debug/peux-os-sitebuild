@@ -159,7 +159,7 @@ sections:
         new_window: true
         type: action
       - label: lorem-ipsum
-        url: lorem-ipsum
+        url: 'https://paypal.me/peuxos?locale.x=en_GB'
         style: link
         icon_class: lorem-ipsum
         new_window: false
