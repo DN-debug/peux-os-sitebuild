@@ -161,7 +161,6 @@ sections:
       - label: Paypal
         url: 'https://paypal.me/peuxos?locale.x=en_GB'
         style: button
-        icon_class: lorem-ipsum
         new_window: false
         type: action
     type: section_content
