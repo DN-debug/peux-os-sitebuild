@@ -12,7 +12,7 @@ Below is the list of contributors:
 
 *   Modo -- My first patron and the person who initially saw the "sincerity and uniqueness" in this project.
 *   Kevin E -- My first supporter on BMC and the person who made me realize that digital coffee is actually a "thing".
-*   Nik Leb -- My first Paypal donation came from Nik. I appreaciate that he stepped up to support the project in his own way. 
+*   Nik Leb -- My first Paypal donation came from Nik. I appreaciate that he stepped up to support the project in his own way.
 *   Chase M -- My second Paypal donation came from Chase, who appreciated Peux OS for its immense customization. A short message for Chase and others "Peux is spelled as PayUx", don't get confused with the French word ;)
 
 > **PILLARS**
@@ -26,6 +26,9 @@ Below is the list of contributors:
 *   Anthony ( aka Connor ) -- Still a school-kid and probably the youngest among us but the desire to contribute to FOSS is overwhelming. You'll most likely see the wallpapers contributed by him in the next release.
 *   Yan ( aka Purple Scientist ) -- Our scientist friend here has also contributed to the wallpaper list. He even suggested keeping a nice cute logo for our Discord Server along with some suggestions on using Papirus ( I chose to keep it after collecting votes from everyone ) and more dark themes.
 *   Geo ( aka Eborn ) -- Ex Reborn OS tester. An expert in Virtualization/ParaVirtualization. He is running the hardware and performance tests along with "dangeruss26" these days, aiming to improve the performance on different machines.
+*   りなぶ linux party -- A Japanese Youtuber. He's not that famous, but he covered all of the Peux OS versions that I have published so far. I don't really watch the YouTube videos because of my how busy my work has recently got, however I do hope that he will get some more subscribers on his channel.
+
+
 
 This list will grow eventually as the number of contributors would rise. My teacher used to tell me that " not everybody would like your work, but cherish those who will and never let it go ". I'd give myself some credit as well for changing it from a hobby project to a partial-hobby project ( I'm nothing but generous :D )
 
