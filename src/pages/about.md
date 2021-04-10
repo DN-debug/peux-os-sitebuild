@@ -5,7 +5,7 @@ template: page
 ---
 Peux OS was initially a customized arch for my personal use only. It was never really an idea to convert it into a distro.  COVID-19 boredom made it possible.
 
-Peux represents the linux "Penguin with a tux".
+Peux represents the linux "Penguin with a tux". I know that most of you would pronounce it in French, but it's pronunciation is "PayUx" \[ 'Pe' from Penguin and 'Ux' from Tux/Linux ]
 
 **AIM**
 
