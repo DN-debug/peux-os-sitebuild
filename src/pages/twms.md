@@ -7,7 +7,7 @@ sections:
     col_number: three
     is_numbered: true
     grid_items:
-      - title: B-
+      - title: B-IX
         content: >-
           ## Lorem ipsum
 
