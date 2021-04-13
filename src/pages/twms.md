@@ -15,7 +15,7 @@ sections:
         actions:
           - label: SourceForge
             url: lorem-ipsum
-            style: icon
+            style: button
             icon_class: fa-a
             new_window: false
             type: action
