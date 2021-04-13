@@ -33,8 +33,7 @@ sections:
             new_window: true
             type: action
         type: grid_item
-      - title: lorem-ipsum
-        content: >-
+      - content: >-
           ## Lorem ipsum
 
 
