@@ -11,7 +11,8 @@ sections:
         content: >
           B-IX comes with a bundle of three different tiling-window-managers,
           out of which two are completely optional. This is the first ever
-          approach to bundle the TWMs into one with pre-riced settings.
+          approach to bundle the TWMs into one with pre-riced settings for each
+          of them.
         actions:
           - label: SourceForge
             url: lorem-ipsum
