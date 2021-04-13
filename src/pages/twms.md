@@ -43,6 +43,7 @@ sections:
         actions: []
         type: grid_item
         title: Sway
+        image: images/27276.jpg
     type: section_grid
 template: advanced
 ---
