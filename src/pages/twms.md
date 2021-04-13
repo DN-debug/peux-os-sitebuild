@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Peux OS - TWMs
 hide_title: true
 excerpt: lorem-ipsum
 sections: []
