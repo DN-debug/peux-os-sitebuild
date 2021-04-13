@@ -3,8 +3,7 @@ title: Peux OS - TWMs
 hide_title: false
 excerpt: tiling-window-managers
 sections:
-  - title: lorem-ipsum
-    section_id: twms
+  - section_id: twms
     col_number: three
     is_numbered: false
     grid_items: []
