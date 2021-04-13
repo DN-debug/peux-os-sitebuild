@@ -33,6 +33,7 @@ sections:
             new_window: true
             type: action
         type: grid_item
+        image: images/snap.png
       - content: >
           ## Lorem ipsum
 
