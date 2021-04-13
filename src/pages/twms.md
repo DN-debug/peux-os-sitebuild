@@ -17,7 +17,7 @@ sections:
             url: lorem-ipsum
             style: button
             icon_class: fa-a
-            new_window: false
+            new_window: true
             type: action
         type: grid_item
     type: section_grid
