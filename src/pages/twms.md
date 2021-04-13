@@ -13,7 +13,7 @@ sections:
           out of which two are completely optional. This is the first ever
           approach to bundle the TWMs into one with pre-riced settings.
         actions:
-          - label: Download
+          - label: SourceForge
             url: lorem-ipsum
             style: link
             icon_class: lorem-ipsum
