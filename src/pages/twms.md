@@ -46,6 +46,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        title: Sway
     type: section_grid
 template: advanced
 ---
