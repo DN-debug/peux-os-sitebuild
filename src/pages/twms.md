@@ -16,7 +16,7 @@ sections:
           - label: SourceForge
             url: lorem-ipsum
             style: icon
-            icon_class: fa-
+            icon_class: fa-a
             new_window: false
             type: action
         type: grid_item
