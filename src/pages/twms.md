@@ -1,7 +1,7 @@
 ---
 title: Peux OS - TWMs
 hide_title: false
-excerpt: lorem-ipsum
+excerpt: tiling
 sections: []
 template: advanced
 ---
