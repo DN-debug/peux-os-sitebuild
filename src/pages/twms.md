@@ -9,10 +9,10 @@ sections:
     grid_items:
       - title: BSPWM
         content: >
-          B-IX comes with a bundle of three different tiling-window-managers,
-          out of which two are completely optional. This is the first ever
-          approach to bundle the TWMs into one with pre-riced settings for each
-          of them.
+          Bspwm ( Binary space partitioning window manager) - is one of the
+          popular tiling window managers currently available. Peux OS Bspwm,
+          while aiming for advanced users, is also targeting users with no TWM
+          experience. 
         actions:
           - label: SourceForge
             url: lorem-ipsum
