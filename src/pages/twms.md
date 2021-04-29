@@ -7,7 +7,7 @@ sections:
     col_number: two
     is_numbered: false
     grid_items:
-      - title: B-IX
+      - title: BSPWM
         content: >
           B-IX comes with a bundle of three different tiling-window-managers,
           out of which two are completely optional. This is the first ever
