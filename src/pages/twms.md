@@ -34,12 +34,8 @@ sections:
             type: action
         type: grid_item
         image: images/snap.png
-      - content: >
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      - content: |
+          i3wm is considered to be the most popular and one of the best TWMs. 
         actions: []
         type: grid_item
         title: i3WM
