@@ -34,8 +34,10 @@ sections:
             type: action
         type: grid_item
         image: images/snap.png
-      - content: |
-          i3wm is considered to be the most popular and one of the best TWMs. 
+      - content: >
+          i3wm is considered to be the most popular in the TWM family. Peux OS
+          i3wm is pre-riced with similar features that you'd find in any other
+          TWM edition of Peux OS. 
         actions: []
         type: grid_item
         title: i3WM
