@@ -42,7 +42,7 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         actions: []
         type: grid_item
-        title: Sway
+        title: i3WM
         image: images/polite-cedar.jpg
     type: section_grid
 template: advanced
