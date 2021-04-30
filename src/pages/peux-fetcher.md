@@ -12,7 +12,13 @@ sections:
       it is all public. In the upcoming releases, it'd be pre-installed, those
       who are in the previous builds can download the package in any of the
       below formats.
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        icon_class: lorem-ipsum
+        new_window: false
+        type: action
     type: section_content
     image: images/pf.png
 template: advanced
