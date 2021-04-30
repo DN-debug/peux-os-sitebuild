@@ -4,17 +4,15 @@ hide_title: false
 excerpt: tiling-window-managers
 sections:
   - section_id: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      Peux Fetcher serves the purpose of the Peux OS mantra, i.e stick with
+      Archlinux as much as possible, which being the sole reason for not
+      maintaining a repository. I did mention that we would be delivering the
+      configurations via Github repositories. Peux Fetcher would allow you to,
+      not only fetch the configurations but also to read the code on Github as
+      it is all public. In the upcoming releases, it'd be pre-installed, those
+      who are in the previous builds can download the package in any of the
+      below formats.
     actions: []
     type: section_content
 template: advanced
