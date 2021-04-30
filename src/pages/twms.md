@@ -50,7 +50,7 @@ sections:
           - label: OSDN
             style: button
             icon_class: lorem-ipsum
-            new_window: false
+            new_window: true
             type: action
         type: grid_item
         image: images/bspwm.png
