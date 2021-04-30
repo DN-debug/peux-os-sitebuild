@@ -95,6 +95,7 @@ sections:
             label: OSDN
         type: grid_item
         title: LEFTWM
+        image: images/lftwm.png
     type: section_grid
 template: advanced
 ---
