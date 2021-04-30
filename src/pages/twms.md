@@ -15,7 +15,7 @@ sections:
           - label: SourceForge
             style: button
             icon_class: lorem-ipsum
-            new_window: false
+            new_window: true
             type: action
         type: grid_item
         title: i3WM
