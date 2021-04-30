@@ -61,7 +61,7 @@ sections:
           which means you can extend the libraries to adjust your requirements. 
         actions:
           - label: SourceForge
-            style: link
+            style: button
             icon_class: lorem-ipsum
             new_window: false
             type: action
