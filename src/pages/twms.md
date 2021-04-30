@@ -90,7 +90,6 @@ sections:
             type: action
           - url: lorem-ipsum
             style: button
-            icon_class: lorem-ipsum
             new_window: false
             type: action
             label: OSDN
