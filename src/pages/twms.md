@@ -60,7 +60,7 @@ sections:
           because of its extensibility. It is written and configured in Haskell
           which means you can extend the libraries to adjust your requirements. 
         actions:
-          - label: lorem-ipsum
+          - label: SourceForge
             url: lorem-ipsum
             style: link
             icon_class: lorem-ipsum
