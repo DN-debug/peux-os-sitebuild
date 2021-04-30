@@ -80,7 +80,7 @@ sections:
           Unix philosophy very well and could easily become the TWM of choice
           for many people.
         actions:
-          - label: lorem-ipsum
+          - label: SourceForge
             url: lorem-ipsum
             style: link
             icon_class: lorem-ipsum
