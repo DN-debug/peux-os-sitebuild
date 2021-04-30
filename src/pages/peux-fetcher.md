@@ -31,27 +31,6 @@ sections:
             type: action
         type: grid_item
         image: images/bspwm.png
-      - title: XMONAD
-        content: >
-          Xmonad is not just another tiling window manager, it stands out
-          because of its extensibility. It is written and configured in Haskell
-          which means you can extend the libraries to adjust your requirements. 
-        actions:
-          - label: SourceForge
-            style: button
-            new_window: true
-            type: action
-          - label: FOSSTorrents
-            style: button
-            new_window: true
-            type: action
-          - label: OSDN
-            style: button
-            icon_class: lorem-ipsum
-            new_window: true
-            type: action
-        type: grid_item
-        image: images/2021-04-30-133652_1918x1079_scrot.png
       - content: >
           Often called " *the tiling window manager for adventurers* ", is
           written in Rust and aims to be stable and performant. It follows the
