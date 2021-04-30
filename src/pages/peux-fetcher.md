@@ -20,8 +20,7 @@ sections:
         style: button
         new_window: true
         type: action
-      - url: lorem-ipsum
-        style: link
+      - style: link
         icon_class: lorem-ipsum
         new_window: false
         type: action
