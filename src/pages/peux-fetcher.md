@@ -24,7 +24,7 @@ sections:
         new_window: true
         type: action
         label: .Deb
-      - label: .PKG.TAR.ZST
+      - label: .Pkg.Tar.Zst
         url: lorem-ipsum
         style: button
         icon_class: lorem-ipsum
