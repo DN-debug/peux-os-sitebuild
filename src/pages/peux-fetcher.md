@@ -24,7 +24,7 @@ sections:
         new_window: true
         type: action
         label: .Deb
-      - label: .P
+      - label: .PKG.TAR.ZST
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
