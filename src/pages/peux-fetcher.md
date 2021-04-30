@@ -32,6 +32,8 @@ sections:
         icon_class: lorem-ipsum
         new_window: false
         type: action
+        url: >-
+          https://github.com/peux-os/peuxfetcher-executables/releases/download/v1.0.0/peuxfetcher-1.0.0-1-x86_64.pkg.tar.zst
     type: section_content
     image: images/pf.png
 template: advanced
