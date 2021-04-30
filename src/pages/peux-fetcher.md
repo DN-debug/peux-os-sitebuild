@@ -17,7 +17,7 @@ sections:
     actions:
       - label: Appimage
         url: lorem-ipsum
-        style: link
+        style: button
         new_window: false
         type: action
       - label: lorem-ipsum
