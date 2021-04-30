@@ -21,7 +21,7 @@ sections:
         type: grid_item
         title: i3WM
         image: images/polite-cedar.jpg
-      - title: lorem-ipsum
+      - title: BSPWM
         content: >-
           ## Lorem ipsum
 
