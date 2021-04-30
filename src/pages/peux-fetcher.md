@@ -15,7 +15,7 @@ sections:
       fetch the configurations on Debian systems as well, and I see no harm in
       keeping an additional format ].
     actions:
-      - label: .Appimage
+      - label: .appimage
         url: >-
           https://github.com/peux-os/peuxfetcher-executables/releases/download/v1.0.0/Peux.Fetcher-1.0.0.AppImage
         style: button
