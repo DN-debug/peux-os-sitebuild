@@ -31,27 +31,6 @@ sections:
             type: action
         type: grid_item
         image: images/bspwm.png
-      - content: >
-          Often called " *the tiling window manager for adventurers* ", is
-          written in Rust and aims to be stable and performant. It follows the
-          Unix philosophy very well and could easily become the TWM of choice
-          for many people.
-        actions:
-          - label: SourceForge
-            style: button
-            new_window: true
-            type: action
-          - label: FOSSTorrents
-            style: button
-            new_window: true
-            type: action
-          - style: button
-            new_window: true
-            type: action
-            label: OSDN
-        type: grid_item
-        title: LEFTWM
-        image: images/lftwm.png
     type: section_grid
 template: advanced
 ---
