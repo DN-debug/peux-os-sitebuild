@@ -46,7 +46,7 @@
             },
             {
                 "label": "Peux-Fetcher",
-                "url": "lorem-ipsum",
+                "url": "/peux-fetcher",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
