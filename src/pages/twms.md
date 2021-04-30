@@ -87,6 +87,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        title: LEFTWM
     type: section_grid
 template: advanced
 ---
