@@ -38,7 +38,7 @@ sections:
         actions:
           - label: SourceForge
             url: lorem-ipsum
-            style: link
+            style: button
             new_window: true
             type: action
           - label: lorem-ipsum
