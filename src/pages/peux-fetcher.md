@@ -24,7 +24,7 @@ sections:
       - style: button
         new_window: true
         type: action
-        label: .Deb
+        label: .deb
         url: >-
           https://github.com/peux-os/peuxfetcher-executables/releases/download/v1.0.0/peuxfetcher_1.0.0_amd64.deb
       - label: .pkg.tar.zst
