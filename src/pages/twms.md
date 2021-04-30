@@ -39,7 +39,6 @@ sections:
           - label: SourceForge
             url: lorem-ipsum
             style: link
-            icon_class: FOSSTorrents
             new_window: true
             type: action
           - label: lorem-ipsum
