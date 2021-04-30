@@ -16,7 +16,8 @@ sections:
       keeping an additional format ].
     actions:
       - label: .Appimage
-        url: lorem-ipsum
+        url: >-
+          https://github.com/peux-os/peuxfetcher-executables/releases/download/v1.0.0/Peux.Fetcher-1.0.0.AppImage
         style: button
         new_window: true
         type: action
