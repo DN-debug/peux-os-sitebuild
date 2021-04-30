@@ -54,7 +54,7 @@ sections:
             type: action
         type: grid_item
         image: images/bspwm.png
-      - title: lorem-ipsum
+      - title: XMONAD
         content: >-
           ## Lorem ipsum
 
