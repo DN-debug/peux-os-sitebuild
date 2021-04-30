@@ -12,6 +12,13 @@
                 "style": "link"
             },
             {
+                "label": "TWM Editions",
+                "url": "/twms",
+                "style": "link",
+                "new_window": false,
+                "type": "action"
+            },
+            {
                 "label": "Mini-Notes",
                 "url": "/blog/",
                 "style": "link"
@@ -36,13 +43,6 @@
                 "new_window": false,
                 "type": "action",
                 "url": "/#con"
-            },
-            {
-                "label": "TWM Editions",
-                "url": "/twms",
-                "style": "link",
-                "new_window": false,
-                "type": "action"
             }
         ],
         "logo_img": "images/pleasant-oak.png"
