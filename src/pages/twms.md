@@ -36,7 +36,7 @@ sections:
           as the leaves of a full binary tree. Peux OS Bspwm comes with similar
           rich features that one would find on Peux i3wm flavor.
         actions:
-          - label: lorem-ipsum
+          - label: SourceForge
             url: lorem-ipsum
             style: link
             icon_class: lorem-ipsum
