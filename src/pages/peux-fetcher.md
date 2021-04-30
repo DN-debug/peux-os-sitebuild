@@ -4,7 +4,6 @@ hide_title: false
 excerpt: tiling-window-managers
 sections:
   - section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
