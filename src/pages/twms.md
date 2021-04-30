@@ -69,7 +69,6 @@ sections:
             new_window: true
             type: action
           - label: OSDN
-            url: lorem-ipsum
             style: link
             icon_class: lorem-ipsum
             new_window: false
