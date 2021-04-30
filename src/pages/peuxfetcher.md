@@ -1,6 +1,6 @@
 ---
 title: Peux Fetcher
-subtitle: A Peux OS fetch tool
+subtitle: A Peux OS Fetch Tool
 excerpt: lorem-ipsum
 template: page
 ---
