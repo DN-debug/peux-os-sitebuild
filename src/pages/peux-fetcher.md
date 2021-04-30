@@ -15,7 +15,7 @@ sections:
       fetch the configurations on Debian systems as well, and I see no harm in
       keeping an additional format ].
     actions:
-      - label: lorem-ipsum
+      - label: Appimage
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
