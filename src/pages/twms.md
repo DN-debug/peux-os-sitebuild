@@ -55,17 +55,10 @@ sections:
         type: grid_item
         image: images/bspwm.png
       - title: XMONAD
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Xmonad is not just another tiling window manager, it stands out
+          because of its extensibility. It is written and configured in Haskell
+          which means you can extend the libraries to adjust your requirements. 
         actions: []
         type: grid_item
       - title: lorem-ipsum
