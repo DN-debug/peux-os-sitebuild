@@ -29,7 +29,6 @@ sections:
             type: action
         type: grid_item
         title: i3WM
-        image: images/polite-cedar.jpg
       - title: BSPWM
         content: >
           Bspwm is another amazing tiling window manager that represents windows
