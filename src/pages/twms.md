@@ -74,6 +74,7 @@ sections:
             new_window: true
             type: action
         type: grid_item
+        image: images/2021-04-30-133652_1918x1079_scrot.png
       - content: >
           Often called " *the tiling window manager for adventurers* ", is
           written in Rust and aims to be stable and performant. It follows the
