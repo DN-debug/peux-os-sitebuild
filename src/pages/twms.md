@@ -90,7 +90,7 @@ sections:
             type: action
           - url: lorem-ipsum
             style: button
-            new_window: false
+            new_window: true
             type: action
             label: OSDN
         type: grid_item
