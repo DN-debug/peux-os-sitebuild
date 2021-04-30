@@ -35,6 +35,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: images/bspwm.png
     type: section_grid
 template: advanced
 ---
