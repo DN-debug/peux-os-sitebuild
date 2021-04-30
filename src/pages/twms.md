@@ -88,8 +88,7 @@ sections:
             style: button
             new_window: true
             type: action
-          - url: lorem-ipsum
-            style: button
+          - style: button
             new_window: true
             type: action
             label: OSDN
