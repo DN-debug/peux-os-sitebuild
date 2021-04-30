@@ -7,29 +7,6 @@ sections:
     col_number: two
     is_numbered: false
     grid_items:
-      - content: >
-          i3wm is considered to be the most popular in the TWM family. Peux OS
-          i3wm is actually using i3-gaps, which is a fork of the original i3wm
-          with gapping between the tiled windows.
-        actions:
-          - label: SourceForge
-            style: button
-            new_window: true
-            type: action
-          - label: FOSSTorrents
-            url: lorem-ipsum
-            style: button
-            new_window: true
-            type: action
-          - label: OSDN
-            url: lorem-ipsum
-            style: button
-            icon_class: lorem-ipsum
-            new_window: true
-            type: action
-        type: grid_item
-        title: i3WM
-        image: images/beige-lime.png
       - title: BSPWM
         content: >
           Bspwm is another amazing tiling window manager that represents windows
