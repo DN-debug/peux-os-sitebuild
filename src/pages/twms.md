@@ -93,6 +93,7 @@ sections:
             icon_class: lorem-ipsum
             new_window: false
             type: action
+            label: OSDN
         type: grid_item
         title: LEFTWM
     type: section_grid
