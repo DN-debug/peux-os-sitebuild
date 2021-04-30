@@ -1,6 +1,6 @@
 ---
 title: Peux OS - TWMs
-hide_title: true
+hide_title: false
 excerpt: tiling-window-managers
 sections:
   - section_id: twms
