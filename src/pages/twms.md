@@ -9,9 +9,8 @@ sections:
     grid_items:
       - content: >
           i3wm is considered to be the most popular in the TWM family. Peux OS
-          i3wm is pre-riced with similar features that you'd find in any other
-          TWM edition of Peux OS. The target audience is ranging from beginners
-          to advanced users.
+          i3wm is actually using i3-gaps, which is a fork of the original i3wm
+          with gapping between the tiled windows.
         actions:
           - label: lorem-ipsum
             url: lorem-ipsum
