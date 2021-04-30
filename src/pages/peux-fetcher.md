@@ -27,7 +27,7 @@ sections:
         label: .Deb
         url: >-
           https://github.com/peux-os/peuxfetcher-executables/releases/download/v1.0.0/peuxfetcher_1.0.0_amd64.deb
-      - label: .Pkg.Tar.Zst
+      - label: .pkg.tar.zst
         style: button
         icon_class: lorem-ipsum
         new_window: true
