@@ -3,8 +3,7 @@ title: Peux Fetcher
 hide_title: false
 excerpt: tiling-window-managers
 sections:
-  - section_id: lorem-ipsum
-    content: >
+  - content: >
       Peux Fetcher serves the purpose of the Peux OS mantra, i.e stick with
       Archlinux as much as possible, which being the sole reason for not
       maintaining a repository. I did mention that we would be delivering the
