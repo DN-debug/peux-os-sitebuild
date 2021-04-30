@@ -11,9 +11,9 @@ sections:
       not only fetch the configurations but also to read the code on Github as
       it is all public. In the upcoming releases, it'd be pre-installed, those
       who are in the previous builds can download the package in any of the
-      below formats \[ Debian format because few might want to fetch the
-      configurations on Debian systems as well, and I see no harm in keeping an
-      additional format ].
+      below formats \[ we have Debian format as well because few might want to
+      fetch the configurations on Debian systems as well, and I see no harm in
+      keeping an additional format ].
     actions:
       - label: lorem-ipsum
         url: lorem-ipsum
