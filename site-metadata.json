@@ -39,7 +39,7 @@
             },
             {
                 "label": "TWM Editions",
-                "url": "lorem-ipsum",
+                "url": "/twms",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
