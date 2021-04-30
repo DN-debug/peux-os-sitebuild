@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Peux Fetcher
 subtitle: lorem-ipsum
 excerpt: lorem-ipsum
 template: page
