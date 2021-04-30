@@ -77,8 +77,8 @@ sections:
       - content: >
           Often called " *the tiling window manager for adventurers* ", is
           written in Rust and aims to be stable and performant. It follows the
-          Unix philosophy very well and could easly become the TWM of choice for
-          many people.
+          Unix philosophy very well and could easily become the TWM of choice
+          for many people.
         actions: []
         type: grid_item
         title: LEFTWM
