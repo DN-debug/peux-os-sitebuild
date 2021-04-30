@@ -21,7 +21,7 @@ sections:
         new_window: true
         type: action
       - style: button
-        new_window: false
+        new_window: true
         type: action
         label: .Deb
       - label: lorem-ipsum
