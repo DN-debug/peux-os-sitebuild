@@ -1,5 +1,5 @@
 ---
-title: Peux OS - TWMs
+title: Peux OS - TWM Editions
 hide_title: false
 excerpt: tiling-window-managers
 sections:
