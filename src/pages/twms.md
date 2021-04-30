@@ -40,7 +40,7 @@ sections:
             url: lorem-ipsum
             style: link
             icon_class: FOSSTorrents
-            new_window: false
+            new_window: true
             type: action
           - label: lorem-ipsum
             url: lorem-ipsum
