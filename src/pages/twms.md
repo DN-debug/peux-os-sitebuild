@@ -35,7 +35,13 @@ sections:
           Bspwm is another amazing tiling window manager that represents windows
           as the leaves of a full binary tree. Peux OS Bspwm comes with similar
           rich features that one would find on Peux i3wm flavor.
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            icon_class: lorem-ipsum
+            new_window: false
+            type: action
         type: grid_item
         image: images/bspwm.png
     type: section_grid
