@@ -24,7 +24,7 @@ sections:
         new_window: true
         type: action
         label: .Deb
-      - label: lorem-ipsum
+      - label: .P
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
