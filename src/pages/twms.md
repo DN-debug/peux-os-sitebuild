@@ -79,7 +79,13 @@ sections:
           written in Rust and aims to be stable and performant. It follows the
           Unix philosophy very well and could easily become the TWM of choice
           for many people.
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            icon_class: lorem-ipsum
+            new_window: false
+            type: action
         type: grid_item
         title: LEFTWM
     type: section_grid
