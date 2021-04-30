@@ -82,7 +82,7 @@ sections:
         actions:
           - label: SourceForge
             style: button
-            new_window: false
+            new_window: true
             type: action
           - label: lorem-ipsum
             url: lorem-ipsum
