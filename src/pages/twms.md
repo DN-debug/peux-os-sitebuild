@@ -13,7 +13,6 @@ sections:
           with gapping between the tiled windows.
         actions:
           - label: SourceForge
-            url: lorem-ipsum
             style: link
             icon_class: lorem-ipsum
             new_window: false
