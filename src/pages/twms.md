@@ -43,7 +43,7 @@ sections:
             type: action
           - label: FOSSTorrents
             url: lorem-ipsum
-            style: icon
+            style: button
             icon_class: lorem-ipsum
             new_window: false
             type: action
