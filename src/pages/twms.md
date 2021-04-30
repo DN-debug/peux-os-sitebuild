@@ -14,7 +14,6 @@ sections:
         actions:
           - label: SourceForge
             style: button
-            icon_class: lorem-ipsum
             new_window: true
             type: action
         type: grid_item
