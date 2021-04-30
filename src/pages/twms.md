@@ -53,7 +53,7 @@ sections:
             new_window: true
             type: action
         type: grid_item
-        image: images/bspwm.png
+        image: images/interesting-parsley.png
       - title: XMONAD
         content: >
           Xmonad is not just another tiling window manager, it stands out
