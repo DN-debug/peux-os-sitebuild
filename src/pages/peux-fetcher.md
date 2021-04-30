@@ -3,8 +3,7 @@ title: Peux Fetcher
 hide_title: false
 excerpt: tiling-window-managers
 sections:
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
