@@ -81,7 +81,7 @@ sections:
           for many people.
         actions:
           - label: SourceForge
-            style: link
+            style: button
             icon_class: lorem-ipsum
             new_window: false
             type: action
