@@ -59,7 +59,13 @@ sections:
           Xmonad is not just another tiling window manager, it stands out
           because of its extensibility. It is written and configured in Haskell
           which means you can extend the libraries to adjust your requirements. 
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            icon_class: lorem-ipsum
+            new_window: false
+            type: action
         type: grid_item
       - title: lorem-ipsum
         content: >-
