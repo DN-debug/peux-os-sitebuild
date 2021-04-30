@@ -19,7 +19,7 @@ sections:
           - label: FOSSTorrents
             url: lorem-ipsum
             style: button
-            new_window: false
+            new_window: true
             type: action
         type: grid_item
         title: i3WM
