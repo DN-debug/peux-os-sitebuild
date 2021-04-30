@@ -12,7 +12,7 @@ sections:
           i3wm is actually using i3-gaps, which is a fork of the original i3wm
           with gapping between the tiled windows.
         actions:
-          - label: lorem-ipsum
+          - label: SourceForge
             url: lorem-ipsum
             style: link
             icon_class: lorem-ipsum
