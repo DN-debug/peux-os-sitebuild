@@ -10,7 +10,8 @@ sections:
       - content: >
           i3wm is considered to be the most popular in the TWM family. Peux OS
           i3wm is pre-riced with similar features that you'd find in any other
-          TWM edition of Peux OS. The target audience is going to be the same.
+          TWM edition of Peux OS. The target audience is ranging from beginners
+          to advanced users.
         actions:
           - label: lorem-ipsum
             url: lorem-ipsum
