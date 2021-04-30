@@ -14,5 +14,6 @@ sections:
       below formats.
     actions: []
     type: section_content
+    image: images/pf.png
 template: advanced
 ---
