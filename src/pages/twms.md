@@ -22,17 +22,10 @@ sections:
         title: i3WM
         image: images/polite-cedar.jpg
       - title: BSPWM
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Bspwm is another amazing tiling window manager that represents windows
+          as the leaves of a full binary tree. Peux OS Bspwm comes with similar
+          rich features that one would find on Peux i3wm flavor.
         actions: []
         type: grid_item
         image: images/bspwm.png
