@@ -86,7 +86,6 @@ sections:
             type: action
           - label: FOSSTorrents
             style: button
-            icon_class: lorem-ipsum
             new_window: false
             type: action
           - label: lorem-ipsum
