@@ -1,17 +1,8 @@
 ---
 hide_title: true
 sections:
-  - content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+  - content: |
+      t![](/images/sk1.png)
     actions: []
     type: section_content
     title: I3WM
