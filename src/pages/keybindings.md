@@ -23,7 +23,6 @@ sections:
     type: section_content
     title: BSPWM
   - title: XMONAD
-    section_id: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
