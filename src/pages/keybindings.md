@@ -1,8 +1,7 @@
 ---
 hide_title: true
 sections:
-  - subtitle: lorem-ipsum
-    content: >-
+  - content: >-
       ## Lorem ipsum
 
 
