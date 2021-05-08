@@ -11,10 +11,11 @@ sections:
     actions: []
     type: section_content
     title: I3WM
-  - content: >+
-      The below keybindings are only specific to i3WM. The general purpose
-      keybindings such as launching applications or menus are not included here.
-
+  - content: >
+      The below keybindings are only specific to BSPWM.  Only important
+      keybindings are included, few extra keybindings would require you to
+      explore the  configuration further. The general purpose keybindings such
+      as for launching applications or menus are not included here.
     actions: []
     type: section_content
     title: BSPWM
