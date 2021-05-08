@@ -25,8 +25,8 @@ sections:
     content: >
       The below keybindings are only specific to Xmonad. Only the important
       keybindings are included, few of the keybindings would require you to
-      explore the configuration further. The general purpose keybindings such as
-      for launching applications or menus are not included here.
+      explore the configuration further. The general purpose keybindings i.e for
+      launching applications or menus are not included here.
 
 
       ![](/images/groovy-panda.png)
