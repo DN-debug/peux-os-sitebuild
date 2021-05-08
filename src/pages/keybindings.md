@@ -47,6 +47,9 @@ sections:
       might see some weirdness within the environment, but since it has a huge
       potential that's why I don't think that including it is a mistake. Give it
       a go.
+
+
+      ![](/images/sk4.png)
 template: advanced
 title: Keybindings
 ---
