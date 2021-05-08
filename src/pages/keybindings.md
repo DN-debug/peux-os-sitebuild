@@ -24,9 +24,10 @@ sections:
     title: BSPWM
   - title: XMONAD
     content: >
-      The below keybindings are only specific to Xmonad. Only the . The general
-      purpose keybindings such as for launching applications or menus are not
-      included here.
+      The below keybindings are only specific to Xmonad. Only the important
+      keybindings are included, you might have to explore the configuration a
+      bit to get the idea . The general purpose keybindings such as for
+      launching applications or menus are not included here.
     actions: []
     type: section_content
 template: advanced
