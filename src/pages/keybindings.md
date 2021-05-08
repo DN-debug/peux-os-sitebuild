@@ -19,4 +19,5 @@ sections:
     actions: []
     type: section_content
 template: advanced
+title: Keybindings
 ---
