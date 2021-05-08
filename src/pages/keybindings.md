@@ -22,7 +22,7 @@ sections:
     actions: []
     type: section_content
     title: BSPWM
-  - title: lorem-ipsum
+  - title: XMONAD
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
