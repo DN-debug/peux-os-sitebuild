@@ -55,7 +55,6 @@
                 "label": "Keybindings",
                 "url": "/keybindings",
                 "style": "link",
-                "icon_class": "lorem-ipsum",
                 "new_window": false,
                 "type": "action"
             }
