@@ -28,6 +28,9 @@ sections:
       keybindings are included, few of the keybindings would require you to
       explore the configuration further. The general purpose keybindings such as
       for launching applications or menus are not included here.
+
+
+      ![](/images/oceanic-avocado.png)
     actions: []
     type: section_content
 template: advanced
