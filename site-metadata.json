@@ -53,7 +53,7 @@
             },
             {
                 "label": "Keybindings",
-                "url": "lorem-ipsum",
+                "url": "/keybindings",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,
