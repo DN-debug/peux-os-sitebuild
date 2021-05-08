@@ -19,6 +19,13 @@
                 "type": "action"
             },
             {
+                "label": "Keybindings",
+                "url": "/keybindings",
+                "style": "link",
+                "new_window": false,
+                "type": "action"
+            },
+            {
                 "label": "Mini-Notes",
                 "url": "/blog/",
                 "style": "link"
@@ -50,13 +57,6 @@
                 "new_window": false,
                 "type": "action",
                 "url": "/#con"
-            },
-            {
-                "label": "Keybindings",
-                "url": "/keybindings",
-                "style": "link",
-                "new_window": false,
-                "type": "action"
             }
         ],
         "logo_img": "images/pleasant-oak.png"
