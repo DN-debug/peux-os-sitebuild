@@ -23,17 +23,10 @@ sections:
     type: section_content
     title: BSPWM
   - title: XMONAD
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      The below keybindings are only specific to BSPWM.  The general purpose
+      keybindings such as for launching applications or menus are not included
+      here.
     actions: []
     type: section_content
 template: advanced
