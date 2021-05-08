@@ -13,7 +13,7 @@ sections:
     title: I3WM
   - content: >
       The below keybindings are only specific to BSPWM.  Only important
-      keybindings are included, few extra keybindings would require you to
+      keybindings are included, few of the keybindings would require you to
       explore the configuration further. The general purpose keybindings such as
       for launching applications or menus are not included here.
 
