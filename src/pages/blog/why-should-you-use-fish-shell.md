@@ -1,6 +1,5 @@
 ---
 title: Autologin
-subtitle: lorem-ipsum
 date: '2021-04-13'
 excerpt: lorem-ipsum
 template: post
