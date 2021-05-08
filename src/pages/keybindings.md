@@ -36,21 +36,17 @@ sections:
   - title: LEFTWM
     actions: []
     type: section_content
-    content: >+
+    content: >
       The below keybindings are only specific to LEFTWM. Only the important
       keybindings are included, few of the keybindings would require you to
       explore the configuration further. The general purpose keybindings such as
       for launching applications or menus are not included here.
 
 
-
-
-      Note: LeftWM is pretty new, so you might see some weirdness within the
-      environment, but since it has a huge potential that's why I don't think
-      that including it is a mistake.
-
-
-
+      Note: LeftWM is pretty new in comparison to the rest of the TWMs, so you
+      might see some weirdness within the environment, but since it has a huge
+      potential that's why I don't think that including it is a mistake. Give it
+      a go.
 template: advanced
 title: Keybindings
 ---
