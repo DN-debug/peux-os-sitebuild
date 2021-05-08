@@ -34,7 +34,6 @@ sections:
     actions: []
     type: section_content
   - title: LEFTWM
-    subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
