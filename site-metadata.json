@@ -52,7 +52,7 @@
                 "url": "/#con"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Keybindings",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
