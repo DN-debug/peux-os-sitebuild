@@ -16,6 +16,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+    title: I3WM
 template: advanced
 title: Keybindings
 ---
