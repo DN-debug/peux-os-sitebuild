@@ -25,9 +25,9 @@ sections:
   - title: XMONAD
     content: >
       The below keybindings are only specific to Xmonad. Only the important
-      keybindings are included, you might have to explore the configuration a
-      bit to get the idea . The general purpose keybindings such as for
-      launching applications or menus are not included here.
+      keybindings are included, few of the keybindings would require you to
+      explore the configuration further. The general purpose keybindings such as
+      for launching applications or menus are not included here.
     actions: []
     type: section_content
 template: advanced
