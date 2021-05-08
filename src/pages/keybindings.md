@@ -30,7 +30,7 @@ sections:
       for launching applications or menus are not included here.
 
 
-      ![](/images/curious-sun.png)
+      ![](/images/groovy-panda.png)
     actions: []
     type: section_content
   - title: LEFTWM
