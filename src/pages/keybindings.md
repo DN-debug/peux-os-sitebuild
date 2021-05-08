@@ -10,8 +10,7 @@ sections:
     actions: []
     type: section_content
     title: I3WM
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
