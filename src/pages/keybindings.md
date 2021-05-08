@@ -8,4 +8,5 @@ sections:
     title: I3WM
 template: advanced
 title: Keybindings
+excerpt: 'Only the system keybindings are '
 ---
