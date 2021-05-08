@@ -25,6 +25,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+    title: BSPWM
 template: advanced
 title: Keybindings
 ---
