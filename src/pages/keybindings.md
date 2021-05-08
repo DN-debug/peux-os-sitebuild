@@ -18,7 +18,7 @@ sections:
       for launching applications or menus are not included here.
 
 
-      ![](/images/sk2.png)
+      ![](/images/fierce-apple.png)
     actions: []
     type: section_content
     title: BSPWM
