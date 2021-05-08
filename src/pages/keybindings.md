@@ -3,8 +3,7 @@ hide_title: true
 sections:
   - content: >
       The below keybindings are only specific to i3WM. The general purpose
-      keybindings such as for launching applications or menus are not included
-      here.
+      keybindings i.e for launching applications or menus are not included here.
 
 
       ![](/images/violet-lime.png)
