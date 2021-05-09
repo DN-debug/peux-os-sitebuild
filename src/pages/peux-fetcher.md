@@ -14,6 +14,15 @@ sections:
       below formats \[ we have Debian format as well because few might want to
       fetch the configurations on Debian systems as well, and I see no harm in
       keeping an additional format ].
+
+
+
+
+      Note: This is the first version of Peux Fetcher, released as a beta to
+      test the crowd and weirdness in the application. The package in itself is
+      stable and ready to use. Even we have not discovered any weirdness in the
+      application, but over time, only after extensive usage, we would be able
+      to uncover the loopholes within the app.
     actions:
       - label: .appimage
         url: >-
