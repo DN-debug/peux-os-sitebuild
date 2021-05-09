@@ -78,6 +78,7 @@ sections:
             icon_class: lorem-ipsum
             new_window: true
             type: action
+            url: 'https://osdn.net/projects/peux-os/storage/TWM/xmonad/'
         type: grid_item
         image: images/xm.png
       - content: >
