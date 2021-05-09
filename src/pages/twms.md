@@ -23,7 +23,8 @@ sections:
             new_window: true
             type: action
           - label: OSDN
-            url: 'https://osdn.net/projects/peux-os/storage/TWM/i3/'
+            url: >-
+              https://osdn.net/projects/peux-os/storage/TWM/i3/peux_os_i3wm-stable_21.05-x86_64.iso
             style: button
             icon_class: lorem-ipsum
             new_window: true
