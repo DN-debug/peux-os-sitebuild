@@ -65,6 +65,7 @@ sections:
             style: button
             new_window: true
             type: action
+            url: 'https://sourceforge.net/projects/peux-os/files/TWM/xmonad/'
           - label: FOSSTorrents
             style: button
             new_window: true
