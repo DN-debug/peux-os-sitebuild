@@ -41,6 +41,7 @@ sections:
             style: button
             new_window: true
             type: action
+            url: 'https://sourceforge.net/projects/peux-os/files/TWM/bspwm/'
           - label: FOSSTorrents
             url: lorem-ipsum
             style: button
