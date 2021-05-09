@@ -16,7 +16,7 @@ sections:
             style: button
             new_window: true
             type: action
-            url: 'https://sourceforge.net/projects/peux-os/files/TWM/leftwm/'
+            url: 'https://sourceforge.net/projects/peux-os/files/TWM/i3wm/'
           - label: FOSSTorrents
             url: lorem-ipsum
             style: button
