@@ -43,7 +43,7 @@ sections:
             type: action
             url: 'https://sourceforge.net/projects/peux-os/files/TWM/bspwm/'
           - label: FOSSTorrents
-            url: lorem-ipsum
+            url: 'https://fosstorrents.com/distributions/peux-os/'
             style: button
             icon_class: lorem-ipsum
             new_window: true
