@@ -87,6 +87,7 @@ sections:
             style: button
             new_window: true
             type: action
+            url: 'https://sourceforge.net/projects/peux-os/files/TWM/leftwm/'
           - label: FOSSTorrents
             style: button
             new_window: true
