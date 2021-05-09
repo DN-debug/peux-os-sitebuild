@@ -93,6 +93,7 @@ sections:
             style: button
             new_window: true
             type: action
+            url: 'https://fosstorrents.com/distributions/peux-os/'
           - style: button
             new_window: true
             type: action
