@@ -18,7 +18,7 @@ sections:
             type: action
             url: 'https://sourceforge.net/projects/peux-os/files/TWM/i3wm/'
           - label: FOSSTorrents
-            url: lorem-ipsum
+            url: 'https://fosstorrents.com/distributions/peux-os/'
             style: button
             new_window: true
             type: action
