@@ -23,7 +23,7 @@ sections:
             new_window: true
             type: action
           - label: OSDN
-            url: lorem-ipsum
+            url: 'https://osdn.net/projects/peux-os/storage/TWM/i3/'
             style: button
             icon_class: lorem-ipsum
             new_window: true
