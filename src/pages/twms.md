@@ -103,6 +103,8 @@ sections:
             new_window: true
             type: action
             label: OSDN
+            url: >-
+              https://osdn.net/projects/peux-os/storage/TWM/leftwm/peux_os_leftwm-stable_21.05-x86_64.iso
         type: grid_item
         title: LEFTWM
         image: images/lftwm.png
