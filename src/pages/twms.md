@@ -38,7 +38,6 @@ sections:
           rich features that one would find on Peux i3wm flavor.
         actions:
           - label: SourceForge
-            url: lorem-ipsum
             style: button
             new_window: true
             type: action
