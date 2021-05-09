@@ -14,7 +14,7 @@ Below is the list of contributors:
 *   Kevin E -- My first supporter on BMC and the person who made me realize that digital coffee is actually a "thing".
 *   Nik Leb -- My first Paypal donation came from Nik. I appreciate that he stepped up to support the project in his own way.
 *   Chase M -- My second Paypal donation came from Chase, who appreciated Peux OS for its immense customization.
-*   Marcos D -- My third PayPal donation came from Marcos, who appreciated the work done on Peux OS. 
+*   Marcos D -- My third PayPal donation came from Marcos, who appreciated the work done on Peux OS.
 
 > **PILLARS**
 >
@@ -29,9 +29,7 @@ Below is the list of contributors:
 *   Yan ( aka Purple Scientist ) -- Our scientist friend here has also contributed to the wallpaper list. He even suggested keeping a nice cute logo for our Discord Server along with some suggestions on using Papirus ( I chose to keep it after collecting votes from everyone ) and more dark themes. His suggestions are included in the KDE version of Peux OS.
 *   Geo ( aka Eborn ) -- Ex Reborn OS tester. An expert in Virtualization/ParaVirtualization. He is running the hardware and performance tests along with "dangeruss26" these days, aiming to improve the performance on different machines.
 *   りなぶ linux party -- A Japanese Youtuber. He's not that famous, but he covered all of the Peux OS versions that I have published so far. I don't really watch the YouTube videos because of my how busy my work has recently got, however I do hope that he will get some more subscribers on his channel.
-*   Darahaas -- Late addition to the list, but you guys would probably see the Peux Fetcher application developed by him to serve the purpose of Peux configurations distribution.
-
-
+*   Darahaas -- Late addition to the list, but you guys would probably see the Peux Fetcher application developed by him to serve the purpose of Peux configurations' distribution.
 
 This list will grow eventually as the number of contributors would rise. My teacher used to tell me that " not everybody would like your work, but cherish those who will and never let it go ", well obviously improvise on that as much as you can. I'd give myself some credit as well for changing it from a hobby project to a partial-hobby project ( I'm nothing but generous :D )
 
