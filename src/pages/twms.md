@@ -70,6 +70,7 @@ sections:
             style: button
             new_window: true
             type: action
+            url: 'https://fosstorrents.com/distributions/peux-os/'
           - label: OSDN
             style: button
             icon_class: lorem-ipsum
