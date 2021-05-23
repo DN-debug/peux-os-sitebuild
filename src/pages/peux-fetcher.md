@@ -13,9 +13,8 @@ sections:
       who are in the previous builds can download the package in any of the
       below formats \[ we have Debian format as well because few might want to
       fetch the configurations on Debian systems as well, and I see no harm in
-      keeping an additional format ].
-
-
+      keeping an additional format. However, the configurations that require
+      installation of components would not work on the Debian systems ].
 
 
       Note: This is the first version of Peux Fetcher, released as a beta to
