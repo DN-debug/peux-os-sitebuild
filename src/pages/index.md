@@ -36,7 +36,7 @@ sections:
         content: >
           PACMAN is the default CLI package manager along with yay as an
           alternative. For GUI, we have replaced the Pamac-Manager with Bauh
-          (ba-oo).
+          (ba-oo) as the one-stop-shop for all types of packages.
   - content: >
       ***Peux OS*** comes with four different desktop flavors: XFCE, LXQt,
       Gnome, and KDE. XFCE is the flagship. Out of these four versions: KDE,
