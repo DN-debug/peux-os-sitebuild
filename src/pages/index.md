@@ -40,30 +40,26 @@ sections:
   - content: >
       ***Peux OS*** comes with four different desktop flavors: XFCE, LXQt,
       Gnome, and KDE. XFCE is the flagship. Out of these four versions: KDE,
-      LXQt, and XFCE are the highly configured ones. Gnome is included because
-      of its minimalism and stability.
+      LXQt, and XFCE are the highly configured ones. Gnome has been included
+      because of its minimalism and stability.
 
 
-      KDE is the recent addition to the list. I've decided to keep it after
-      receiving a fairly huge number of community requests. A small note for the
-      KDE version: if your screen gets locked during live-session then use
-      'root' to unlock it.
-
-
-      Please note that if you are using UnetBootin/Etcher, then the boot-process
+      Please note that if you are using UnetBootin/Etcher, then the boot process
       is likely going to fail. To make a bootable USB, use Rufus-dd mode / dd -
-      CLI mode / Multiwriter / Mintstick.
+      CLI mode / Multiwriter / Mintstick / Ventoy.
 
 
       ***
 
 
-      \*\*Note: All the downloads are now moved to the stable branch. The aim is
-      to keep it minimal rather than lightweight. You can download Peux OS from
-      any of the below available sites. This project will improve with time.\*\*
+      \*\*Note: All the older versions of Peux OS would be moved to the archive
+      folder within the respective flavor's directory that is present in
+      SourceForge. The focus is to keep it minimal rather than lightweight. You
+      can download Peux OS from any of the below available sites. This project
+      will improve with time.\*\*
 
 
-      ****
+      ***
 
 
       ***
