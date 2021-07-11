@@ -31,6 +31,6 @@ Below is the list of contributors:
 *   りなぶ linux party -- A Japanese Youtuber. He's not that famous, but he has covered all of the Peux OS versions that I have published so far. I don't really get to spend much time on YouTube videos, however, I came to know about him from one of the Discord members. I do hope that he will get some more subscribers on his channel.
 *   Darahaas -- Late addition to the list, but you guys would probably see the Peux Fetcher application developed by him to serve the purpose of Peux configurations' distribution.
 
-This list will grow eventually as the number of contributors would rise. My teacher used to tell me that " not everybody would like your work, but cherish those who will and never let it go ", basically don't lose hope and obviously improvise on that as much as you can. I'd give myself some credit as well for changing it from a hobby project to a partial-hobby project ( I'm nothing but generous :D )
+This list will grow eventually as the number of contributors would rise. My teacher used to tell me that " not everybody would like your work, but cherish those who will and never let it go ", well basically that means don't lose hope and obviously improvise on that as much as you can. I'd give myself some credit as well for changing it from a hobby project to a partial-hobby project ( I'm nothing but generous :D )
 
 Thank you!
