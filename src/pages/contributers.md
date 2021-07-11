@@ -17,6 +17,8 @@ Below is the list of contributors:
 *   Marcos D -- My third PayPal donation came from Marcos, who appreciated the work done on Peux OS.
 *   Giuseppe C -- Pretty much a new user of Linux but he does have the urge to learn more. He donated to appreciate the help I did on few things to get him started.
 
+> ***PILLARS***
+>
 > ***\[Given to testers, proposers, reviewers]***
 
 *   XFCENation -- They usually spread information that is related to XFCE. Peux OS was just released and these guys helped to spread it across their fanbase. They also introduced this project to FossTorrents.
