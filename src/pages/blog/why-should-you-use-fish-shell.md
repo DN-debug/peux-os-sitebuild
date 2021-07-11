@@ -1,5 +1,5 @@
 ---
-title: Calamares Autologin
+title: Autologin
 date: '2021-04-13'
 template: post
 excerpt: >-
