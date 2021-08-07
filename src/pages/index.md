@@ -80,7 +80,7 @@ sections:
         new_window: true
         type: action
     type: section_content
-    image: images/purple-avocado.png
+    image: images/versions.png
     section_id: '#versions'
     title: Versions
     subtitle: Official Versions
