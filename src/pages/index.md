@@ -83,6 +83,7 @@ sections:
     section_id: '#versions'
     title: Versions
     subtitle: Official Versions
+    image: images/v.png
   - section_id: mini-notes
     type: section_posts
     title: Highlights from Mini-Notes
