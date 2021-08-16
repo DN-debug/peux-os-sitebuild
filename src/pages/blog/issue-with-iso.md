@@ -1,7 +1,6 @@
 ---
 title: ISO - Recent Issues
 date: '2021-08-16'
-excerpt: lorem-ipsum
 template: post
 thumb_image: images/YRzXPk.jpeg
 ---
