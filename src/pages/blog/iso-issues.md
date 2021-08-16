@@ -36,7 +36,7 @@ Here's what I did :--
 
 These issues are common, has occurred on Ubuntu as well but not well-known amongst many users. Why sudo was broken? I have no idea as I didn't dig into its execution state. Why the extension caused a problem? Same answer. Among several other reasons, a login loop can also be caused by the improper permissions on /tmp directory or on .Xauthority.
 
-The post-installation script updates the mirrorlist and packages as well, now that could have induced something idk.
+The post-installation script updates the mirrorlist and packages as well, now that might have induced something idk.
 
 **Conclusion:**
 
