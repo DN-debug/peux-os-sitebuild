@@ -1,6 +1,5 @@
 ---
 title: lorem-ipsum
-subtitle: lorem-ipsum
 date: '2021-08-16'
 excerpt: lorem-ipsum
 template: post
