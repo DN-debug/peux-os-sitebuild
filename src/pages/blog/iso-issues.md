@@ -20,7 +20,7 @@ Here's what I did :--
 
 2.  With Auto-login:
 
-    1.  I needed to fix the issue with user privilege first. So, after a fresh login, if the user attempts to run privileged commands, the first three attempts would definitely fail. You'd then have to wait for 10 min before attempting again, which then would work until the next login-session.
+    1.  I needed to fix the issue with user privilege first. So, after a fresh login, if the user attempts to run privileged commands, the first three attempts would definitely fail. You'd then have to wait for 10 min before attempting it again, which then would work but only until the next login-session.
 
     2.  What options can we have if "sudo" doesn't work? I had two things: a) "su" and b) pkexec \[ few systems would have gksudo as well ]
 
@@ -28,25 +28,25 @@ Here's what I did :--
 
     4.  Once unlocked, I immediately checked the journal logs and figured out that the pam authentication was receiving empty password entries even before user could type it. It was happening every time after the first session logon.
 
-    5.  It was clear as the sky that sudo was broken. I removed sudo and installed doas. configured it  and the issue was gone.
+    5.  It was clear as the sky that sudo was broken. I removed sudo and installed doas. configured it and the issue was gone.
 
-3.  Without Auto-login:
+3.  Without Auto-login: 
 
-    1.  Next task at hand was to resolve the xorg login loop issue as Wayland was working for me unlike others . Well, thanks to my past experiences. I logged into tty session and wiped out the shell-extensions. Performed a reboot and was able to fix it.
+    1.  Next task at hand was to resolve the xorg login loop issue as Wayland was working for me unlike others . Well, thanks to my past experiences. I logged into the TTY session and wiped out the shell-extensions that were present in $HOME/.local/share/gnome-shell/. Performed a reboot and was able to fix it.
 
-    2.  Back in 2018, I was using Fedora, I still do tbh. I hada similar issue and I remembered fixing it the same way.
 
-These issues are common, has occured on Ubuntu as well but not well-known among many users. Why sudo was broken? I have no idea as I didn't dig into its execution state. Why the extension caused a problem? Same answer. Among several other reasons, a login loop can also be caused by improper permissions on /tmp directory or on .Xauthority.
+
+These issues are common, has occurred on Ubuntu as well but not well-known amongst many users. Why sudo was broken? I have no idea as I didn't dig into its execution state. Why the extension caused a problem? Same answer. Among several other reasons, a login loop can also be caused by improper permissions on /tmp directory or on .Xauthority.
 
 The post-installation script updates the mirrorlist and packages as well, now that could have induced something idk.
 
 **Conclusion:**
 
-It was a broken extension and broken sudo package that has caused all of this.
+It was a broken weather extension and a broken sudo package that has caused all of this.
 
 **Tips:**
 
-Doas is your friend. It is lightweight and less bloated when compared to sudo. However, it sometimes act weird too, i.e you may receive this : ***"doas: syntax error at line "***.  This is not a big issue though, use the below tricks to solve it:
+Doas is your friend. It is lightweight and less bloated when compared to sudo. However, it sometimes can act weird too, i.e you may receive this : ***"doas: syntax error at line "***.  This is not a big issue though, use the below tricks to solve it:
 
 1.  "su" to get root privileges.
 
@@ -60,7 +60,7 @@ Doas is your friend. It is lightweight and less bloated when compared to sudo. H
 
 That should solve it.
 
-Yay comes pre-installed but used "sudo" during its execution. Run the following command to force it to use "doas":
+Yay comes pre-installed into Peux OS but it uses "sudo" during its execution. Run the following command to force it to use "doas":
 
 ***yay --sudo doas --sudoflags -- --save***
 
