@@ -8,11 +8,11 @@ excerpt: >-
 template: post
 thumb_image: images/spectacular-turtle.jpg
 ---
-I released XFCE, LXQt and GNOME ISOs on 1st of August. After a week later I started receiving messages that Gnome ISO never worked. That was quite weird as I did run full tests on different machines before releasing it. So what was the issue: users reported that the were facing login-loop. Now there are different aspects of viewing this issue. Let me first explain those areas.
+I released XFCE, LXQt and GNOME ISOs on 1st of August. After a week later I started receiving messages that Gnome ISO never worked. That was quite weird as I did run full tests on different machines before releasing it. So what was the issue: users reported that the were facing a login-loop. Now there are different aspects of viewing this issue. Let me first explain those areas.
 
 **Issue:**
 
-If an user was selecting autologin, then the user was not able to run privileged commands within the user-space. If the user was not selecting autologin, then the user was not able to login at all.
+Upon selecting autologin, then the user was not able to run privileged commands within the user-space. If the user was not selecting autologin, then the user was not able to login at all.
 
 Here's what I did :--
 
@@ -36,6 +36,12 @@ Here's what I did :--
 
     2.  Back in 2018, I was using Fedora, I still do tbh. I hada similar issue and I remembered fixing it the same way.
 
-These issues are common, but not well-known among many users. Why sudo was broken? I have no idea as I didn't dig into its execution state. Why the extension caused a problem? Same answer. Among several other reasons, a login loop can also be caused by improper permissions on /tmp directory or on .Xauthority.
+These issues are common, has occured on Ubuntu as well but not well-known among many users. Why sudo was broken? I have no idea as I didn't dig into its execution state. Why the extension caused a problem? Same answer. Among several other reasons, a login loop can also be caused by improper permissions on /tmp directory or on .Xauthority.
 
 The post-installation script updates the mirrorlist and packages as well, now that could have induced something idk.
+
+
+
+**Conclusion:**
+
+It was a broken extension and broken sudo package that has caused all of this.
