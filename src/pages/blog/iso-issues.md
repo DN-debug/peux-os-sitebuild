@@ -30,13 +30,11 @@ Here's what I did :--
 
     5.  It was clear as the sky that sudo was broken. I removed sudo and installed doas. configured it and the issue was gone.
 
-3.  Without Auto-login: 
+3.  Without Auto-login:
 
     1.  Next task at hand was to resolve the xorg login loop issue as Wayland was working for me unlike others . Well, thanks to my past experiences. I logged into the TTY session and wiped out the shell-extensions that were present in $HOME/.local/share/gnome-shell/. Performed a reboot and was able to fix it.
 
-
-
-These issues are common, has occurred on Ubuntu as well but not well-known amongst many users. Why sudo was broken? I have no idea as I didn't dig into its execution state. Why the extension caused a problem? Same answer. Among several other reasons, a login loop can also be caused by improper permissions on /tmp directory or on .Xauthority.
+These issues are common, has occurred on Ubuntu as well but not well-known amongst many users. Why sudo was broken? I have no idea as I didn't dig into its execution state. Why the extension caused a problem? Same answer. Among several other reasons, a login loop can also be caused by the improper permissions on /tmp directory or on .Xauthority.
 
 The post-installation script updates the mirrorlist and packages as well, now that could have induced something idk.
 
