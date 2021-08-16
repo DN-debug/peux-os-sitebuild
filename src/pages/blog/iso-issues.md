@@ -32,10 +32,10 @@ Here's what I did :--
 
 3.  Without Auto-login:
 
-    1.  Next task at hand was to resolve the xorg login loop issue as Wayland was working for me unlike others . Well, thanks to my past experiences. I logged into tty session and wiped out the shell-extensions. Performed a reboot and was able to fix it. 
+    1.  Next task at hand was to resolve the xorg login loop issue as Wayland was working for me unlike others . Well, thanks to my past experiences. I logged into tty session and wiped out the shell-extensions. Performed a reboot and was able to fix it.
 
-    2.  Back in 2018, I was using Fedora, I still do tbh. I hada similar issue and I remembered fixing it the same way. 
+    2.  Back in 2018, I was using Fedora, I still do tbh. I hada similar issue and I remembered fixing it the same way.
 
+These issues are common, but not well-known among many users. Why sudo was broken? I have no idea as I didn't dig into its execution state. Why the extension caused a problem? Same answer. Among several other reasons, a login loop can also be caused by improper permissions on /tmp directory or on .Xauthority.
 
-
-These issues are common, but not well-known among many users. Why sudo was broken? I have no idea as I didn't dig into its execution state. Why the extension caused a problem? Same answer. Login loop can also be caused by improper /tmp directory permissions or on .Xauthority among several other reasons.
+The post-installation script updates the mirrorlist and packages as well, now that could have induced something idk.
