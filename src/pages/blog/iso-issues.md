@@ -22,4 +22,8 @@ Here's what I did :--
 
     1.  I needed to fix the issue with user privilege first. So, after a fresh login, if the user attempts to run privileged commands, the first three attempts would definitely fail. You'd then have to wait for 10 min before attempting again, which then would work until the next login-session.
 
-    2.
+    2.  What options can we have if "sudo" doesn't work? I had two things: a) "su" and b) pkexec \[ few systems would have gksudo as well ]
+
+    3.  Well, to confirm that password is working but the package is faulty, I used "su" privileges, whcih is techically a different user-space. I was able to get into "root" mode. I first edited the /etc/security/faillock.conf file to reduce the account lock duration and then I proceeded with system lock. Apparently, I got the same result, i.e 3 failed attempts were made, wait for 1 min \[ due to the modified lock file as stated above ] .
+
+    4.  Once unlocked, I immediately checked the journal logs and figured out that the pam authentication was receiving empty password entries even before user could type it. It was happening every time after the first session logon. 
