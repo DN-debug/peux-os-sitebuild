@@ -44,11 +44,9 @@ The post-installation script updates the mirrorlist and packages as well, now th
 
 It was a broken extension and broken sudo package that has caused all of this.
 
-
-
 **Tips:**
 
-Doas is your friend. It is lightweight and less bloated when compared to sudo. However, it sometimes act weird too, i.e you may receive this : ***"doas: syntax error at line ". ***** **This is not a big issue though, use the below tricks to solve it:
+Doas is your friend. It is lightweight and less bloated when compared to sudo. However, it sometimes act weird too, i.e you may receive this : \*\*\*"doas: syntax error at line ". \*\*\*\*\* \*\*This is not a big issue though, use the below tricks to solve it:
 
 1.  "su" to get root privileges.
 
@@ -60,13 +58,10 @@ Doas is your friend. It is lightweight and less bloated when compared to sudo. H
 
     3.  or , modify the content as : "permit keepenv :wheel"
 
-That should solve it. 
-
-
+That should solve it.
 
 Yay comes pre-installed but used "sudo" during its execution. Run the following command to force it to use "doas":
 
 ***yay --sudo doas --sudoflags -- --save***
 
-
-
+**
