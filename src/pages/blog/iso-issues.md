@@ -40,8 +40,33 @@ These issues are common, has occured on Ubuntu as well but not well-known among 
 
 The post-installation script updates the mirrorlist and packages as well, now that could have induced something idk.
 
-
-
 **Conclusion:**
 
 It was a broken extension and broken sudo package that has caused all of this.
+
+
+
+**Tips:**
+
+Doas is your friend. It is lightweight and less bloated when compared to sudo. However, it sometimes act weird too, i.e you may receive this : ***"doas: syntax error at line ". ***** **This is not a big issue though, use the below tricks to solve it:
+
+1.  "su" to get root privileges.
+
+2.  nano /etc/doas.conf. Now here are three things that we could do:
+
+    1.  delete the file and recreate it using "permit :wheel" as its content.
+
+    2.  or, add extra space between "permit" and ":wheel", save it, and then remove the space that you added, save it and test it.
+
+    3.  or , modify the content as : "permit keepenv :wheel"
+
+That should solve it. 
+
+
+
+Yay comes pre-installed but used "sudo" during its execution. Run the following command to force it to use "doas":
+
+***yay --sudo doas --sudoflags -- --save***
+
+
+
