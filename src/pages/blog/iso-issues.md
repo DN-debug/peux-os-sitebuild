@@ -46,7 +46,7 @@ It was a broken extension and broken sudo package that has caused all of this.
 
 **Tips:**
 
-Doas is your friend. It is lightweight and less bloated when compared to sudo. However, it sometimes act weird too, i.e you may receive this : \*\*\*"doas: syntax error at line ". \*\*\*\*\* \*\*This is not a big issue though, use the below tricks to solve it:
+Doas is your friend. It is lightweight and less bloated when compared to sudo. However, it sometimes act weird too, i.e you may receive this : ***"doas: syntax error at line "***.  This is not a big issue though, use the below tricks to solve it:
 
 1.  "su" to get root privileges.
 
@@ -64,4 +64,4 @@ Yay comes pre-installed but used "sudo" during its execution. Run the following 
 
 ***yay --sudo doas --sudoflags -- --save***
 
-**
+\*\*
