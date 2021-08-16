@@ -1,5 +1,5 @@
 ---
-title: Touchpad - double-tap issue
+title: ISO - Recent Issues
 subtitle: ''
 date: '2020-12-02'
 excerpt: >-
