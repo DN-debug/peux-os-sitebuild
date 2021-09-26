@@ -3,6 +3,7 @@ title: Rofi-Theme -- Issue on XFCE
 date: '2021-09-26'
 template: post
 thumb_image: images/screenshot-0.jpg
+excerpt: ingiss
 ---
 Date: 26 Sep 2021
 
