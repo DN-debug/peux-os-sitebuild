@@ -2,7 +2,7 @@
 title: Rofi-Theme -- Issue on XFCE
 date: '2021-09-26'
 excerpt: >-
-  Why is Gnome-Files kept as the default file-manager on Peux OS? Read to know
+  aWhy is Gnome-Files kept as the default file-manager on Peux OS? Read to know
   more!
 template: post
 thumb_image: images/screenshot-0.jpg
