@@ -17,5 +17,3 @@ Repo: [config-corrections](https://github.com/peux-os/config-corrections)
 
 
 
-GLIMPSE OF THE ISSUE:
-
