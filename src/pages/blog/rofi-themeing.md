@@ -1,5 +1,5 @@
 ---
-title: Gnome-Files on XFCE? Huh!
+title: Rofi-Theme -- Issue on XFCE
 subtitle: What sort of mix is this?
 date: '2021-02-11'
 excerpt: >-
