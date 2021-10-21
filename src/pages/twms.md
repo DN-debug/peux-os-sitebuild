@@ -121,7 +121,7 @@ sections:
 
           - dolor sit amet
         actions: []
-      - title: lorem-ipsum
+      - title: S
         content: >-
           ## Lorem ipsum
 
