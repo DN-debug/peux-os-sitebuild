@@ -108,7 +108,7 @@ sections:
         type: grid_item
         title: LEFTWM
         image: images/lftwm.png
-      - title: lorem-ipsum
+      - title: RATPOISON
         content: >-
           ## Lorem ipsum
 
