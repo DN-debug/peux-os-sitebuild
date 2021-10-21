@@ -121,7 +121,7 @@ sections:
 
           - dolor sit amet
         actions: []
-      - title: 'Sdorfehs [Starfish]'
+      - title: 'SDORFEHS [Starfish]'
         content: >-
           ## Lorem ipsum
 
