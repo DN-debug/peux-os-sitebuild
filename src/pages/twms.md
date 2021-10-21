@@ -121,7 +121,7 @@ sections:
 
           - dolor sit amet
         actions: []
-      - title: Sdorfehs
+      - title: 'Sdorfehs '
         content: >-
           ## Lorem ipsum
 
