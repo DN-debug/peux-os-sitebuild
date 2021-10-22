@@ -115,7 +115,12 @@ sections:
           is being around since 2000. It is written in C and the keybindings
           follow a similar trend to that of Emacs, inspired by the GNU Screen
           terminal multiplexer. 
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            icon_class: lorem-ipsum
+            new_window: false
         image: images/scrot_ratpoison-2021-10-22.png
       - title: 'SDORFEHS [Starfish]'
         content: >-
