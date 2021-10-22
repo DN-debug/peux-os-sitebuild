@@ -124,7 +124,7 @@ sections:
             url: lorem-ipsum
             style: button
             new_window: true
-          - label: lorem-ipsum
+          - label: OSDN
             url: lorem-ipsum
             style: link
             icon_class: lorem-ipsum
