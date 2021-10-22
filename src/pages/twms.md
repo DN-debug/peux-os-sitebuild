@@ -120,7 +120,7 @@ sections:
             url: lorem-ipsum
             style: button
             new_window: true
-          - label: lorem-ipsum
+          - label: FOSS
             url: lorem-ipsum
             style: link
             icon_class: lorem-ipsum
