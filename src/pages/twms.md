@@ -143,6 +143,7 @@ sections:
 
           - dolor sit amet
         actions: []
+        image: images/scrot_sdorfehs-2021-10-20_000.png
     type: section_grid
 template: advanced
 ---
