@@ -121,6 +121,7 @@ sections:
 
           - dolor sit amet
         actions: []
+        image: images/scrot_ratpoison-2021-10-22.png
       - title: 'SDORFEHS [Starfish]'
         content: >-
           ## Lorem ipsum
