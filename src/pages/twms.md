@@ -121,7 +121,7 @@ sections:
             style: button
             new_window: true
           - label: FOSSTorrents
-            url: lorem-ipsum
+            url: x
             style: button
             new_window: true
           - label: OSDN
