@@ -109,17 +109,12 @@ sections:
         title: LEFTWM
         image: images/lftwm.png
       - title: RATPOISON
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Ratpoison is a very unusual window manager, that has a tag-line of
+          "Say good-bye to the rodent". Often considered as the 'King of WMs',
+          is being around since 2000. It is written in C and the keybindings
+          follow a similar trend to that of Emacs, inspired by the GNU Screen
+          terminal multiplexer. 
         actions: []
         image: images/scrot_ratpoison-2021-10-22.png
       - title: 'SDORFEHS [Starfish]'
