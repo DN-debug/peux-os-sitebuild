@@ -116,7 +116,7 @@ sections:
           follow a similar trend to that of Emacs, inspired by the GNU Screen
           terminal multiplexer. 
         actions:
-          - label: lorem-ipsum
+          - label: SourceForge
             url: lorem-ipsum
             style: link
             icon_class: lorem-ipsum
