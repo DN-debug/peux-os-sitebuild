@@ -125,7 +125,7 @@ sections:
             style: button
             new_window: true
           - label: OSDN
-            url: lorem-ipsum
+            url: x
             style: button
             icon_class: lorem-ipsum
             new_window: true
