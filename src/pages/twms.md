@@ -131,17 +131,11 @@ sections:
             new_window: true
         image: images/scrot_ratpoison-2021-10-22.png
       - title: 'SDORFEHS [Starfish]'
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Sdorfehs ( pronounced as 'Starfish' ), is a descendent of RatpoisonWM.
+          I call it - Enhanced Successor of RatpoisonWM. It has all the goodies
+          of Ratpoison, along with some enhancements, such as virtual-screens, a
+          bar and window gaps.  
         actions: []
         image: images/scrot_sdorfehs-2021-10-20_000.png
     type: section_grid
