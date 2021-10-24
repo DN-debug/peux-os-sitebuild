@@ -132,10 +132,10 @@ sections:
         image: images/scrot_ratpoison-2021-10-22.png
       - title: 'SDORFEHS [Starfish]'
         content: >
-          Sdorfehs ( pronounced as 'Starfish' ), is a descendent of RatpoisonWM.
-          I call it - Enhanced Successor of RatpoisonWM. It has all the goodies
-          of Ratpoison, along with some enhancements, such as virtual-screens, a
-          bar and window gaps.  
+          Sdorfehs ( pronounced as 'Starfish' ), is a descendent of RatpoisonWM,
+          created by Joshua Stein. I call it - Enhanced Successor of
+          RatpoisonWM. It has all the goodies of Ratpoison, along with some
+          enhancements, such as virtual-screens, a bar and window gaps.
         actions: []
         image: images/scrot_sdorfehs-2021-10-20_000.png
     type: section_grid
