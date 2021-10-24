@@ -136,7 +136,12 @@ sections:
           created by Joshua Stein. I call it - Enhanced Successor of
           RatpoisonWM. It has all the goodies of Ratpoison, along with some
           enhancements, such as virtual-screens, a bar and window gaps.
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            icon_class: lorem-ipsum
+            new_window: false
         image: images/scrot_sdorfehs-2021-10-20_000.png
     type: section_grid
 template: advanced
