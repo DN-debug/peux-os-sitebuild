@@ -1,7 +1,7 @@
 ---
 title: How to use Peux OS - Ratpoison?
 date: '2021-11-01'
-excerpt: 'This post will highlight some of the '
+excerpt: This post will highlight some of the tips on usage of Ratpoison
 template: post
 thumb_image: images/scrot_ratpoison-2021-10-22.png
 ---
