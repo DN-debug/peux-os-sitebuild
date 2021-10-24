@@ -137,7 +137,7 @@ sections:
           RatpoisonWM. It has all the goodies of Ratpoison, along with some
           enhancements, such as virtual-screens, a bar and window gaps.
         actions:
-          - label: lorem-ipsum
+          - label: SourceForge
             url: lorem-ipsum
             style: link
             icon_class: lorem-ipsum
