@@ -151,7 +151,7 @@ sections:
             url: lorem-ipsum
             style: button
             icon_class: lorem-ipsum
-            new_window: false
+            new_window: true
         image: images/scrot_sdorfehs-2021-10-20_000.png
     type: section_grid
 template: advanced
