@@ -1,5 +1,5 @@
 ---
-title: 'HOw '
+title: How to use Peux OS - Ratpoison?
 subtitle: lorem-ipsum
 date: '2021-10-24'
 excerpt: lorem-ipsum
