@@ -112,9 +112,9 @@ sections:
         content: >
           Ratpoison is a very unusual window manager, that has a tag-line of
           "Say good-bye to the rodent". Often considered as the 'King of WMs',
-          is being around since 2000. It is written in C and the keybindings
-          follow a similar trend to that of Emacs, inspired by the GNU Screen
-          terminal multiplexer. 
+          is being around since year 2000. It is written in C and the
+          keybindings follow a similar trend to that of Emacs, inspired by the
+          GNU Screen terminal multiplexer.
         actions:
           - label: SourceForge
             url: lorem-ipsum
