@@ -154,6 +154,19 @@ sections:
             icon_class: lorem-ipsum
             new_window: true
         image: images/scrot_sdorfehs-2021-10-20_000.png
+      - title: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        actions: []
     type: section_grid
 template: advanced
 ---
