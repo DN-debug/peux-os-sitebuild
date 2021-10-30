@@ -135,9 +135,8 @@ sections:
           Sdorfehs ( pronounced as 'Starfish' ), is a descendent of RatpoisonWM,
           created by Joshua Stein. I call it - Enhanced Successor of
           RatpoisonWM. It has all the goodies of Ratpoison, along with some
-          enhancements, such as virtual-screens, a bar and window gaps. I felt
-          the need to port it to Peux OS. Give it a try and you won't be
-          dissapointed.
+          enhancements, such as virtual-screens, a bar and window gaps. Those
+          who prefer Ratpoison, would easily fall in love with Starfish.
         actions:
           - label: SourceForge
             url: lorem-ipsum
