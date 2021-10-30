@@ -167,6 +167,7 @@ sections:
 
           - dolor sit amet
         actions: []
+        image: images/grimshot_sway-2021-10-30.png
     type: section_grid
 template: advanced
 ---
