@@ -155,17 +155,13 @@ sections:
             new_window: true
         image: images/scrot_sdorfehs-2021-10-20_000.png
       - title: SWAY+WAYFIRE
-        content: >-
-          ## Lorem ipsum
+        content: >
+          SwayWM is the port of i3WM on Wayland, whereas Wayfire is a Wayland
+          compositor that is delivered with WayfireWM as a package. This version
+          of Peux OS TWM contains both the sessions. 
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          The above screenshot is from Peux OS Sway.
         actions: []
         image: images/grimshot_sway-2021-10-30.png
     type: section_grid
