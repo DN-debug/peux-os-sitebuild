@@ -178,7 +178,7 @@ sections:
             url: lorem-ipsum
             style: button
             icon_class: lorem-ipsum
-            new_window: false
+            new_window: true
         image: images/grimshot_sway-2021-10-30.png
     type: section_grid
 template: advanced
