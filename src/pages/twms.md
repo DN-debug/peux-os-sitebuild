@@ -159,10 +159,10 @@ sections:
           Sway and Wayfire are the wayland compositor that comes with SwayWM and
           WayfireWM respectively. Though the WayfireWM is not a TWM, rather a
           FWM, yet the configuration of these two is very much compatible, hence
-          this version of Peux OS TWM contains both of these wayland sessions. 
+          this version of Peux OS TWM contains both of these wayland sessions.
 
 
-          The above screenshot is from Peux OS Sway.
+          \[The above screenshot is from Peux OS Sway.]
         actions: []
         image: images/grimshot_sway-2021-10-30.png
     type: section_grid
