@@ -163,7 +163,12 @@ sections:
 
 
           *\[The above screenshot is from Peux OS Sway.]*
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            icon_class: lorem-ipsum
+            new_window: false
         image: images/grimshot_sway-2021-10-30.png
     type: section_grid
 template: advanced
