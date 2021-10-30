@@ -154,7 +154,7 @@ sections:
             icon_class: lorem-ipsum
             new_window: true
         image: images/scrot_sdorfehs-2021-10-20_000.png
-      - title: Sway
+      - title: Sway+Wayfire
         content: >-
           ## Lorem ipsum
 
