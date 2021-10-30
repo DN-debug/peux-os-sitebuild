@@ -162,7 +162,7 @@ sections:
           this version of Peux OS TWM contains both of these wayland sessions.
 
 
-          \[The above screenshot is from Peux OS Sway.]
+          *\[The above screenshot is from Peux OS Sway.]*
         actions: []
         image: images/grimshot_sway-2021-10-30.png
     type: section_grid
