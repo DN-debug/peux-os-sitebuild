@@ -164,7 +164,7 @@ sections:
 
           *\[The above screenshot is from Peux OS Sway.]*
         actions:
-          - label: lorem-ipsum
+          - label: SourceForge
             url: lorem-ipsum
             style: link
             icon_class: lorem-ipsum
