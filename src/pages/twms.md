@@ -180,6 +180,7 @@ sections:
             style: button
             icon_class: lorem-ipsum
             new_window: true
+        image: images/istockphoto-1181378326-612x612.jpg
     type: section_grid
 template: advanced
 ---
