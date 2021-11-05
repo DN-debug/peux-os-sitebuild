@@ -156,14 +156,10 @@ sections:
         image: images/scrot_sdorfehs-2021-10-20_000.png
       - title: SWAY
         content: >
-          Sway and Wayfire are the wayland compositors that comes with SwayWM
-          and WayfireWM respectively. Though the WayfireWM is not a TWM, rather
-          a FWM, yet the configuration is very much compatible with SwayWM.
-          Tthis version of Peux OS TWM comes with both of these wayland
-          sessions.
-
-
-          *\[The above screenshot is from Peux OS Sway.]*
+          Sway is a wayland compositor based of off wlroots and comes with
+          SwayWM. Sway is a drop-in replacement for the i3 window manager for
+          X11 ( which is why I call it a port of i3WM to Wayland ). i3WM's
+          configuration is compatible with Sway 
         actions:
           - label: SourceForge
             url: lorem-ipsum
