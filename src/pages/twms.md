@@ -154,7 +154,7 @@ sections:
             icon_class: lorem-ipsum
             new_window: true
         image: images/scrot_sdorfehs-2021-10-20_000.png
-      - title: SWAY+WAYFIRE
+      - title: SWAY
         content: >
           Sway and Wayfire are the wayland compositors that comes with SwayWM
           and WayfireWM respectively. Though the WayfireWM is not a TWM, rather
