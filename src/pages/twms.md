@@ -156,10 +156,10 @@ sections:
         image: images/scrot_sdorfehs-2021-10-20_000.png
       - title: SWAY
         content: >
-          Sway is a wayland compositor based of off wlroots and comes with
-          SwayWM. Sway is a drop-in replacement for the i3 window manager for
-          X11 ( which is why I call it a port of i3WM to Wayland ). i3WM's
-          configuration is compatible with Sway 
+          Sway is a wayland compositor based on wlroots and comes with SwayWM.
+          Sway is a drop-in replacement for the i3 window manager for X11 (
+          which is why I call it a port of i3WM to Wayland ). i3WM's
+          configuration is compatible with Sway
         actions:
           - label: SourceForge
             url: lorem-ipsum
