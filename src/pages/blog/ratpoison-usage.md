@@ -10,23 +10,25 @@ The way to use Ratpoison is very simple, it uses EMACS notations for keyboard co
 
 For example, to list the available keybindings, use 'Super_L', wait for the pointer to change to a box, then press '?'. You will get to see the list of available keybindings.
 
-The keybinds that you'd specify using 'definekey' in your ~/.ratpoisonrc file, would not appear in the keybinding listings. To understand this, you'd need to understand the term 'KEY MAP'. 
+The keybinds that you'd specify using 'definekey' in your ~/.ratpoisonrc file, would not appear in the keybinding listings. To understand this, you'd need to understand the term 'KEY MAP'.
 
-When you press the modifier ( also known as escape-key ), you are accessing the 'root' keymap where all the commands are reserved by default. The 'Super_L ?' help list shows you the 'root' keymap entries. 
+When you press the modifier ( also known as escape-key ), you are accessing the 'root' keymap where all the commands are reserved by default. The 'Super_L ?' help list shows you the 'root' keymap entries.
 
-However, there is another keymap entry, the top level keymap known as 'top'. When you'd use 'definekey' and attach the bindings to the 'top' keymap, it can be used without using the modifier/escape-key.
+However, there is another keymap entry, the top level keymap known as 'top'. When you'd use 'definekey' and attach the bindings to the 'top' keymap, it can be used without using the modifier/escape-key. I usually create aliases first, which makes it easy for me to call the command by the name defined in alias.
 
 An example would be :
 
-\#create an alias to reboot
+1.  create an alias to reboot
 
-alias reb exec systemctl reboot
+        alias reb exec systemctl reboot
+
+2\. use the alias with keybinding
+
+        definekey top C-M-r reb
 
 
 
-\#use the alias with keybinding
-
-definekey top C-M-r reb
+It basically tells Ratpoison to reboot the system whenever  'Ctrl+Alt+r'  is pressed.
 
 
 
