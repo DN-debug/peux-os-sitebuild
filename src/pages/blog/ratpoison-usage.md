@@ -5,6 +5,7 @@ excerpt: >-
   This post will actually be more focused on Ratpoison. Sdorfehs, as a successor
   to Ratpoison, uses the same concept. Read to know more.
 template: post
+thumb_image: images/scrot_ratpoison-2021-10-22.png
 ---
 Ratpoison is often considered as the 'King of WMs', modeled after GNU screen. If you would like to use a window manager which is keyboard-centric and you wouldn't have to rely on the mouse, then Ratpoison is the right choice. It has no fancy decorations and its beyond minimalist approach is its greatest strength.
 
