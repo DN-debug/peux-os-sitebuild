@@ -1,5 +1,5 @@
 ---
-title: How to use Peux OS Ratpoison?
+title: How to use Peux OS Ratpoison/Sdorfehs?
 date: '2021-11-16'
 excerpt: lorem-ipsum
 template: post
