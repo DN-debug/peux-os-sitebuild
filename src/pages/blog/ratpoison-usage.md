@@ -18,7 +18,7 @@ However, there is another keymap entry, the top level keymap known as 'top'. Whe
 
 An example would be :
 
-1.  create an alias to reboot
+1.  create an alias for reboot
 
         alias reb exec systemctl reboot
 
