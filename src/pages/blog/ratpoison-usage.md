@@ -31,16 +31,12 @@ An example would be :
 
 It basically tells Ratpoison to reboot the system whenever  'Ctrl+Alt+r'  is pressed.
 
-They way to progress through the Ratpoison environment is very simple once you get to know your keys, it is very productive and minimal. Once you get the hang of it, you'd most likely going to use it for a long long time. 
+They way to progress through the Ratpoison environment is very simple once you get to know your keys, it is very productive and minimal. Once you get the hang of it, you'd most likely going to use it for a long long time.
 
-Note: Sdorfehs is a successor of Ratpoison and is very handy for those who prefers to have a status bar. Sdorfehs is compatible with Ratpoison's configuration. 
-
-
+Note: Sdorfehs is a successor of Ratpoison and is very handy for those who prefers to have a status bar. Sdorfehs is compatible with Ratpoison's configuration and all of the concepts of Ratpoison would be applicable to Sdorfehs as well.
 
 For more details on Ratpoison: [check this doc](https://www.mankier.com/1/ratpoison#Synopsis)
 
 For more details on Sdorfehs: [check this doc](https://github.com/jcs/sdorfehs)
-
-
 
 Thanks for reading!
