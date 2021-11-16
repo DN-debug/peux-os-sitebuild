@@ -10,7 +10,7 @@ The way to use Ratpoison is very simple, it uses EMACS notations for keyboard co
 
 For example, to list the available keybindings, use 'Super_L', wait for the pointer to change to a box, then press '?'. You will get to see the list of available keybindings.
 
-The keybinds that you'd specify using 'definekey' in your ~/.ratpoisonrc file, would not appear in the keybinding listings. To understand this, you'd need to understand the term 'KEY MAP'.
+The keybinds that you'd specify using 'definekey' in your ~/.ratpoisonrc file, would not appear in the keybinding listings. To understand this, you'd need to understand the term 'keymap'.
 
 When you press the modifier ( also known as escape-key ), you are accessing the 'root' keymap where all the commands are reserved by default. The 'Super_L ?' help list shows you the 'root' keymap entries.
 
@@ -27,3 +27,17 @@ An example would be :
        definekey top C-M-r reb
 
 It basically tells Ratpoison to reboot the system whenever  'Ctrl+Alt+r'  is pressed.
+
+They way to progress through the Ratpoison environment is very simple once you get to know your keys, it is very productive and minimal. Once you get the hang of it, you'd most likely going to use it for a long long time. 
+
+Note: Sdorfehs is a successor of Ratpoison and is very handy for those who prefers to have a status bar. Sdorfehs is compatible with Ratpoison's configuration. 
+
+
+
+For more details on Ratpoison: [check this doc](https://www.mankier.com/1/ratpoison#Synopsis)
+
+For more details on Sdorfehs: [check this doc](https://github.com/jcs/sdorfehs)
+
+
+
+Thanks for reading!
