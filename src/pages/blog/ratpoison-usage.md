@@ -24,11 +24,6 @@ An example would be :
 
 2\. use the alias with keybinding
 
-        definekey top C-M-r reb
-
-
+       definekey top C-M-r reb
 
 It basically tells Ratpoison to reboot the system whenever  'Ctrl+Alt+r'  is pressed.
-
-
-
