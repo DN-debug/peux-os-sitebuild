@@ -1,7 +1,9 @@
 ---
 title: How to use Peux OS Ratpoison/Sdorfehs?
 date: '2021-11-16'
-excerpt: lorem-ipsum
+excerpt: >-
+  This post will actually be more focused on Ratpoison. Sdorfehs, as a successor
+  to Ratpoison, uses the same concept. Read to know more.
 template: post
 ---
 Ratpoison is often considered as the 'King of WMs', modeled after GNU screen. If you would like to use a window manager which is keyboard-centric and you wouldn't have to rely on the mouse, then Ratpoison is the right choice. It has no fancy decorations and its beyond minimalist approach is its greatest strength.
