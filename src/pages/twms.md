@@ -121,7 +121,7 @@ sections:
             style: button
             new_window: true
           - label: FOSSTorrents
-            url: x
+            url: 'https://fosstorrents.com/distributions/peux-os/'
             style: button
             new_window: true
           - label: OSDN
