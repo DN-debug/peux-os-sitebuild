@@ -139,7 +139,7 @@ sections:
           who prefer Ratpoison, would easily fall in love with Starfish.
         actions:
           - label: SourceForge
-            url: lorem-ipsum
+            url: 'https://sourceforge.net/projects/peux-os/files/TWM/sdorfehs/'
             style: button
             icon_class: lorem-ipsum
             new_window: true
