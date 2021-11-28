@@ -125,7 +125,7 @@ sections:
             style: button
             new_window: true
           - label: OSDN
-            url: x
+            url: 'https://osdn.net/projects/peux-os/storage/TWM/ratpoison'
             style: button
             icon_class: lorem-ipsum
             new_window: true
