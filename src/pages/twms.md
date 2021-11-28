@@ -144,7 +144,7 @@ sections:
             icon_class: lorem-ipsum
             new_window: true
           - label: FOSSTorrents
-            url: lorem-ipsum
+            url: 'https://fosstorrents.com/distributions/peux-os/'
             style: button
             icon_class: lorem-ipsum
             new_window: true
