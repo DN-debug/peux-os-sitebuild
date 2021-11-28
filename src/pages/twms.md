@@ -117,7 +117,7 @@ sections:
           by the GNU Screen terminal multiplexer.
         actions:
           - label: SourceForge
-            url: lorem-ipsum
+            url: 'https://sourceforge.net/projects/peux-os/files/TWM/ratpoison/'
             style: button
             new_window: true
           - label: FOSSTorrents
