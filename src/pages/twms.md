@@ -166,11 +166,6 @@ sections:
             style: button
             icon_class: lorem-ipsum
             new_window: true
-          - label: FOSSTorrents
-            url: lorem-ipsum
-            style: button
-            icon_class: lorem-ipsum
-            new_window: true
           - label: OSDN
             url: lorem-ipsum
             style: button
