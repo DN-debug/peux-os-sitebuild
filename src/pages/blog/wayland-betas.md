@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Upcoming Beta ISOs -- Wayland
 subtitle: lorem-ipsum
 date: '2021-11-29'
 excerpt: lorem-ipsum
