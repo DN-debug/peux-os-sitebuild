@@ -174,7 +174,7 @@ sections:
       - title: 'WAYFIRE [BETA]'
         actions:
           - label: SourceForge
-            url: lorem-ipsum
+            url: x
             style: link
             icon_class: lorem-ipsum
             new_window: false
