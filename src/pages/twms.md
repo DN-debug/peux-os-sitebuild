@@ -172,7 +172,12 @@ sections:
             new_window: true
         image: images/istockphoto-1181378326-612x612.jpg
       - title: 'WAYFIRE [BETA]'
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            icon_class: lorem-ipsum
+            new_window: false
     type: section_grid
 template: advanced
 ---
