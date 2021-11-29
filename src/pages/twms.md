@@ -190,6 +190,7 @@ sections:
           Wayfire is another Wayland Compositor that is based on wlroots and
           comes with WayfireWM. The 3D floating compositor has some great
           Unity-like effects, it is both lightweight and customizable. 
+        image: images/wayfire_easyL.png
     type: section_grid
 template: advanced
 ---
