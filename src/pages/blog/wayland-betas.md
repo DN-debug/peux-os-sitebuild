@@ -1,7 +1,7 @@
 ---
 title: Upcoming Beta ISOs -- Wayland Compositors
 date: '2021-11-29'
-excerpt: lorem-ipsum
+excerpt: 'I would be releasing some '
 template: post
 ---
 Hi All,
