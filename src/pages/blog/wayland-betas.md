@@ -1,7 +1,7 @@
 ---
 title: Upcoming Beta ISOs -- Wayland Compositors
 date: '2021-11-29'
-excerpt: 'I would be releasing some '
+excerpt: 'I would be releasing some Wayland '
 template: post
 ---
 Hi All,
