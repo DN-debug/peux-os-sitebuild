@@ -21,7 +21,7 @@ sections:
       to uncover the loopholes within the app.
 
 
-      \[ Since we do not have a decent amount of crowd to test this app, this is
+      \[ Since we do not have a decent number of crowd to test this app, this is
       currently in **unmaintained** status ]
     actions:
       - label: .appimage
