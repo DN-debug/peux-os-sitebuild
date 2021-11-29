@@ -3,7 +3,6 @@ title: Upcoming Beta ISOs -- Wayland Compositors
 date: '2021-11-29'
 excerpt: 'I would be releasing some ISOs related to Wayland, read to know more!'
 template: post
-image: images/query.jpg
 ---
 Hi All,
 
