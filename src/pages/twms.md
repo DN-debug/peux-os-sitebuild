@@ -179,7 +179,7 @@ sections:
             new_window: true
           - label: OSDN
             url: lorem-ipsum
-            style: link
+            style: button
             icon_class: lorem-ipsum
             new_window: false
     type: section_grid
