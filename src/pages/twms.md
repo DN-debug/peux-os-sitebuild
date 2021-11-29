@@ -173,7 +173,7 @@ sections:
         image: images/istockphoto-1181378326-612x612.jpg
       - title: 'WAYFIRE [BETA]'
         actions:
-          - label: lorem-ipsum
+          - label: SourceForge
             url: lorem-ipsum
             style: link
             icon_class: lorem-ipsum
