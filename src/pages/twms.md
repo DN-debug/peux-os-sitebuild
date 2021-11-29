@@ -154,7 +154,7 @@ sections:
             icon_class: lorem-ipsum
             new_window: true
         image: images/scrot_sdorfehs-2021-10-20_000.png
-      - title: SWAY
+      - title: 'SWAY [BETA]'
         content: >
           Sway is a wayland compositor based on wlroots and comes with SwayWM.
           Sway is a drop-in replacement for the i3 window manager for X11.
