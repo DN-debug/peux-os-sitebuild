@@ -180,7 +180,6 @@ sections:
           - label: OSDN
             url: lorem-ipsum
             style: button
-            icon_class: lorem-ipsum
             new_window: false
     type: section_grid
 template: advanced
