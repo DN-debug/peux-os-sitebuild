@@ -11,10 +11,7 @@ sections:
       not only fetch the configurations but also to read the code on Github as
       it is all public. In the upcoming releases, it'd be pre-installed, those
       who are in the previous builds can download the package in any of the
-      below formats \[ we have Debian format as well because few might want to
-      fetch the configurations on Debian systems as well, and I see no harm in
-      keeping an additional format. However, the configurations that require
-      installation of components would not work on the Debian systems ].
+      below formats.
 
 
       Note: This is the first version of Peux Fetcher, released as a beta to
@@ -22,6 +19,10 @@ sections:
       stable and ready to use. Even we have not discovered any weirdness in the
       application, but over time, only after extensive usage, we would be able
       to uncover the loopholes within the app.
+
+
+      \[ Since we do not have a decent amount of crowd to test this app, this is
+      currently in **unmaintained** status ]
     actions:
       - label: .appimage
         url: >-
