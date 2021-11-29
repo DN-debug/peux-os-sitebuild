@@ -176,7 +176,7 @@ sections:
           - label: SourceForge
             url: x
             style: button
-            new_window: false
+            new_window: true
           - label: lorem-ipsum
             url: lorem-ipsum
             style: link
