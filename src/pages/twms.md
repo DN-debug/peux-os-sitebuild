@@ -175,7 +175,7 @@ sections:
         actions:
           - label: SourceForge
             url: x
-            style: link
+            style: button
             icon_class: lorem-ipsum
             new_window: false
           - label: lorem-ipsum
