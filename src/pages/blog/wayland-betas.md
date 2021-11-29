@@ -4,12 +4,18 @@ date: '2021-11-29'
 excerpt: lorem-ipsum
 template: post
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
-        
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+Hi All,
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+I am planning to release some of the Wayland Compositor ISOs. Even though the ISOs are **Stable**, I am still releasing them under **Beta** tag. I am still part of the crowd that heavily believes Wayland to be overestimated and that it still needs a lot of work. However, the progress has been great over the last couple of years.The sole reason behind releasing these as Beta is due to the belief mentioned above and I am sure that on most machines it may cause problems. 
+
+Please also note that I am deciding not to put the Beta versions on FOSSTorrents, as it'd be easy for me to take down the ISOs or upload a new one to test whenever I wish to, once the stability is confirmed, the stable ones would be available on FOSSTorrents. The maintainer does a lot of work which is house related, his own job while maintaining the FOSSTorrents site, which is why I don't want to bother him with back to back beta-releases.
+
+Any inputs/feedback/adjustments/advices related to Beta are warmly welcomed. Let me know via Discord/Telegram/SourceForge, you may also drop a message to me on Twitter, if you wish to. 
+
+
+
+Have a great day!
+
+Dev
