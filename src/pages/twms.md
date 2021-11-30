@@ -174,7 +174,7 @@ sections:
       - title: 'WAYFIRE [BETA]'
         actions:
           - label: SourceForge
-            url: x
+            url: 'https://sourceforge.net/projects/peux-os/files/WAYFIRE/'
             style: button
             new_window: true
           - label: OSDN
