@@ -178,7 +178,7 @@ sections:
             style: button
             new_window: true
           - label: OSDN
-            url: lorem-ipsum
+            url: 'https://osdn.net/projects/peux-os/storage/KDE/'
             style: button
             new_window: true
         content: >
