@@ -178,7 +178,7 @@ sections:
             style: button
             new_window: true
           - label: OSDN
-            url: 'https://osdn.net/projects/peux-os/storage/KDE/'
+            url: 'https://osdn.net/projects/peux-os/storage/WAYFIRE/'
             style: button
             new_window: true
         content: >
