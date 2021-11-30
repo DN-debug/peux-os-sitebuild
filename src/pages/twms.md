@@ -161,7 +161,7 @@ sections:
           i3WM's configuration is compatible with Sway.
         actions:
           - label: SourceForge
-            url: lorem-ipsum
+            url: 'https://sourceforge.net/projects/peux-os/files/TWM/swaywm/'
             style: button
             icon_class: lorem-ipsum
             new_window: true
