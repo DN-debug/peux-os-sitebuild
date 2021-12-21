@@ -7,7 +7,7 @@ excerpt: >-
 template: post
 thumb_image: images/error.png
 ---
-Peux OS River utilizes Waybar's git version, which depends on 'jsoncpp'. Recent update has induced a newer version of jsoncpp that breaks the library dependency of waybar-git package. You'd see the below error:
+Peux OS River utilizes Waybar's git version, which has a dependency on 'jsoncpp'. Recent update has induced a newer version of jsoncpp that breaks the library dependency of waybar-git package. You'd see the below error:
 
 > error: failed to prepare transaction (could not satisfy dependencies)
 > :: installing jsoncpp (1.9.5-1) breaks dependency 'libjsoncpp.so=24-64' required by waybar-git
