@@ -194,7 +194,7 @@ sections:
         actions:
           - label: SourceForge
             url: 'https://sourceforge.net/projects/peux-os/files/TWM/river/'
-            style: link
+            style: button
             icon_class: lorem-ipsum
             new_window: false
           - label: lorem-ipsum
