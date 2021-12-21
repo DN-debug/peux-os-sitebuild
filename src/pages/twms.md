@@ -198,7 +198,7 @@ sections:
             icon_class: lorem-ipsum
             new_window: true
           - label: OSDN
-            url: lorem-ipsum
+            url: 'https://osdn.net/projects/peux-os/storage/TWM/river/'
             style: link
             icon_class: lorem-ipsum
             new_window: false
