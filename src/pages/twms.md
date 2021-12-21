@@ -201,7 +201,7 @@ sections:
             url: 'https://osdn.net/projects/peux-os/storage/TWM/river/'
             style: button
             icon_class: lorem-ipsum
-            new_window: false
+            new_window: true
         image: images/postRiver.png
     type: section_grid
 template: advanced
