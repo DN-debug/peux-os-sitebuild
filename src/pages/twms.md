@@ -221,6 +221,7 @@ sections:
           diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis
           justo.
         actions: []
+        image: images/postRiver.png
     type: section_grid
 template: advanced
 ---
