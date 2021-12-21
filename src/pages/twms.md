@@ -192,7 +192,7 @@ sections:
           is simple, supports scriptable configuration and is currently one of
           the fastest growing tiling Wayland compositor based on wlroots.
         actions:
-          - label: lorem-ipsum
+          - label: SourceForge
             url: lorem-ipsum
             style: link
             icon_class: lorem-ipsum
