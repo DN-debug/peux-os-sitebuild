@@ -186,7 +186,7 @@ sections:
           comes with WayfireWM. The 3D floating compositor has some great
           Unity-like effects, it is both lightweight and customizable. 
         image: images/wayfire_easyL.png
-      - title: lorem-ipsum
+      - title: 'RIVER [BETA]'
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
           efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor
