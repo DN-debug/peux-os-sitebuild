@@ -191,7 +191,12 @@ sections:
           River is a dynamic tiling Wayland compositor, written 90% in Zig. It
           is simple, supports scriptable configuration and is currently one of
           the fastest growing tiling Wayland compositor based on wlroots.
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            icon_class: lorem-ipsum
+            new_window: false
         image: images/postRiver.png
     type: section_grid
 template: advanced
