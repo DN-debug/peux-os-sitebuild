@@ -9,7 +9,7 @@ sections:
       ![](/images/violet-lime.png)
     actions: []
     type: section_content
-    title: I3WM
+    title: I3WM/SwayWM
   - content: >
       The below keybindings are only specific to BSPWM.  Only important
       keybindings are included, few of the keybindings would require you to
