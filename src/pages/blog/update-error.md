@@ -5,6 +5,7 @@ excerpt: >-
   Recent jsoncpp dependency update has induced waybar-git build failure. Check
   this post to resolve the issue.
 template: post
+thumb_image: images/error.png
 ---
 Peux OS River utilizes Waybar's git version, which depends on 'jsoncpp'. Recent update has induced a newer version of jsoncpp that breaks the library dependency of waybar-git package. You'd see the below error:
 
