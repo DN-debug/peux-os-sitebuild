@@ -6,6 +6,9 @@ sections:
       keybindings i.e for launching applications or menus are not included here.
 
 
+      Note: SwayWM uses similar bindings.
+
+
       ![](/images/violet-lime.png)
     actions: []
     type: section_content
