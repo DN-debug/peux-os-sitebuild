@@ -1,5 +1,5 @@
 ---
-title: Update Error on Beta releases
+title: Update Error on River Beta ISO
 subtitle: lorem-ipsum
 date: '2021-12-21'
 excerpt: lorem-ipsum
