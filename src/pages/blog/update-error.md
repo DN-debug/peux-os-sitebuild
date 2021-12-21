@@ -27,7 +27,11 @@ Once done, install the waybar-git package using:
 
 > yay -Sy waybar-git
 
-This should solve the issue completely, restart if needed. 
+This should solve the issue completely, restart if needed.
+
+Note: The Beta ISO is missing grimshot from its packages, you may install 'grimshot' package from AUR using :
+
+> yay -Sy grimshot
 
 
 
