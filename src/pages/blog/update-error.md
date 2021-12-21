@@ -1,5 +1,5 @@
 ---
-title: Update Error on River Beta ISO
+title: Update Error on Peux OS River
 date: '2021-12-21'
 excerpt: >-
   Recent jsoncpp dependency update has induced waybar-git build failure. Check
