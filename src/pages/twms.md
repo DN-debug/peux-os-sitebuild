@@ -193,7 +193,7 @@ sections:
           the fastest growing tiling Wayland compositor based on wlroots.
         actions:
           - label: SourceForge
-            url: lorem-ipsum2
+            url: 'https://sourceforge.net/projects/peux-os/files/TWM/river/'
             style: link
             icon_class: lorem-ipsum
             new_window: false
