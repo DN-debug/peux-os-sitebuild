@@ -197,6 +197,11 @@ sections:
             style: link
             icon_class: lorem-ipsum
             new_window: false
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            icon_class: lorem-ipsum
+            new_window: false
         image: images/postRiver.png
     type: section_grid
 template: advanced
