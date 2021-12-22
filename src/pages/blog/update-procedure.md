@@ -6,12 +6,12 @@ excerpt: >-
   arch-based systems, such as Peux
 template: post
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
-        
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+ This post is solely for pure arch-based systems such as Peux OS itself, that does not ship custom mirrorlist. When these pure arch-based systems are outdated the system upgrade process would become a little hectic for people who don't know what to do next, for example, if you use any old Peux OS ISO then after installing the system it'll fail to update/upgrade the system packages. 
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+The reason is simple, Arch routinely updates its mirrorlist and keyrings, which when encounters the unmatched and outdated keyring or mirror-list, fails to pull the database information into the system. It'll try to update the pgp key value during the upgrade process but would most likely fail. 
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+The below steps would help you upgrade the outdated systems smoothly:
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+1.  Go to [Pacman Mirrorlist Generator](https://archlinux.org/mirrorlist/) website and select the country of your choice then generate the mirrorlist.
+
+2.  Launch the terminal, then open the '**/etc/pacman.d/mirrorlist**' file with root privileges in the text editor of your choice. For example, if I want to use leafpad, I'd type: "**sudo leafpad /etc/pacman.d/mirrorlist**" or "**kate /etc/pacman.d/mirrorlist**".
