@@ -1,7 +1,7 @@
 ---
 title: How to update the outdated pure arch based systems?
 date: '2021-12-22'
-excerpt: 'This post will '
+excerpt: 'This post will provide step by step update procedure '
 template: post
 ---
 Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
