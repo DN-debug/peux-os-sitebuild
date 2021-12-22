@@ -14,6 +14,13 @@ The below steps would help you upgrade the outdated systems smoothly:
 
 1.  Go to [Pacman Mirrorlist Generator](https://archlinux.org/mirrorlist/) website and select the country of your choice then generate the mirrorlist.
 
-2.  Launch the terminal, then open the '**/etc/pacman.d/mirrorlist**' file with root privileges in the text editor of your choice. For example, if I want to use leafpad, I'd type: "**sudo leafpad /etc/pacman.d/mirrorlist**" or "**kate /etc/pacman.d/mirrorlist**".
+2.  Launch the terminal, then open the '**/etc/pacman.d/mirrorlist**' file with root privileges in the text editor of your choice. For example, if I want to use leafpad, I'd type: "**sudo leafpad /etc/pacman.d/mirrorlist**" or to use kate, I'd type "**kate /etc/pacman.d/mirrorlist**". 
 
 3.  Remove the contents of the **mirrorlist** file and paste the newly generated mirrorlist from Step 1 into this file. Remove the hashes "#" in front of the lines that says "**Server**". Save and exit.
+
+4.  Now in the terminal, we will update the database and install the package "archlinux-keyring" using the command : "**sudo pacman -Sy archlinux-keyring**".
+
+5.  Once done, populate the keys using the command : "**sudo pacman-key --populate archlinux**", followed by "**sudo pacman -Syy**".
+
+6.  Now you should be good to go, run "**sudo pacman -Syu**" to upgrade the system.
+
