@@ -17,6 +17,8 @@ Also during the update of 'River' package from AUR, you'd get the error saying "
 To resolve these issues, first uninstall waybar-git and remove river.desktop file using :
 
 > yay -Rddns waybar-git
+>
+>
 > sudo rm -rf /usr/share/wayland-sessions/river.desktop
 
 Then update your system, that'd include the River package as well:
