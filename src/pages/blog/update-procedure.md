@@ -3,7 +3,7 @@ title: How to update the outdated pure arch-based systems?
 date: '2021-12-22'
 excerpt: >-
   This post will provide step by step update procedure for the outdated pure
-  arch-based systems, such as Peux.
+  arch-based systems.
 template: post
 thumb_image: >-
   images/0x80070643-error-what-is-it-featured-1cdf279cb61f4ecc8240364b7b8cdbd1.jpg
