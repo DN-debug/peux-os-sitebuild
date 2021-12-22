@@ -26,6 +26,6 @@ The below steps would help you upgrade the outdated systems smoothly:
 
 6.  Now you should be good to go, run "**sudo pacman -Syu**" to upgrade the system.
 
-If above steps doesn't work out for you, then you may reach out to me using the means listed in the '[Connect](https://peux-os.netlify.app/#con)' tab in the top right corner.
+If above steps doesn't work out for you, then you may reach out to me using the means listed in the '[Connect](https://peux-os.netlify.app/#con)' section.
 
 Thanks!
