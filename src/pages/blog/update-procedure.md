@@ -23,3 +23,11 @@ The below steps would help you upgrade the outdated systems smoothly:
 5.  Once done, populate the keys using the command : "**sudo pacman-key --populate archlinux**", followed by "**sudo pacman -Syy**".
 
 6.  Now you should be good to go, run "**sudo pacman -Syu**" to upgrade the system.
+
+
+
+If above steps doesn't work out for you, then you may reach out to me using the means listed in the '[Connect](https://peux-os.netlify.app/#con)' tab in the top right corner. 
+
+
+
+Thanks!
