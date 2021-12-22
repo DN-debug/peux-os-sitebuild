@@ -1,6 +1,5 @@
 ---
 title: Update the outdated pure arch systems
-subtitle: lorem-ipsum
 date: '2021-12-22'
 excerpt: lorem-ipsum
 template: post
