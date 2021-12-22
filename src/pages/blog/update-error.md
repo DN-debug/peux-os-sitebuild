@@ -10,6 +10,8 @@ thumb_image: images/error.png
 Peux OS River utilizes Waybar's git version, which has a dependency on 'jsoncpp'. Recent update has induced a newer version of jsoncpp that breaks the library dependency of waybar-git package. You'd see the below error:
 
 > error: failed to prepare transaction (could not satisfy dependencies)
+>
+>
 > :: installing jsoncpp (1.9.5-1) breaks dependency 'libjsoncpp.so=24-64' required by waybar-git
 
 Also during the update of 'River' package from AUR, you'd get the error saying "river.desktop already exists in the filesystem".
@@ -17,7 +19,6 @@ Also during the update of 'River' package from AUR, you'd get the error saying "
 To resolve these issues, first uninstall waybar-git and remove river.desktop file using :
 
 > yay -Rddns waybar-git
->
 >
 > sudo rm -rf /usr/share/wayland-sessions/river.desktop
 
