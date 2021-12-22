@@ -8,7 +8,7 @@ template: post
 thumb_image: >-
   images/0x80070643-error-what-is-it-featured-1cdf279cb61f4ecc8240364b7b8cdbd1.jpg
 ---
-This post is solely for pure arch-based systems such as Peux OS itself, that does not ship custom mirrorlist. When these pure arch-based systems are outdated the system upgrade process would become a little hectic for people who don't know what to do next, for example, if you use any old Peux OS ISO then after installing the system it'll fail to update/upgrade the system packages.
+This post is solely for pure arch-based systems such as Peux OS itself, that does not ship the custom mirrorlists. When these pure arch-based systems are outdated the system upgrade process would become a little hectic for people who don't know what to do next, for example, if you use any old Peux OS ISO then after installing the system it'll fail to update/upgrade the system packages.
 
 The reason is simple, Arch routinely updates its mirrorlist and keyrings, which when encounters the unmatched and outdated keyring or mirror-list, fails to pull the database information into the system. It'll try to update the pgp key value during the upgrade process but would most likely fail.
 
@@ -26,10 +26,6 @@ The below steps would help you upgrade the outdated systems smoothly:
 
 6.  Now you should be good to go, run "**sudo pacman -Syu**" to upgrade the system.
 
-
-
-If above steps doesn't work out for you, then you may reach out to me using the means listed in the '[Connect](https://peux-os.netlify.app/#con)' tab in the top right corner. 
-
-
+If above steps doesn't work out for you, then you may reach out to me using the means listed in the '[Connect](https://peux-os.netlify.app/#con)' tab in the top right corner.
 
 Thanks!
