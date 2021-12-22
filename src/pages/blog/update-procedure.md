@@ -5,6 +5,8 @@ excerpt: >-
   This post will provide step by step update procedure on outdated pure
   arch-based systems, such as Peux
 template: post
+thumb_image: >-
+  images/0x80070643-error-what-is-it-featured-1cdf279cb61f4ecc8240364b7b8cdbd1.jpg
 ---
 This post is solely for pure arch-based systems such as Peux OS itself, that does not ship custom mirrorlist. When these pure arch-based systems are outdated the system upgrade process would become a little hectic for people who don't know what to do next, for example, if you use any old Peux OS ISO then after installing the system it'll fail to update/upgrade the system packages.
 
