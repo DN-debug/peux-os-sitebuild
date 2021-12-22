@@ -1,5 +1,5 @@
 ---
-title: How to update the outdated pure arch based systems?
+title: How to update the outdated pure arch-based systems?
 date: '2021-12-22'
 excerpt: >-
   This post will provide step by step update procedure on outdated pure
