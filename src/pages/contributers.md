@@ -8,7 +8,7 @@ Below is the list of contributors:
 
 > **WALL OF FAME**
 >
-> ***\[Given to Patrons/BuyMeACoffee/PayPal supporters for their contribution to FOSS Donations]***
+> ***\[Given to Patrons/BuyMeACoffee/PayPal supporters for their contribution to Peux OS]***
 
 *   Modo -- My first patron and the person who initially saw the "sincerity and uniqueness" in this project.
 *   Kevin E -- My first supporter on BMC and the person who made me realize that digital coffee is actually a "thing".
