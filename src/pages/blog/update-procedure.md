@@ -8,7 +8,7 @@ template: post
 thumb_image: >-
   images/0x80070643-error-what-is-it-featured-1cdf279cb61f4ecc8240364b7b8cdbd1.jpg
 ---
-This post is solely for pure arch-based systems such as Peux OS itself, that does not ship the custom mirror-list. When these pure arch-based systems are outdated the system upgrade process would become a little hectic for people who don't know what to do next, for example, if you use any old Peux OS ISO then after installing the system it'll fail to update/upgrade the system packages.
+This post is solely for pure arch-based systems such as Peux OS itself, that does not ship the custom mirror-list. When these pure arch-based systems are outdated the system upgrade process would become a little hectic for people who don't know what to do next, for example, if you use any couple of months ol Peux OS ISO then after installing the system, you most likely won't be able to update/upgrade the system.
 
 The reason is simple, Arch routinely updates its mirror-list and keyrings, which when encounters the unmatched and outdated keyring or mirror-list in the system \[ that doesn't match with the one in the 'Servers'], fails to pull the database information into the system. At some point it might even  try to update the pgp key value during the upgrade process but would most likely fail.
 
