@@ -57,7 +57,7 @@ sections:
             url: >-
               https://osdn.net/projects/peux-os/storage/TWM/bspwm/peux_os_bspwm-stable_21.05-x86_64.iso
         type: grid_item
-        image: images/bsp3.png
+        image: images/bsp1.png
       - title: XMONAD
         content: >
           Xmonad is not just another tiling window manager, it stands out
