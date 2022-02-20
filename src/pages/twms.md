@@ -82,7 +82,7 @@ sections:
             url: >-
               https://osdn.net/projects/peux-os/storage/TWM/xmonad/peux_os_xmonad-stable_21.05-x86_64.iso
         type: grid_item
-        image: images/xm1.png
+        image: images/xm2.png
       - content: >
           Often called " *the tiling window manager for adventurers* ", is
           written in Rust and aims to be stable and performant. It follows the
