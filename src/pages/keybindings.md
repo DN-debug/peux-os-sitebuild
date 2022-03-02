@@ -53,7 +53,6 @@ sections:
 
       ![](/images/sk4.png)
   - title: Ratpoison
-    section_id: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
