@@ -52,7 +52,7 @@ sections:
 
 
       ![](/images/sk4.png)
-  - title: Ratpoison
+  - title: Ratpoison/Sdorfehs
     actions: []
     type: section_content
     content: >
