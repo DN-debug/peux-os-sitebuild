@@ -52,7 +52,7 @@ sections:
 
 
       ![](/images/sk4.png)
-  - title: lorem-ipsum
+  - title: Ratpoison
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
