@@ -62,25 +62,16 @@ sections:
       listed here.
 
 
-
-
       **Ratpoison:**
-
-
 
 
       ![](images/ratP-kb-a6cadf23.png)
 
 
-
-
       **Sdorfehs:**
 
 
-      ****
-
-
-      ****![](images/star-keyb.png)
+      ![](images/star-keyb.png)
 template: advanced
 title: Keybindings
 ---
