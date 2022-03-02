@@ -55,7 +55,6 @@ sections:
   - title: Ratpoison
     actions: []
     type: section_content
-    image: images/ratP-kb.png
 template: advanced
 title: Keybindings
 ---
