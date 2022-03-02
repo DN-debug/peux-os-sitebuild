@@ -55,6 +55,32 @@ sections:
   - title: Ratpoison
     actions: []
     type: section_content
+    content: >
+      The below keybindings are only specific to Ratpoison and Sdorfehs. Only
+      the important keybindings are included. The very first keybinding listed
+      "SuperL/WinKey > ?" will list the system-wide keybindings, hence are not
+      listed here.
+
+
+
+
+      **Ratpoison:**
+
+
+
+
+      ![](images/ratP-kb-a6cadf23.png)
+
+
+
+
+      **Sdorfehs:**
+
+
+      ****
+
+
+      ****![](images/star-keyb.png)
 template: advanced
 title: Keybindings
 ---
