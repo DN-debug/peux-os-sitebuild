@@ -88,6 +88,7 @@ sections:
       dui. Integer vel convallis justo.
     actions: []
     type: section_content
+    image: images/ratP-kb.png
 template: advanced
 title: Keybindings
 ---
