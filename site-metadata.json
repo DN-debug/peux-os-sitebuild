@@ -71,7 +71,7 @@
                 "new_window": true
             },
             {
-                "label": "| Release-Notes",
+                "label": "|  Release-Notes",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
