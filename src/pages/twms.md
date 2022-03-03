@@ -153,7 +153,7 @@ sections:
             style: button
             icon_class: lorem-ipsum
             new_window: true
-        image: images/scrot_sdorfehs-2021-10-20_000.png
+        image: images/sdor1.png
       - title: 'SWAY [BETA]'
         content: >
           Sway is a wayland compositor based on wlroots and comes with SwayWM.
