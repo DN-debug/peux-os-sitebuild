@@ -69,13 +69,6 @@
                 "url": "https://fosstorrents.com/",
                 "style": "button",
                 "new_window": true
-            },
-            {
-                "label": "|  Release-Notes",
-                "url": "lorem-ipsum",
-                "style": "button",
-                "icon_class": "lorem-ipsum",
-                "new_window": false
             }
         ],
         "has_social": true,
