@@ -3,6 +3,7 @@ title: Installer fails -- swap issue
 date: '2022-03-03'
 excerpt: Learn about the alternative solution to the "swap with hibernate" issue.
 template: post
+thumb_image: images/swap.png
 ---
 This has been a known issue for sometime and I didn't get time to address this properly. So what is the issue that I'm talking about?
 
