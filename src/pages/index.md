@@ -61,6 +61,7 @@ sections:
 
 
 
+      Release notes can be found here >>
       [release-notes](https://sourceforge.net/p/peux-os/discussion/release_notes/)
     actions:
       - label: FOSSTorrents
