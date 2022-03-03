@@ -1,7 +1,7 @@
 ---
 title: Installer fails -- swap issue
 date: '2022-03-03'
-excerpt: lorem-ipsum
+excerpt: 'Learn about the alternative '
 template: post
 ---
 This has been a known issue for sometime and I didn't get time to address this properly. So what is the issue that I'm talking about?
