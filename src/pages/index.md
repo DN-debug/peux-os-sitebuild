@@ -20,11 +20,11 @@ sections:
     is_numbered: false
     grid_items:
       - title: Customized Environment
-        content: >+
+        content: >
           POS uses customized XFCE as its default-version. BTRFS is the default
-          filesystem with autosnap enabled. It uses Polybar as its default
-          panel. Aiming to have a minimal desktop and yet beautiful.
-
+          filesystem with autosnap enabled. It is the first distro to use
+          Polybar as its default panel. Aiming to have a minimal desktop and yet
+          beautiful.
       - title: Beautiful yet Secure
         content: >
           POS doesn't only look good. It is tied with apps that will help you
