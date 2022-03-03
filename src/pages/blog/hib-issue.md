@@ -4,12 +4,23 @@ date: '2022-03-03'
 excerpt: lorem-ipsum
 template: post
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+This has been a known issue for sometime and I didn't get time to address this properly. So what is the issue that I'm talking about?
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+Brief:
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+During the installation, when "swap with hibernate" option is selected, the installer fails to complete the installation, only a handful of such cases are known to me atm. 
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+I am currently not aware of the cause behind this, it could very well be a "Calamares" issue, or could be some "dependency" issue, as there's no configuration changes done yet hence can't call it a configuration issue either, but I am not sure at this point as I didn't test it.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Solution ( alternative ):
+
+There are two alternatives to this problem, that too, if you really want to use hibernation:
+
+1.  Use "swap to file" 
+
+2.  Manual partition with swap enabled.
+
+Hope that works.
+
+Cheers!
+
