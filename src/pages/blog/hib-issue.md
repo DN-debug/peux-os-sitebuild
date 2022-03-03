@@ -1,5 +1,5 @@
 ---
-title: Installer fails -- swap
+title: Installer fails -- swap issue
 date: '2022-03-03'
 excerpt: lorem-ipsum
 template: post
