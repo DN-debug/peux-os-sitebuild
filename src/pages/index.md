@@ -57,6 +57,11 @@ sections:
       SourceForge. The focus is to keep it minimal rather than lightweight. You
       can download Peux OS from any of the below available sites. This project
       will improve with time.\*\*
+
+
+
+
+      [release-notes](https://sourceforge.net/p/peux-os/discussion/release_notes/)
     actions:
       - label: FOSSTorrents
         url: 'https://fosstorrents.com/distributions/peux-os/'
