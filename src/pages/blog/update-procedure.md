@@ -26,6 +26,8 @@ The below steps would help you upgrade the outdated systems smoothly:
 
 6.  Now you should be good to go, run "**sudo pacman -Syu**" to upgrade the system.
 
+***You may also start directly at Step 4, sometimes it is not necessary to update the mirrorlist at all. ***
+
 If above steps doesn't work out for you, then you may reach out to me using the means listed in the '[Connect](https://peux-os.netlify.app/#con)' section.
 
 Thanks!
