@@ -53,8 +53,7 @@ sections:
             icon_class: lorem-ipsum
             new_window: true
             type: action
-            url: >-
-              https://osdn.net/projects/peux-os/storage/TWM/bspwm/peux_os_bspwm-stable_21.05-x86_64.iso
+            url: 'https://osdn.net/projects/peux-os/storage/TWM/bspwm/'
         type: grid_item
         image: images/bsp1.png
       - title: XMONAD
