@@ -77,8 +77,7 @@ sections:
             icon_class: lorem-ipsum
             new_window: true
             type: action
-            url: >-
-              https://osdn.net/projects/peux-os/storage/TWM/xmonad/peux_os_xmonad-stable_21.05-x86_64.iso
+            url: 'https://osdn.net/projects/peux-os/storage/TWM/xmonad/'
         type: grid_item
         image: images/xm2.png
       - content: >
