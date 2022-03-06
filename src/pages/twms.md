@@ -198,7 +198,7 @@ sections:
             style: button
             icon_class: lorem-ipsum
             new_window: true
-        image: images/postRiver.png
+        image: images/riv1.png
     type: section_grid
 template: advanced
 ---
