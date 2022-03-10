@@ -72,7 +72,7 @@ sections:
 
 
       ![](images/star-keyb.png)
-  - title: lorem-ipsum
+  - title: RIVERWM
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
