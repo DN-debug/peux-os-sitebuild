@@ -73,7 +73,6 @@ sections:
 
       ![](images/star-keyb.png)
   - title: RIVERWM
-    section_id: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
       Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
