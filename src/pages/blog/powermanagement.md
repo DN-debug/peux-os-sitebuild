@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: How to enable power-management on TWMs?
 subtitle: lorem-ipsum
 date: '2022-03-11'
 excerpt: lorem-ipsum
