@@ -2,7 +2,7 @@
 title: How to enable power-management on WMs?
 date: '2022-03-11'
 template: post
-excerpt: 'Learn how to enable lxqt-powermangement '
+excerpt: Learn how to enable lxqt-powermangement on WMs
 ---
 Power-management is a big factor in long run, if you are running an operating system on a battery-based device. Window managers doesn't have the capabilty to manage power or monitor your device's battery on its own. 
 
