@@ -4,12 +4,19 @@ date: '2022-03-11'
 excerpt: lorem-ipsum
 template: post
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+Power-management is a big factor in long run, if you are running an operating system on a battery-based device. Window managers doesn't have the capabilty to manage power or monitor your device's battery on its own. 
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+In the previous version of WMs, 'cbatticon' was present to monitor the device's battery, however I find 'lxqt-powermanagement' to be more handy because it doesn't only provides a batter-watcher but also provides idle-watcher and lid-watcher, which is very handy, especially in the case of laptops.
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+By default, none of this is active, which makes sense, since not every device is going to be a laptop or battery-based device. In order to run this, follow the below mentioned steps:
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+1.  Run "power-management" from app-launcher or the equivalent command "lxqt-config-powermanagement" from the terminal.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+2.  Enable the functions that you'd like to have and then close the window.
+
+3.  Add "lxqt-powermanagement" as a startup process to the configuration file of whatever WM that you are running. That's it.
+
+4.  Reload the WM or restart the session for it to take effect. 
+
+ It runs as a daemon and will send the relative desktop notifications based on the events that it receives from monitoring.
+
