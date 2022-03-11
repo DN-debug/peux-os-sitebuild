@@ -1,6 +1,5 @@
 ---
 title: How to enable power-management on WMs?
-subtitle: lorem-ipsum
 date: '2022-03-11'
 excerpt: lorem-ipsum
 template: post
