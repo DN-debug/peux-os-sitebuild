@@ -181,7 +181,7 @@ sections:
           Wayfire is another Wayland Compositor that is based on wlroots and
           comes with WayfireWM. The 3D floating compositor has some great
           Unity-like effects, it is both lightweight and customizable. 
-        image: images/way2.png
+        image: images/way3.png
       - title: 'RIVER [BETA]'
         content: >
           River is a dynamic tiling Wayland compositor, written 90% in Zig. It
