@@ -166,7 +166,7 @@ sections:
             style: button
             icon_class: lorem-ipsum
             new_window: true
-        image: images/swayPost.png
+        image: images/sway3.png
       - title: 'WAYFIRE [BETA]'
         actions:
           - label: SourceForge
