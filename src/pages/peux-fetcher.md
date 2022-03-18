@@ -1,7 +1,6 @@
 ---
 title: Peux OS Dotfiles
 hide_title: false
-excerpt: tiling-window-managers
 sections:
   - content: >
       Peux Fetcher serves the purpose of the Peux OS mantra, i.e stick with
