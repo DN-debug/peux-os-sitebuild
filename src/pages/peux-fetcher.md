@@ -1,5 +1,5 @@
 ---
-title: Peux Fetcher
+title: Peux OS Dotfiles
 hide_title: false
 excerpt: tiling-window-managers
 sections:
