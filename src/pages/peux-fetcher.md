@@ -12,6 +12,12 @@ sections:
       directly.
 
 
+      Please note that in some cases, these could contain uncleaned
+      configurations as well { mostly true for BETA releases, since I have not
+      included all the features yet }. Still feel free to make/open
+      Suggestions/PRs directly from the respective repository.
+
+
       \[ Since we do not have a decent number of crowd to test 'Peux Fetcher'
       app, it is currently in **unmaintained** status ]
     actions:
