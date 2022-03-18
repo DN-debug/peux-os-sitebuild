@@ -162,7 +162,6 @@ sections:
     type: section_content
     subtitle: Not-a-necessity
   - title: Gallery
-    subtitle: lorem-ipsum
     col_number: three
     is_numbered: false
     grid_items: []
