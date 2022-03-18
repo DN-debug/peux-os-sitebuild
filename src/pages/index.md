@@ -161,12 +161,5 @@ sections:
         type: action
     type: section_content
     subtitle: Not-a-necessity
-  - title: Gallery
-    col_number: three
-    is_numbered: false
-    grid_items:
-      - title: lorem-ipsum
-        actions: []
-    type: section_grid
 template: advanced
 ---
