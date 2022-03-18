@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - content: >
       For anyone, who would like to use the configuration used in Peux OS, feel
-      free to clone/fork/download the contents from the common repository :
+      free to clone/fork/download the contents from this common location :
       [peux-dotfiles](https://github.com/peux-os-sic)
 
 
