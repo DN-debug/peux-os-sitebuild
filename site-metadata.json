@@ -44,7 +44,7 @@
                 "url": "/contributers/"
             },
             {
-                "label": "Peux Fetcher",
+                "label": "Dotfiles",
                 "url": "/peux-fetcher",
                 "style": "link",
                 "new_window": false,
