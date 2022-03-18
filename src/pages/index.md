@@ -161,7 +161,7 @@ sections:
         type: action
     type: section_content
     subtitle: Not-a-necessity
-  - title: lorem-ipsum
+  - title: Gallery
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
