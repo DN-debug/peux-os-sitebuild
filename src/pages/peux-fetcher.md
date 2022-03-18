@@ -8,7 +8,7 @@ sections:
       [peux-dotfiles](https://github.com/peux-os-sic)
 
 
-      Those who have Peux Fetcher installed (depicted in the image above), can
+      Those who have Peux Fetcher installed (depicted in the above image), can
       pull the configuration directly.
 
 
