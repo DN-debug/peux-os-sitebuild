@@ -16,6 +16,7 @@ Below is the list of contributors:
 *   Chase M -- My second Paypal donation came from Chase, who appreciated Peux OS for its immense customization.
 *   Marcos D -- My third PayPal donation came from Marcos, who appreciated the work done on Peux OS.
 *   Giuseppe C -- Pretty much a new user of Linux but he does have the urge to learn more. He donated to appreciate the help I did on few things to get him started.
+*   Stephen Ireland -- Your donation means a lot. I appreciate your help, thank you.
 
 > ***PILLARS***
 >
