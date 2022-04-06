@@ -35,6 +35,8 @@ Below is the list of contributors:
 *   9to5Linux -- A YouTube channel that posts videos related to Linux Distributions. I'm glad that they decided to include Peux OS videos in their channel.
 *   Distro Tips -- A YouTube channel that posts videos related to Software Tips and Solutions. I'm glad that they decided to feature Peux OS in their channel.
 *   Apk Heaven -- A YouTube channel that posts videos related to tutorials and guides on computer hardware and software. I'm glad that they decided to feature Peux OS in their channel.
+*   TechSolvePrac -- A YouTube channel that demonstrates practical solutions related to System Administration, Software Development and Office Productivity Tools. I'm glad that they decided to feature Peux OS in their channel.
+*   Adarsh -- A school kid with passion towards learning technologies and developing. His bit of contribution is included in the RiverWM config.
 
 This list will grow eventually as the number of contributors would rise. I'd give myself some credit as well for changing it from a hobby project to a partial-hobby project ( I'm nothing but generous :D )
 
