@@ -33,6 +33,8 @@ Below is the list of contributors:
 *   りなぶ linux party -- A Japanese Youtuber. He's not that famous, but he has covered all of the Peux OS versions that I have published so far. I don't really get to spend much time on YouTube videos, however, I came to know about him from one of the Discord members. I do hope that he will get some more subscribers on his channel.
 *   Darahaas -- Late addition to the list, but you guys would probably see the Peux Fetcher application developed by him, with some support and contribution from me, to serve the purpose of Peux configurations' distribution.
 *   9to5Linux -- A YouTube channel that posts videos related to Linux Distributions. I'm glad that they decided to include Peux OS videos in their channel.
+*   Distro Tips -- A YouTube channel that posts videos related to Software Tips and Solutions. I'm glad that they decided to feature Peux OS in their channel.
+*   Apk Heaven -- A YouTube channel that posts videos related to tutorials and guides on computer hardware and software. I'm glad that they decided to feature Peux OS in their channel.
 
 This list will grow eventually as the number of contributors would rise. I'd give myself some credit as well for changing it from a hobby project to a partial-hobby project ( I'm nothing but generous :D )
 
