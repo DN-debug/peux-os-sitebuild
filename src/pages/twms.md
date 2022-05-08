@@ -150,7 +150,7 @@ sections:
             icon_class: lorem-ipsum
             new_window: true
         image: images/sdor1.png
-      - title: 'SWAY [BETA]'
+      - title: 'SWAY'
         content: >
           Sway is a wayland compositor based on wlroots and comes with SwayWM.
           Sway is a drop-in replacement for the i3 window manager for X11.
@@ -182,7 +182,7 @@ sections:
           comes with WayfireWM. The 3D floating compositor has some great
           Unity-like effects, it is both lightweight and customizable. 
         image: images/way3.png
-      - title: 'RIVER [BETA]'
+      - title: 'RIVER'
         content: >
           River is a dynamic tiling Wayland compositor, written 90% in Zig. It
           is simple, supports scriptable configuration and is currently one of
