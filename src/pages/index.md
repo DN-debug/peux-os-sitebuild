@@ -39,9 +39,8 @@ sections:
           that may vary from one desktop flavor to the other.
   - content: >
       ***Peux OS*** comes with four different desktop flavors: XFCE, LXQt,
-      Gnome, and KDE. XFCE is the flagship. Out of these four versions: KDE,
-      LXQt, and XFCE are the highly configured ones. Gnome has been included
-      because of its minimalism and stability.
+      and KDE. XFCE is the flagship. Out of these four versions: KDE,
+      LXQt, and XFCE are the highly configured ones.
 
 
       Please note that if you are using UnetBootin/Etcher, then the boot process
