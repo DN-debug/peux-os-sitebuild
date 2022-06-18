@@ -161,6 +161,11 @@ sections:
             style: button
             icon_class: lorem-ipsum
             new_window: true
+          - label: FOSSTorrents
+            url: 'https://fosstorrents.com/distributions/peux-os/'
+            style: button
+            icon_class: lorem-ipsum
+            new_window: true
           - label: OSDN
             url: 'https://osdn.net/projects/peux-os/storage/TWM/sway/'
             style: button
@@ -190,6 +195,11 @@ sections:
         actions:
           - label: SourceForge
             url: 'https://sourceforge.net/projects/peux-os/files/TWM/river/'
+            style: button
+            icon_class: lorem-ipsum
+            new_window: true
+          - label: FOSSTorrents
+            url: 'https://fosstorrents.com/distributions/peux-os/'
             style: button
             icon_class: lorem-ipsum
             new_window: true
